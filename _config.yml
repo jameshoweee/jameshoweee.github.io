@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Dr. James Howe
+tagline:             'Cryptographic Engineer'
+description:         'Personal home pages'
+url:                 http://jameshowe.eu
+#http://lanyon.getpoole.com
+baseurl:             ''
+#paginate:            
+#no
+
+# About/contact
+author:
+  name:              James Howe
+  email:             jameshoweee@gmail.com
+
+# Custom vars
+#version:             1.0.0
