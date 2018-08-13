@@ -17,6 +17,8 @@ See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&
 
 *	Howe, J., Rafferty, C., Khalid, A. and O'Neill, M., 2017, May. [*"Compact and provably secure lattice-based signatures in hardware"*](https://ieeexplore.ieee.org/abstract/document/8050566/). In Circuits and Systems (ISCAS), 2017 IEEE International Symposium on (pp. 1-4). IEEE.
 
+*	Howe, J., 2017, August. [*"Practical Lattice-Based Cryptography in Hardware"*](files/thesis.pdf). PhD thesis at the School of Electronics, Electrical Engineering, and Computer Science, Queen’s University Belfast.
+
 *	Howe, J., Khalid, A., Rafferty, C., Regazzoni, F. and O'Neill, M., 2016. [*"On practical discrete Gaussian samplers for lattice-based cryptography"*](https://ieeexplore.ieee.org/abstract/document/7792671/). IEEE Transactions on Computers.
 
 *	Khalid, A., Howe, J., Rafferty, C. and O'Neill, M., 2016, December. [*"Time-independent discrete Gaussian sampling for post-quantum cryptography"*](https://ieeexplore.ieee.org/abstract/document/7929543/). In Field-Programmable Technology (FPT), 2016 International Conference on (pp. 241-244). IEEE.
