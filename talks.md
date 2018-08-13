@@ -8,7 +8,7 @@ A list of presentations or talks I've given:
 
 *	Howe, J., Oder, T., Krausz, M., and Güneysu, T., 2018, September. [*"Standard Lattice-Based Key Encapsulation on Embedded Devices"*](https://eprint.iacr.org/2018/686). IACR Transactions on Cryptographic Hardware and Embedded Systems, Volume 2018.
 
-*	28 May 2018. *"Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography"* ([presentation])(https://player.vimeo.com/video/272220291). 2018 IEEE International Symposium on Circuits and Systems (ISCAS).
+*	28 May 2018. *"Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography"* [presentation](https://player.vimeo.com/video/272220291). 2018 IEEE International Symposium on Circuits and Systems (ISCAS).
 
 *	Howe, J. and O’Neill, M., 2017, July. [*"GLITCH: A Discrete Gaussian Testing Suite For Lattice-Based Cryptography"*](https://eprint.iacr.org/2017/438). In Proceedings of the 14th International Joint Conference on e-Business and Telecommunications (ICETE 2017): SECRYPT, Madrid, Spain.
 
