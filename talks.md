@@ -6,7 +6,9 @@ permalink: /talks/
 
 A list of presentations or talks I've given:
 
-*	Howe, J., Oder, T., Krausz, M., and Güneysu, T., 2018, September. [*"Standard Lattice-Based Key Encapsulation on Embedded Devices"*](https://eprint.iacr.org/2018/686). IACR Transactions on Cryptographic Hardware and Embedded Systems, Volume 2018.
+* 24 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"*([Invited talk]()). Lattice Coding & Crypto Meeting.
+
+*	11 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"*([Presentation]()). IACR Transactions on Cryptographic Hardware and Embedded Systems 2018.
 
 *	28 May 2018. *"Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography"* ([Presentation](https://player.vimeo.com/video/272220291)). 2018 IEEE International Symposium on Circuits and Systems (ISCAS).
 
