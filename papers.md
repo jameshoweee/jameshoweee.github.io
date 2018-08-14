@@ -7,7 +7,7 @@ permalink: /publications/
 ## Thesis
 *	Howe, J., 2017, August. [*"Practical Lattice-Based Cryptography in Hardware"*](files/thesis.pdf). PhD thesis at the School of Electronics, Electrical Engineering, and Computer Science, Queen’s University Belfast.
 
-## Publications
+## Journals and Conference Papers
 This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
