@@ -8,3 +8,4 @@ permalink: /contact/
 * Academic email: **[james.howe@bristol.ac.uk](mailto:james.howe@bristol.ac.uk)**.
 * Twitter: **[@jameshowe1729](https://twitter.com/JamesHowe1729)**.
 * Instagram: **[@jamesvhowe](https://www.instagram.com/jamesvhowe/)**.
+* GitHub: **[jameshoweee](https://github.com/jameshoweee)**.
