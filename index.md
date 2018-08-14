@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img align="right" src="files/fullsizeoutput_1fe1.jpeg" alt="drawing" style="width:215px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" src="files/fullsizeoutput_1fe1.jpeg" alt="drawing" style="width:215px;"/>
 
 ## Professional 
 
