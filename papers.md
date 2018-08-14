@@ -4,13 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-This may not be a comprehensive list.
-See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
-
 ## Thesis
 *	Howe, J., 2017, August. [*"Practical Lattice-Based Cryptography in Hardware"*](files/thesis.pdf). PhD thesis at the School of Electronics, Electrical Engineering, and Computer Science, Queen’s University Belfast.
 
 ## Publications
+This may not be a comprehensive list.
+See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2018
 *	Howe, J., Oder, T., Krausz, M., and Güneysu, T., 2018, September. [*"Standard Lattice-Based Key Encapsulation on Embedded Devices"*](https://eprint.iacr.org/2018/686). IACR Transactions on Cryptographic Hardware and Embedded Systems, Volume 2018.
