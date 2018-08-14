@@ -6,5 +6,5 @@ permalink: /contact/
 
 * Email: **jameshoweee@gmail.com**.
 * Academic email: **james.howe@bristol.ac.uk**.
-* Twitter: **[@JamesHowe1729](https://twitter.com/JamesHowe1729)**.
-* Instagram: **[@JamesVHowe](https://www.instagram.com/jamesvhowe/)**.
+* Twitter: **[@jameshowe1729](https://twitter.com/JamesHowe1729)**.
+* Instagram: **[@jamesvhowe](https://www.instagram.com/jamesvhowe/)**.
