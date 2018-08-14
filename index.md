@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![Image of me](https://octodex.github.com/images/yaktocat.png)
+
 ## Professional 
 
 I'm a cryptographer, with a focus on practical implementations and cryptanalysis. 
