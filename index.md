@@ -14,9 +14,3 @@ Since November 2017 I have been employed at the University of Bristol in the [SC
 
 The focus of my research is mainly based around post-quantum cryptography, specifically lattice-based cryptography, and investigating them with respect to optimised hardware designs, optimised software designs, and side-channel attacks and countermeasures.
 
-## Research Visits and Internships
-
-* August 2015. Thales UK, Research and Technology, Reading, UK.
-
-* May 2015. Horst Görtz Institute for IT-Security, Ruhr-University Bochum, Germany.
-
