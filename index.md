@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Image of me](files/IMG_9022.JPG)
+<img style="float: right;" src="files/IMG_9022.jpg">
 
 ## Professional 
 
