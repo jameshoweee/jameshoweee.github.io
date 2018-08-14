@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img style="float: right;" src="IMG_9022.jpg">
+<img align="right" src="files/fullsizeoutput_1fe1.jpeg">
 
 ## Professional 
 
