@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Image of me](https://octodex.github.com/images/yaktocat.png)
+![Image of me](files/IMG_9022.JPG)
 
 ## Professional 
 
