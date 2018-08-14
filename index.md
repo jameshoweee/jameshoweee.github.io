@@ -5,7 +5,7 @@ title: Home
 
 ## Professional 
 
-I'm a cryptographer, with a focus on practical hardware designs, software designs, and side-channel analysis. 
+I'm a cryptographer, with a focus on practical implementations and cryptanalysis. 
 You can find a link to my publications on [Google Scholar](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en).
 
 Since November 2017 I have been employed at the University of Bristol in the [SCA / Crypto group](http://www.bristol-sca.com). Past research positions and education history can be found on my [CV](files/CV.pdf).
