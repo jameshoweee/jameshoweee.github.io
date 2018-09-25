@@ -6,7 +6,7 @@ permalink: /talks/
 
 A list of presentations or talks I've given:
 
-* 24 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"* [[Slides]()]. Invited talk at [Lattice Coding & Crypto Meeting](http://malb.io/discrete-subgroup/2018/09/24/lattice-meeting/).
+* 24 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"* [[Slides](files/londonlattice.pdf)]. Invited talk at [Lattice Coding & Crypto Meeting](http://malb.io/discrete-subgroup/2018/09/24/lattice-meeting/).
 
 *	11 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"* [[Presentation]()]. IACR Transactions on Cryptographic Hardware and Embedded Systems 2018.
 
