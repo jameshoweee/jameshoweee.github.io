@@ -12,7 +12,7 @@ This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2018
-*	Howe, J., Oder, T., Krausz, M., and Güneysu, T., 2018, September. [*"Standard Lattice-Based Key Encapsulation on Embedded Devices"*](https://tches.iacr.org/index.php/TCHES/article/view/7279). IACR Transactions on Cryptographic Hardware and Embedded Systems, Volume 2018.
+*	Howe, J., Oder, T., Krausz, M., and Güneysu, T., 2018, September. [*"Standard Lattice-Based Key Encapsulation on Embedded Devices"*](https://tches.iacr.org/index.php/TCHES/article/view/7279). IACR Transactions on Cryptographic Hardware and Embedded Systems, 2018(3), pp.372-393.
 
 *	Khalid, A., Howe, J., Rafferty, C., Regazzoni, F. and O'Neill, M., 2018, May. [*"Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography"*](https://eprint.iacr.org/2018/265). In Circuits and Systems (ISCAS), 2018 IEEE International Symposium on (pp. 1-5). IEEE.
 
