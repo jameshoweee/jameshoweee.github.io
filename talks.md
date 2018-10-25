@@ -8,7 +8,7 @@ A list of presentations or talks I've given:
 
 * 24 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"* [[Slides](files/londonlattice2018.pdf)]. Invited talk at [Lattice Coding & Crypto Meeting](http://malb.io/discrete-subgroup/2018/09/24/lattice-meeting/).
 
-*	11 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"* [[Slides](files/tches.pdf)]. IACR Transactions on Cryptographic Hardware and Embedded Systems 2018.
+*	11 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"* [[Presentation](https://www.youtube.com/watch?v=zAfPwuBKixk)][[Slides](files/tches.pdf)]. IACR Transactions on Cryptographic Hardware and Embedded Systems 2018.
 
 *	28 May 2018. *"Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography"* [[Presentation](https://player.vimeo.com/video/272220291)][[Slides](files/iscas2018.pdf)]. IEEE International Symposium on Circuits and Systems (ISCAS) 2018.
 
