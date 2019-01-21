@@ -1,110 +1,121 @@
 \documentclass[10pt,a4paper]{moderncv}
 
 \usepackage{fullpage}
+\usepackage{url}
 \moderncvstyle{classic}
 \moderncvcolor{green}
-\usepackage[margin=0.85in]{geometry}
+\usepackage[margin=0.55in]{geometry}
 %\usepackage[scale=0.75]{geometry}
 \recomputelengths                             % required when changes are made to page layout lengths
 
 \firstname{James}
 \familyname{Howe}
 \title{Curriculum Vitae}                           % optional, remove / comment the line if not wanted
-\address{Department of Computer Science,}{University of Bristol,}{Bristol, BT8 1UB, UK}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\address{Department of Computer Science,}{Merchant Venturers Building, Woodland Road,}{BS8 1UB, Bristol, UK.}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
 %\mobile{+447817479003}                          % optional
 %\phone{+2~(345)~678~901}                           % optional
 %\fax{+3~(456)~789~012}                             % optional
 \email{james.howe@bristol.ac.uk}                           % optional
 \homepage{www.jameshowe.eu}                         % optional
 %\extrainfo{additional information}                 % optional
-
-\photo[64pt][0.4pt]{fullsizeoutput_1fe1.jpeg}              % optional
-
+\photo[75pt][0.4pt]{me.jpg}              % optional
 %\quote{Some quote}                                 % optional
 
 \usepackage{lipsum}
 
 \begin{document}
-\vspace*{-2\baselineskip}
+\vspace*{-2
+\baselineskip}
 \makecvtitle
 \vspace{-1.5\baselineskip}
 
 \section{\textbf{Education}}
-\cventry{2013--}{\textbf{PhD Computer Science}}{Queen's University}{Belfast}{}{Currently researching post-quantum cryptography in collaboration with Thales UK and SAFEcrypto. The research mainly focuses on secure and practical lattice-based cryptography, implementing in hardware and software. Supervised by Professor M\'{a}ire O'Neill.}  % arguments 3 to 6 can be left empty
+\cventry{2013--2017}{\textbf{PhD Computer Science}}{Queen's University}{Belfast}{}{In collaboration with Thales UK and SAFEcrypto, the PhD thesis focused on post-quantum cryptography. The research concentrated on \emph{practical lattice-based cryptography}, with designs in hardware and software, supervised by Professor M\'{a}ire O'Neill.}  % arguments 3 to 6 can be left empty
 \cventry{2011--2012}{\textbf{MSc Mathematics of Cryptography \& Communications}}{{\newline}Royal Holloway, University of London}{Surrey}{}{Thesis titled `The Cryptanalysis of Block Ciphers' obtained distinction, supervised by Professor Sean Murphy. Modules focused on pure mathematics, cryptography, and coding theory.}  % arguments 3 to 6 can be left empty
 \cventry{2008--2011}{\textbf{BSc (Hons) Mathematics}}{University of Greenwich}{London}{}{Obtaining a first class degree. Thesis concentrated on the theory and practicality of modern cryptography. Modules focused on applied mathematics, probability, and statistics.}  % arguments 3 to 6 can be left empty
 
 \section{\textbf{Work Experience}}
-\cventry{2017--}{\textbf{Researcher}}{University of Bristol}{Bristol}{}{Supervised by Elisabeth Oswald, researching software and hardware optimised designs, as well as side-channel analysis, of post-quantum cryptography. Includes some teaching responsibilities.}  % arguments 3 to 6 can be left empty
-\cventry{2013--2017}{\textbf{Teaching Assistant}}{Queen's University}{Belfast}{}{Demonstrating in mathematics and cryptography lectures at Queen's University.}  % arguments 3 to 6 can be left empty
+\cventry{2017--Present}{\textbf{Research Associate}}{University of Bristol}{Bristol}{}{Researching a number of areas within software and hardware lattice-based cryptographic designs. Mainly analysing schemes with respect to side-channels and optimising schemes for hardware designs.}
+\cventry{2016--2017}{\textbf{Research Fellow}}{Queen's University}{Belfast}{}{Researching hardware designs of lattice-based cryptoschemes with SAFEcrypto at CSIT.}
+\cventry{2015}{\textbf{Internship}}{Thales Research and Technology}{Reading}{}{Researching hardware designs of lattice-based cryptoschemes with SAFEcrypto at CSIT.}
+\cventry{2015}{\textbf{Research Visit}}{Ruhr-Universit\"{a}t}{Bochum}{}{Researching hardware designs of lattice-based cryptoschemes with SAFEcrypto at CSIT.}
+\cventry{2013--2017}{\textbf{Teaching Assistant}}{Queen's University}{Belfast}{}{Demonstrating in mathematics and applied cryptography lectures at for EEECS master's students.}
+\cventry{2010--2011}{\textbf{Statistical Analyst}}{University of Greenwich}{London}{}{Worked with a number of major databases in the university's statistics department. Produced reports and presentations to use in meetings with the Chancellor and Vice-Chancellor. Updated statistics published on the university's website.}
 \cventry{2009--2011}{\textbf{University Ambassador}}{University of Greenwich}{London}{}{Assisted college-level mathematics classes in schools across Greater London in partnership with the university. Also worked as an employee of the university; giving talks to prospective students in schools, giving tours of the campus, and participating at open days.}  % arguments 3 to 6 can be left empty
-\cventry{2010--2011}{\textbf{Statistical Analyst}}{University of Greenwich}{London}{}{Worked with a number of major databases in the university's statistics department. Produced reports and presentations to use in meetings with the Chancellor and Vice-Chancellor. Updated statistics published on the university's website.}  % arguments 3 to 6 can be left empty
 
 \section{\textbf{Achievements}}
-\cventry{}{Publications}{}{}{}{(1) Howe, James, et al., ``Practical Lattice-based Digital Signature Schemes.'' \emph{ACM Transactions on Embedded Computing Systems (TECS)} 14.3 (2015): 41.{\newline}
-(2) Howe, James, et al., ``Lattice-based Encryption Over Standard Lattices in Hardware.'' \emph{Design Automation Conference (DAC)}, 2016.{\newline}
-(3) O'Neill, M\'{a}ire, et al., ``Secure Architectures of Future Emerging Cryptography SAFEcrypto.'' \emph{ACM International Conference on Computing Frontiers}, 2016.{\newline}
-(4) Khalid, Ayesha et al., ``Time-Independent Discrete Gaussian Sampling For Post-Quantum Cryptography.''
-\emph{Field-Programmable Technology (FPT)}, 2016.{\newline}
-(5) Howe, James, et al., ``On Practical Discrete Gaussian Samplers For Lattice-Based Cryptography.''
-\emph{IEEE Transactions on Computers}, vol. 67, no. 3, pp. 322-334, 2018.{\newline}
-(6) Howe, James, et al., ``Compact and Provably Secure Lattice-Based Signatures in Hardware.'' \emph{IEEE International Symposium on Circuits and Systems (ISCAS)}, 2017, pp. 1-4.{\newline}
-(7) Howe, James and O'Neill, M\'{a}ire ``GLITCH: A Discrete Gaussian Testing Suite For Lattice-Based
-Cryptography'' \emph{SECRYPT}, 2017.{\newline}
-(8) A. Khalid, et al., ``Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography,'' \emph{IEEE ISCAS}, 2018, pp. 1-5.{\newline}
-(9) Howe, James, et al., ``Standard Lattice-Based Key Encapsulation on Embedded Devices.'' \emph{IACR Transactions on Cryptographic Hardware and Embedded Systems}, 2018(3), 372-393.{\newline}
-(10) Ravi, Prasanna, et al., ``Side-channel Assisted Existential Forgery Attack on Dilithium - A NIST PQC candidate.'' \emph{IACR Cryptology ePrint Archive}, Report 2018/821, 2018.{\newline}
-(11+) More in submission.{\newline}
-{\newline}
-{\newline}
+\cventry{}{Conference Publications}{}{}{}{
+%(1) Howe, James, \emph{et al.} ``Practical Lattice-based Digital Signature Schemes.'' \emph{ACM Transactions on Embedded Computing Systems (TECS)} 14.3 (2015): 41.{\newline}
+(1) Howe, James, \emph{et al.} ``Lattice-based Encryption Over Standard Lattices in Hardware.'' \emph{Design Automation Conference (DAC)}, 2016.{\newline}
+(2) O'Neill, M\'{a}ire \emph{et al.} ``Secure Architectures of Future Emerging Cryptography SAFEcrypto'', \emph{ACM International Conference on Computing Frontiers}, 2016.{\newline}
+(3) Khalid, Ayesha \emph{et al.} ``Time-Independent Discrete Gaussian Sampling For Post-Quantum Cryptography.'' \emph{Field-Programmable Technology (FPT)}, 2016.{\newline}
+%(5) Howe, James, \emph{et al.} ``On Practical Discrete Gaussian Samplers For Lattice-Based Cryptography.'' \emph{IEEE Transactions on Computers}, 2016.{\newline}
+(4) Howe, James, \emph{et al.} ``Compact and Provably Secure Lattice-Based Signatures in Hardware.'' \emph{IEEE ISCAS}, 2017.{\newline}
+(5) Howe, James and O'Neill, M\'{a}ire ``GLITCH: A Discrete Gaussian Testing Suite For Lattice-Based Cryptography'' \emph{SECRYPT}, 2017.{\newline}
+(6) Khalid, Ayesha \emph{et al.} ``Compact, Scalable, and Reconfigurable Gaussian Samplers for Lattice-Based Cryptography.'' \emph{IEEE ISCAS}, 2018.{\newline}
+(7) Khalid, Ayesha \emph{et al.} ``Error Samplers for Lattice-Based Cryptography: Challenges, Vulnerabilities, and Solutions.'' \emph{IEEE APCCAS}, 2018.{\newline}
+(8) Sailong, Fan \emph{et al.} ``Lightweight Hardware Implementation of R-LWE Lattice-Based Cryptography.'' \emph{IEEE APCCAS}, 2018.{\newline}
+(9) Ravi, Prasanna \emph{et al.} ``Side-channel Assisted Existential Forgery Attack on Dilithium - A NIST PQC candidate.'' \emph{IACR Cryptology ePrint Archive, Report 2018/821}, 2018.{\newline}
+%(12) Howe, James \emph{et al.} ``Standard Lattice-Based Key Encapsulation on Embedded Devices.'' \emph{IACR Transactions on Cryptographic Hardware and Embedded Systems}, 2018. {\newline}
+(10) Howe, James \emph{et al.} ``Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography.'' \emph{IEEE ISCAS}, 2019. (Accepted) {\newline}
 }
+\cventry{}{Journal Publications}{}{}{}{
+(1) Howe, James, \emph{et al.} ``Practical Lattice-based Digital Signature Schemes.'' \emph{ACM Transactions on Embedded Computing Systems (TECS)} 14.3 (2015): 41.{\newline}
+(2) Howe, James, \emph{et al.} ``On Practical Discrete Gaussian Samplers For Lattice-Based Cryptography.'' \emph{IEEE Transactions on Computers}, 2016.{\newline}
+(3) Howe, James \emph{et al.} ``Standard Lattice-Based Key Encapsulation on Embedded Devices.'' \emph{IACR Transactions on Cryptographic Hardware and Embedded Systems}, 2018. %{\newline}
+}
+\cventry{}{Program Committees and Reviews}{}{}{}{Program committee for MAL-IoT 2019. Reviewed papers for ACM TECS, IEEE Transactions on Computers, ASIACRYPT 2018, Designs
+Codes and Cryptography, CT-RSA 2018, CARDIS 2018, SAC 2016, WAHC 2015, and Security and Communication Networks.}
+\cventry{}{Conferences}{}{}{}{Presented at T-CHES 2018, ISCAS 2017, DAC 2016, FPT 2016, and on modern cryptography at `Tomorrow's Mathematicians Today' conference in London, 2009.}
+\cventry{}{Awards}{}{}{}{Received COST Action IC1306 stipend (2014) and COST Action IC1306 STSM grant (2015).}
+\cventry{}{IT Skills}{}{}{}{Proficient in all major operating systems (OSX/Linux/Windows) as well as mathematical tools such as Mathematica, Matlab, and Minitab. Very competent with VHDL (ISE and Vivado), Python, C/C++, with some Java and HTML (see \url{www.pqczoo.com}) experience.}
 
-\cventry{}{Paper Reviews}{}{}{}{Reviewed papers for ACM TECS, IEEE Transactions on Computers, ASIACRYPT 2018, Designs Codes and Cryptography, CT-RSA 2018, CARDIS 2018, SAC 2016, WAHC 2015, and Security and Communication Networks.}
-\cventry{}{Conferences}{}{}{}{Presented at conferences T-CHES 2018, ISCAS 2018, ISCAS 2017, DAC 2016, FPT 2016, and Tomorrow's Mathematicians Today 2009.} %Presented ``Standard Lattice-Based Key Encapsulation on Embedded Devices'' at the Lattice Coding & Crypto Meeting on 24 Sept 2018
-\cventry{}{Invited talks}{}{}{}{Presented ``Standard Lattice-Based Key Encapsulation on Embedded Devices'' at the Lattice Coding \& Crypto Meeting on 24 Sept 2018.}
-\cventry{}{Awards}{}{}{}{Received COST Action IC1306 stipend (2014) \& COST Action IC1306 STSM grant (2015).}
-\cventry{}{IT Skills}{}{}{}{Proficient in all major operating systems (OSX/Linux/Windows) as well as mathematical tools such as
-Mathematica, Matlab, and Minitab. Very competent with VHDL (ISE \& Vivado), Python, C/C++, with some Java and HTML (see \url{www.pqczoo.com}) experience.}  % arguments 3 to 6 can be left empty
-%\cventry{}{Accolades}{}{}{}{University course representative at Royal Holloway and the University of Greenwich. Also treasurer and magazine editor of the mathematics society at the University of Greenwich. Awarded one of the top student workers as a university ambassador.}  % arguments 3 to 6 can be left empty
-\cventry{}{Volunteering}{}{}{}{Working with the World Book Night charity since 2011. Tour guide at Bletchley Park, a museum for the national codes centre during WW2, in 2009. Mentor to first year undergraduates whilst at the University of Greenwich.}
-%\cventry{}{Languages}{}{}{}{Native English speaker. Basic/Intermediate proficiency in German and basic knowledge of French.}
-%\cventry{}{Hobbies}{}{}{}{Tennis, guitar, reading and cycling.}  % arguments 3 to 6 can be left empty
+\section{\textbf{Research Statement}} 
 
 \vspace{0.25cm}
 
-\section{\textbf{Research Statement}}
+My research aims to bring principles and techniques from post-quantum cryptography, specifically lattice-based cryptography, to the design and implementation of secure and correct systems. To this end, I became an expert in the theory of lattice-based cryptography during my first year of PhD studies, the survey of which resulted in a journal paper. Using this knowledge as a basis significantly helped in understanding the motivations and design rationales of these lattice-based cryptographic scheme. Most of the remaining research during my thesis then followed from this which focused on designing architectures using optimisations which target specific devices such as FPGAs. My education up to this point focussed on applied mathematics (during my bachelor's degree) and cryptography and pure mathematics (during my master's degree), so I am very familiar with the mathematical side of cryptography.
 
-My research aims to bring principles and techniques from lattice-based cryptography to the design and implementation
-of secure and correct systems. To this end, I became an expert in the theory of lattice-based cryptography, and then
-designed architectures using optimisations which target specific devices such as FPGAs. In the past, I have studied
-applied mathematics during my bachelor's degree and pure mathematics during my master's degree, so I am very
-familiar with the mathematical side of cryptography. I am now looking to use my expertise to make cryptography
-(ideally, lattice-based cryptography) more practical, to be used in real-world applications, for the benefit of secure
-communications.\vspace{0.5cm}
+%{\newline}{\newline} %I am now looking to use my expertise to make cryptography (ideally, lattice-based cryptography) more practical, to be used in real-world applications, for the benefit of secure communications. {\newline}{\newline}
+
+\vspace{0.25cm}
+
+I completed a research visit in 2015 at Ruhr-Universit\"{a}t, Bochum, with Thomas P\"{o}ppelmann and Tim G\"{u}neysu, funded by COST. For this research we investigated new techniques for the (essential) discrete Gaussian sampling component, as well as techniques to check the samplers' validity and correct functionality. This collaboration also resulted in a joint journal publication on lattice-based digital signature schemes. 
+
+\vspace{0.25cm}
+
+I also completed an internship with Thales Research and Technology in 2015 with Adrian Waller. During this internship, I targeted a highly secure lattice-based cryptographic scheme: standard LWE encryption. It was previously believed that this scheme, in fact any \emph{standard} lattice-based scheme, would perform badly in hardware. The hardware designs I proposed in fact competed with the corresponding encryption scheme over ideal lattices, with a slight increase in hardware resource consumption. This has been further improved after publication for inclusion in my PhD thesis, in which the design consumes less area. 
+
+\vspace{0.25cm}
+
+As a PhD student and Research Assistant, I also work with SAFEcrypto (\url{http://www.safecrypto.eu}), which has ties with a number of European research centres. The main outputs of this collaboration was a comprehensive evaluation of discrete Gaussian samplers in hardware and a low-area hardware design of Ring-TESLA, an ideal lattice-based signature scheme. The discrete Gaussian samplers proposed bettered all previous work in hardware, as well as offering constant run-time, which is preferable due to side-channel analysis. The hardware designs of Ring-TESLA provide generic hardware architectures, which allows ease of use with a number of different parameter sets. This hardware architecture has the potential for high throughput with a fast NTT multiplier. %I believe these types of collaborations will continue if I was selected to research at your prestigious university.
+
+\vspace{0.25cm}
+
+In 2017, I joined the side-channel and cryptography group at the University of Bristol, supervised by Elisabeth Oswald. Here I learnt a lot about side-channel analysis, a new field I am very interested in researching, particularly with respect to lattice-based cryptography. We have collaborated on many side-channel related projects, mainly focussed on novel countermeasures, plus I continue to collaborate with other research centres in ALaRI Institute, Switzerland, and Temasek Laboratories, Singapore. During my research at Bristol I also continued to research hardware and software designs. A recent publication investigated a potential NIST key encapsulation post-quantum standard, named FrodoKEM, which I presented at T-CHES in collaboration with researchers at Ruhr-Universit\"{a}t, Bochum.
+
+\vspace{0.25cm}
+
+%I am keen to make submissions to NIST this year for their call for \emph{quantum-resistant cryptographic algorithms for new public-key crypto standards} (http://csrc.nist.gov/groups/ST/post-quantum-crypto/documents/pqcrypto-2016-presentation.pdf) and I have a number of ideas for this. I am also interested on how post-quantum cryptography integrates into practical situations, such as into TLS. {\newline}{\newline}
 
 
-I completed a research visit in 2015 at Ruhr-Universit\"{a}t Bochum with Thomas P\"{o}ppelmann and Tim G\"{u}neysu, funded by COST. For
-this research we investigated new techniques for the discrete Gaussian sampling component, as well as techniques to
-check the samplers validity and correct functionality. This collaboration also resulted in a joint journal publication on
-lattice-based digital signature schemes.\vspace{0.5cm}
+If you require a reference, please contact Professor M\'{a}ire O'Neill (\url{m.oneill@ecit.qub.ac.uk}) and/or Dr. Francesco Regazzoni (\url{regazzoni@alari.ch}). %\newline
 
-I also completed an internship with Thales Research and Technology in 2015 with Adrian Waller. During this
-internship, I targeted a highly secure lattice-based cryptoscheme: standard LWE encryption. It was previously believed
-that this scheme, in fact any standard lattice-based scheme, would perform badly in hardware. The hardware designs
-I proposed in fact competed with the corresponding encryption scheme over ideal lattices, with a slight increase in
-hardware resource consumption. This has been further improved after publication for inclusion in my PhD thesis, in
-which the design consumes less area.\vspace{0.5cm}
+%\begin{itemize}
+%\item Prof. Maire O'Neill: \url{m.oneill@ecit.qub.ac.uk}
 
-As a PhD student and Research Assistant, I also work with SAFEcrypto (\url{http://www.safecrypto.eu}), which has ties
-with a number of European research centres. The main outputs of this collaboration was a comprehensive evaluation
-of discrete Gaussian samplers in hardware and a low-area hardware design of Ring-TESLA, an ideal lattice-based
-signature scheme. The discrete Gaussian samplers proposed outperformed all previous work in hardware, as well as offering
-constant run-time which is preferable due to side-channel analysis. The hardware designs of Ring-TESLA provide
-generic hardware architectures, which allows ease of use with a number of different parameter sets. This hardware
-architecture has the potential for high throughput with a fast NTT multiplier.\vspace{0.5cm}
+%\item Dr. Francesco Regazzoni: \url{regazzoni@alari.ch}
 
-I then joined the side-channel and cryptography group at the University of Bristol, supervised by Elisabeth Oswald. Here I learnt a lot about side-channel analysis, a new field I am very interested in researching, particularly with respect to lattice-based cryptography. During this time I also researched hardware and software designs for a potential NIST key encapsulation post-quantum standard, which I presented at T-CHES.\vspace{0.5cm}
+%\item Prof. Tim Gueneysu: \url{tim.gueneysu@uni-bremen.de}
+%\end{itemize}
 
-For references, please contact: Prof. Maire O'Neill (\url{m.oneill@ecit.qub.ac.uk}) or Dr. Francesco Regazzoni (\url{regazzoni@alari.ch}).
+%
+%\newpage
+%\section{\textbf{University Transcripts}}
+
+%\includegraphics[page=1,width=0.5\textwidth]{uni_trans}
+%\includegraphics[page=2,width=0.5\textwidth]{uni_trans}
+%\includegraphics[page=3,width=0.5\textwidth]{uni_trans}
+%\includegraphics[page=4,width=0.5\textwidth]{uni_trans}
 
 \end{document} 
