@@ -12,7 +12,7 @@ This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2019
-Howe, J., Khalid, A., Martinoli, M., Regazzoni, F., and Oswald, E., 2019, May. [*"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"*](https://eprint.iacr.org/2019/206). In 2019 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE.
+* Howe, J., Khalid, A., Martinoli, M., Regazzoni, F., and Oswald, E., 2019, May. [*"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"*](https://eprint.iacr.org/2019/206). In 2019 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE.
 
 ### 2018
 *	Howe, J., Oder, T., Krausz, M., and Güneysu, T., 2018, September. [*"Standard Lattice-Based Key Encapsulation on Embedded Devices"*](https://tches.iacr.org/index.php/TCHES/article/view/7279). IACR Transactions on Cryptographic Hardware and Embedded Systems, 2018(3), pp.372-393.
