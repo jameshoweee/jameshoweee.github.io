@@ -14,5 +14,5 @@ Since November 2017 I have been employed at the University of Bristol in the [SC
 
 ## Research Interests
 
-The focus of my research is mainly based around post-quantum cryptography, in particular lattice-based cryptography, and investigating them with respect to optimised hardware designs, optimised software designs, and side-channel attacks and countermeasures.
+The focus of my research is mainly based around post-quantum cryptography, in particular lattice-based cryptography, and investigating them with respect to optimised hardware designs, software designs, side-channel attacks, fault attacks, and countermeasures.
 
