@@ -8,6 +8,8 @@ A list of presentations or talks I've given:
 
 * 29 May 2019. *"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"* [[Poster](files/ISCAS2019_poster.pdf)]. IEEE International Symposium on Circuits and Systems (ISCAS) 2019.
 
+* 2 May 2019. *"A Brief Introduction to Lattice-Based Cryptography in Hardware"* [[Slides](files/nist.pdf)]. Invited talk at NIST Post-Quantum Cryptography Hardware Day 2019.
+
 * 24 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"* [[Slides](files/londonlattice2018.pdf)]. Invited talk at [Lattice Coding & Crypto Meeting](http://malb.io/discrete-subgroup/2018/09/24/lattice-meeting/).
 
 *	11 September 2018. *"Standard Lattice-Based Key Encapsulation on Embedded Devices"* [[Presentation](https://www.youtube.com/watch?v=zAfPwuBKixk)][[Slides](files/tches.pdf)]. IACR Transactions on Cryptographic Hardware and Embedded Systems 2018.
