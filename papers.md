@@ -12,6 +12,8 @@ This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2019
+* Ravi, P., Jhanwar, M. P., Howe, J., Chattopadhyay, A., and Bhasin, S., 2019, July. [*"Exploiting Determinism in Lattice-based Signatures: Practical Fault Attacks on pqm4 Implementations of NIST Candidates"*](https://eprint.iacr.org/2019/769). In Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security (Asia CCS '19). ACM, New York, NY, USA, 427-440.
+
 * Howe, J., Khalid, A., Martinoli, M., Regazzoni, F., and Oswald, E., 2019, May. [*"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"*](https://eprint.iacr.org/2019/206). In 2019 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE.
 
 ### 2018
