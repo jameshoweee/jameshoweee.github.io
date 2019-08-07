@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 * Personal email: **[jameshoweee@gmail.com](mailto:jameshoweee@gmail.com)**.
-* Academic email: **[james.howe@bristol.ac.uk](mailto:james.howe@bristol.ac.uk)**.
+* Work email: **[james.howe@pqshield.com](mailto:james.howe@pqshield.com)**.
 * Twitter: **[@jameshowe1729](https://twitter.com/JamesHowe1729)**.
 * Instagram: **[@jamesvhowe](https://www.instagram.com/jamesvhowe/)**.
 * GitHub: **[jameshoweee](https://github.com/jameshoweee)**.
