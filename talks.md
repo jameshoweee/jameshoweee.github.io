@@ -6,7 +6,7 @@ permalink: /talks/
 
 A list of presentations or talks I've given:
 
-* 24 August 2019. *"Optimised Lattice-Based Key Encapsulation in Hardware"* [[Slides](files/nistpqc2019.pdf)]. NIST's Second PQC Standardization Conference 2019.
+* 24 August 2019. *"Optimised Lattice-Based Key Encapsulation in Hardware"* [[Slides](files/nistpqc2019.pdf)][[url](https://csrc.nist.gov/Presentations/2019/optimised-lattice-based-key-encapsulation-in-hardw)]. NIST's Second PQC Standardization Conference 2019.
 
 * 29 May 2019. *"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"* [[Poster](files/ISCAS2019_poster.pdf)]. IEEE International Symposium on Circuits and Systems (ISCAS) 2019.
 
