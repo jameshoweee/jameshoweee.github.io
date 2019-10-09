@@ -56,9 +56,9 @@
 (6) Khalid, Ayesha \emph{et al.} ``Compact, Scalable, and Reconfigurable Gaussian Samplers for Lattice-Based Cryptography.'' \emph{IEEE ISCAS}, 2018.{\newline}
 (7) Khalid, Ayesha \emph{et al.} ``Error Samplers for Lattice-Based Cryptography: Challenges, Vulnerabilities, and Solutions.'' \emph{IEEE APCCAS}, 2018.{\newline}
 (8) Sailong, Fan \emph{et al.} ``Lightweight Hardware Implementation of R-LWE Lattice-Based Cryptography.'' \emph{IEEE APCCAS}, 2018.{\newline}
-(9) Ravi, Prasanna \emph{et al.} ``Exploiting Determinism in Lattice-based Signatures: Practical Fault Attacks on pqm4 Implementations of NIST Candidates.'' \emph{Asia CCS}, 2019.{\newline}
-(10) Howe, James \emph{et al.} ``Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography.'' \emph{IEEE ISCAS}, 2019. {\newline}
-(11) Howe, James \emph{et al.} ``Optimised Lattice-based Key Encapsulation in Hardware.'' \emph{NIST’s Second PQC Standardization Conference}, 2019. {\newline}
+(9) Ravi, Prasanna \emph{et al.} ``Side-channel Assisted Existential Forgery Attack on Dilithium - A NIST PQC candidate.'' \emph{IACR Cryptology ePrint Archive, Report 2018/821}, 2018.{\newline}
+%(12) Howe, James \emph{et al.} ``Standard Lattice-Based Key Encapsulation on Embedded Devices.'' \emph{IACR Transactions on Cryptographic Hardware and Embedded Systems}, 2018. {\newline}
+(10) Howe, James \emph{et al.} ``Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography.'' \emph{IEEE ISCAS}, 2019. (Accepted) {\newline}
 }
 \cventry{}{Journal Publications}{}{}{}{
 (1) Howe, James, \emph{et al.} ``Practical Lattice-based Digital Signature Schemes.'' \emph{ACM Transactions on Embedded Computing Systems (TECS)} 14.3 (2015): 41.{\newline}
@@ -67,8 +67,8 @@
 }
 \cventry{}{Program Committees and Reviews}{}{}{}{Program committee for MAL-IoT 2019. Reviewed papers for ACM TECS, IEEE Transactions on Computers, IMACC 2019, CRYPTO 2019, ASIACRYPT 2018, Designs
 Codes and Cryptography, CT-RSA 2018, CARDIS 2018, SAC 2016, WAHC 2015, and Security and Communication Networks.}
-\cventry{}{Talks}{}{}{}{Invited to present at Lattice Coding \& Crypto Meeting in September 2018 and NIST Post-Quantum Cryptography Hardware Day 2019. Presented at NIST's Second PQC Standardization Conference 2019, ISCAS 2019, T-CHES 2018, ISCAS 2018, ISCAS 2017, DAC 2016, FPT 2016, and on Modern Cryptography at Tomorrow's Mathematicians Today conference in 2009.}
-\cventry{}{Awards}{}{}{}{Received IUK grant, COST Action IC1306 stipend (2014) and COST Action IC1306 STSM grant (2015).}
+\cventry{}{Talks}{}{}{}{Invited to present at Lattice Coding \& Crypto Meeting in September 2018. Presented at ISCAS 2019, T-CHES 2018, ISCAS 2018, ISCAS 2017, DAC 2016, FPT 2016, and on Modern Cryptography at Tomorrow's Mathematicians Today conference in 2009.}
+\cventry{}{Awards}{}{}{}{Received COST Action IC1306 stipend (2014) and COST Action IC1306 STSM grant (2015).}
 \cventry{}{IT Skills}{}{}{}{Proficient in all major operating systems (OSX/Linux/Windows) as well as mathematical tools such as Mathematica, Matlab, and Minitab. Very competent with VHDL (ISE and Vivado), Python, C/C++, with some Java and HTML (see \url{www.pqczoo.com}) experience.}
 
 \section{\textbf{Research Statement}} 
