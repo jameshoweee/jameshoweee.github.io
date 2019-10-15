@@ -12,6 +12,8 @@ This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2019
+* Howe, J., Martinoli, M., Oswald, E., Regazzoni, F., 2019, August. [*"Optimised lattice-based key encapsulation in hardware"*](https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/howe-optimised-lattice-based.pdf). NIST’s Second PQC Standardization Conference 2019, 13.
+
 * Ravi, P., Jhanwar, M. P., Howe, J., Chattopadhyay, A., and Bhasin, S., 2019, July. [*"Exploiting Determinism in Lattice-based Signatures: Practical Fault Attacks on pqm4 Implementations of NIST Candidates"*](https://eprint.iacr.org/2019/769). In Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security (Asia CCS '19). ACM, New York, NY, USA, 427-440.
 
 * Howe, J., Khalid, A., Martinoli, M., Regazzoni, F., and Oswald, E., 2019, May. [*"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"*](https://eprint.iacr.org/2019/206). In 2019 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE.
@@ -23,7 +25,7 @@ See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&
 
 * Khalid, A., Rafferty, C., Howe, J., Brannigan, S., Liu, W. and O'Neill, M., 2018, October. [*"Error Samplers for Lattice-Based Cryptography - Challenges, Vulnerabilities, and Solutions"*](https://ieeexplore.ieee.org/document/8605725). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 411-414. IEEE.
 
-* , Fan, S., Liu, W., Howe, J., Khalid, A., and O'Neill, M., 2018, October. [*"Lightweight Hardware Implementation of R-LWE Lattice-Based Cryptography"*](https://ieeexplore.ieee.org/abstract/document/8605630). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 403-406. IEEE.
+* Fan, S., Liu, W., Howe, J., Khalid, A., and O'Neill, M., 2018, October. [*"Lightweight Hardware Implementation of R-LWE Lattice-Based Cryptography"*](https://ieeexplore.ieee.org/abstract/document/8605630). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 403-406. IEEE.
 
 ### 2017
 *	Howe, J. and O’Neill, M., 2017, July. [*"GLITCH: A Discrete Gaussian Testing Suite For Lattice-Based Cryptography"*](https://eprint.iacr.org/2017/438). In Proceedings of the 14th International Joint Conference on e-Business and Telecommunications (ICETE 2017): SECRYPT, Madrid, Spain.
