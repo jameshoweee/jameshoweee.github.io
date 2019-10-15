@@ -28,7 +28,9 @@ A list of presentations or talks I've given:
 
 ## Programme Committees and Reviewing
 
-Program committee for MAL-IoT 2019. Sub-reviewed for ACM TECS, IEEE Transactions on Computers, IMACC 2019, CRYPTO 2019, ASIACRYPT 2018, Designs Codes and Cryptography, CT-RSA 2018, CARDIS 2018, SAC 2016, WAHC 2015, and Security and Communication Networks.
+Program committee for MAL-IoT 2019 and COSADE 2020.
+
+Sub-reviewed for ACM TECS, IEEE Transactions on Computers, IMACC 2019, CRYPTO 2019, ASIACRYPT 2018, Designs Codes and Cryptography, CT-RSA 2018, CARDIS 2018, SAC 2016, WAHC 2015, and Security and Communication Networks.
 
 ## Research Visits and Internships
 
