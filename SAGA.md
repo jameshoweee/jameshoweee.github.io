@@ -6,9 +6,7 @@ permalink: /SAGA/
 
 ![Joke-Logo](files/saga.png)
 
-Authored by James Howe, Thomas Prest, Thomas Ricosset, and Mélissa Rossi - 27-Jan-2020
-
-Code from the paper available at: https://eprint.iacr.org/2019/1411
+This is a quick summary of a project I did in collaboration with Thomas Prest, Thomas Ricosset, and Mélissa Rossi on designing a statistical test suite for Gaussian samplers, both univariate and multivariate. The details of this can be found in our paper: [https://eprint.iacr.org/2019/1411](https://eprint.iacr.org/2019/1411).
 
 ## Introduction
 
