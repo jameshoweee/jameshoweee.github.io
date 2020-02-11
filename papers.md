@@ -11,6 +11,9 @@ permalink: /publications/
 This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
+### 2020
+* Howe, J., Prest, T., Ricosset, T., Rossi, M., 2020, April. [*"Isochronous Gaussian Sampling: From Inception to Implementation"*](https://eprint.iacr.org/2019/1411). Post-Quantum Cryptography - 11th International Conference, PQCrypto 2020, Paris, France, April 15-17, 2020 Revised Selected Papers.
+
 ### 2019
 * Howe, J., Martinoli, M., Oswald, E., Regazzoni, F., 2019, August. [*"Optimised lattice-based key encapsulation in hardware"*](https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/howe-optimised-lattice-based.pdf). NIST’s Second PQC Standardization Conference 2019, 13.
 
