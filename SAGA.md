@@ -4,7 +4,7 @@ title: "Statistically Acceptable GAussians (SAGA)"
 permalink: /SAGA/
 ---
 
-![Joke-Logo](images/saga.png)
+![Joke-Logo](files/saga.png)
 
 Authored by James Howe, Thomas Prest, Thomas Ricosset, and Mélissa Rossi - 27-Jan-2020
 
@@ -94,7 +94,7 @@ The test checks that the data corresponds to a multivariate Gaussian, by doing t
 
 The p-values given by items 2 and 3 are > 0.001, and item 4 states that each coordinate looks Gaussian (in average, we expect 128 * 0.001 coordinates to be rejected), hence this list of samples pass our test of multivariate normality. In addition, one can plot the covariance matrix by typing `res.show_covariance()`, which gives:
 
-![covariance](images/covariance.png)
+![covariance](files/covariance.png)
 
 ***
 
