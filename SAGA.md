@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Statistically Acceptable GAussians (SAGA)"
-permalink: /SAGA/
+permalink: /saga/
 ---
 
 ![Joke-Logo](files/saga.png)
