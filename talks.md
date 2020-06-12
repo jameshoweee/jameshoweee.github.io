@@ -6,6 +6,8 @@ permalink: /talks/
 
 A list of presentations or talks I've given:
 
+* 19 June 2020. *"Real-World Post-Quantum Security Strategies"* [[Link](https://www.quantumtechcongress.co.uk/speakers/dr-james-howe)]. Quantum.Tech Congress 2020.
+
 * 16 December 2019. *"Optimised Lattice-Based Key Encapsulation in Hardware: A Design Space Exploration for FrodoKEM"* [[Slides](files/imacc2019.pdf)][[url](https://ima.org.uk/11167/17th-ima-international-conference-on-cryptography-and-coding/)]. 17th IMA International Conference on Cryptography and Coding 2019.
 
 * 24 August 2019. *"Optimised Lattice-Based Key Encapsulation in Hardware"* [[Slides](files/nistpqc2019.pdf)][[url](https://csrc.nist.gov/Presentations/2019/optimised-lattice-based-key-encapsulation-in-hardw)]. NIST's Second PQC Standardization Conference 2019.
