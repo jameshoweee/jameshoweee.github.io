@@ -6,6 +6,8 @@ permalink: /talks/
 
 A list of presentations or talks I've given:
 
+* 17 September 2020. *"Isochronous Gaussian sampling: From inception to implementation"* [[Presentation](https://youtu.be/KqCnJApHC3w)]. International Conference on Post-Quantum Cryptography (PQCrypto) 2020.
+
 * 19 June 2020. *"Real-World Post-Quantum Security Strategies"* [[Link](https://www.quantumtechcongress.co.uk/speakers/dr-james-howe)]. Quantum.Tech Congress 2020.
 
 * 16 December 2019. *"Optimised Lattice-Based Key Encapsulation in Hardware: A Design Space Exploration for FrodoKEM"* [[Slides](files/imacc2019.pdf)][[url](https://ima.org.uk/11167/17th-ima-international-conference-on-cryptography-and-coding/)]. 17th IMA International Conference on Cryptography and Coding 2019.
