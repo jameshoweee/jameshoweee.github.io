@@ -6,13 +6,13 @@ permalink: /talks/
 
 A list of presentations or talks I've given:
 
-* 17 September 2020. *"Isochronous Gaussian sampling: From inception to implementation"* [[Presentation](https://youtu.be/KqCnJApHC3w)]. International Conference on Post-Quantum Cryptography (PQCrypto) 2020.
+* 17 September 2020. *"Isochronous Gaussian sampling: From inception to implementation"* [[Presentation](https://youtu.be/KqCnJApHC3w)][[Slides](files/FalconConstantTime.pdf)]. International Conference on Post-Quantum Cryptography (PQCrypto) 2020.
 
 * 19 June 2020. *"Real-World Post-Quantum Security Strategies"* [[Link](https://www.quantumtechcongress.co.uk/speakers/dr-james-howe)]. Quantum.Tech Congress 2020.
 
 * 16 December 2019. *"Optimised Lattice-Based Key Encapsulation in Hardware: A Design Space Exploration for FrodoKEM"* [[Slides](files/imacc2019.pdf)][[url](https://ima.org.uk/11167/17th-ima-international-conference-on-cryptography-and-coding/)]. 17th IMA International Conference on Cryptography and Coding 2019.
 
-* 24 August 2019. *"Optimised Lattice-Based Key Encapsulation in Hardware"* [[Slides](files/nistpqc2019.pdf)][[url](https://csrc.nist.gov/Presentations/2019/optimised-lattice-based-key-encapsulation-in-hardw)]. NIST's Second PQC Standardization Conference 2019.
+* 24 August 2019. *"Optimised Lattice-Based Key Encapsulation in Hardware"* [[Slides](files/nistpqc2019.pdf)][[Link](https://csrc.nist.gov/Presentations/2019/optimised-lattice-based-key-encapsulation-in-hardw)]. NIST's Second PQC Standardization Conference 2019.
 
 * 29 May 2019. *"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"* [[Poster](files/ISCAS2019_poster.pdf)]. IEEE International Symposium on Circuits and Systems (ISCAS) 2019.
 
