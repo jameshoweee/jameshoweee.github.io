@@ -6,7 +6,7 @@ permalink: /talks/
 
 A list of presentations or talks I've given:
 
-* 12 January 2021. *"Attacks on NIST PQC 3rd Round Candidates"*[[Program](https://rwc.iacr.org/2021/program.php)]. Co-presented with Daniel Apon. IACR Real World Crypto 2021.
+* 12 January 2021. *"Attacks on NIST PQC 3rd Round Candidates"* [[Program](https://rwc.iacr.org/2021/program.php)]. Co-presented with Daniel Apon. IACR Real World Crypto 2021.
 
 * 17 September 2020. *"Isochronous Gaussian sampling: From inception to implementation"* [[Presentation](https://youtu.be/KqCnJApHC3w)][[Slides](files/FalconConstantTime.pdf)]. International Conference on Post-Quantum Cryptography (PQCrypto) 2020.
 
