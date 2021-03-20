@@ -11,6 +11,9 @@ permalink: /publications/
 This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
+### 2021
+* Howe, J., Martinoli, M., Oswald, E., and Regazzoni, F. [*"Exploring Parallelism to Improve the Performance of FrodoKEM in Hardware"*](files/Howe2021_Article_ExploringParallelismToImproveT.pdf). Journal of Cryptographic Engineering (2021). https://doi.org/10.1007/s13389-021-00258-7
+
 ### 2020
 * Howe, J., Prest, T., Ricosset, T., Rossi, M., 2020, April. [*"Isochronous Gaussian Sampling: From Inception to Implementation"*](https://eprint.iacr.org/2019/1411). Post-Quantum Cryptography - 11th International Conference, PQCrypto 2020, Paris, France, April 15-17, 2020 Revised Selected Papers.
 
