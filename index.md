@@ -15,3 +15,28 @@ Since May 2019 I have been employed at [PQShield Ltd.](https://pqshield.com/) as
 ## Research Interests
 
 The focus of my research is mainly based around post-quantum cryptography, in particular lattice-based cryptography, and investigating them with respect to optimised hardware designs, software designs, side-channel attacks, fault attacks, and countermeasures.
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BHC370BLM5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BHC370BLM5');
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DCEGWP83NC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DCEGWP83NC');
+</script>
