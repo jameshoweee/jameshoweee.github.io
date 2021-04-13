@@ -7,11 +7,13 @@ permalink: /publications/
 ## PhD Thesis
 *	Howe, J., 2017, August. [*"Practical Lattice-Based Cryptography in Hardware"*](files/thesis.pdf). PhD thesis at the School of Electronics, Electrical Engineering, and Computer Science, Queen’s University Belfast.
 
-## Journals and Conference Papers
+## Journal and Conference Papers
 This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2021
+* Howe, J., Prest, T., and Apon, D., 2021, May. [*"SoK: How (not) to Design and Implement Post-Quantum Cryptography"*](https://eprint.iacr.org/2021/462.pdf). In: CT-RSA. LNCS. Springer, Heidelberg.
+
 * Howe, J., Martinoli, M., Oswald, E., and Regazzoni, F. [*"Exploring Parallelism to Improve the Performance of FrodoKEM in Hardware"*](files/Howe2021_Article_ExploringParallelismToImproveT.pdf). Journal of Cryptographic Engineering (2021). https://doi.org/10.1007/s13389-021-00258-7
 
 ### 2020
