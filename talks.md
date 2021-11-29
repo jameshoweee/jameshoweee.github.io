@@ -6,6 +6,8 @@ permalink: /talks/
 
 A list of presentations or talks I've given: 
 
+* 25 November 2021. *"Side-Channel Attacks on NIST PQC 3rd Round Candidates"* [[Slides](files/aausimula_pqcsca.pdf)]. Invited talk to Joint AAU/Simula Study Group.
+
 * 17 November 2021. *"Side Channels: Attacks, Defences, and Evaluation Schemes. Part 1 — Attacks and Defences"* [[Program](https://csrc.nist.gov/projects/crypto-reading-club)]. Co-presented with Elisabeth Oswald. Invited talk to NIST's Crypto Reading Club.
 
 * 19 May 2021. *"SoK: How (not) to Design and Implement Post-Quantum Cryptography"* [[Program](https://sites.google.com/site/ctrsa2021/conference-program)][[Slides](files/PresentationT+J.pdf)]. Co-presented with Thomas Prest. Cryptographers’ Track at the RSA Conference 2021, Virtual Event, May 17–20, 2021.
