@@ -6,7 +6,7 @@ permalink: /talks/
 
 A list of presentations or talks I've given: 
 
-* 25 November 2021. *"Side-Channel Attacks on NIST PQC 3rd Round Candidates"* [[Slides](files/aausimula_pqcsca.pdf)]. Invited talk to Joint AAU/Simula Study Group.
+* 25 November 2021. *"Side-Channel Attacks on NIST PQC 3rd Round Candidates"* [[Slides](files/PresentationT+J.pdf)][[Slides](files/aausimula_pqcsca.pdf)]. Invited talk to Joint AAU/Simula Study Group.
 
 * 17 November 2021. *"Side Channels: Attacks, Defences, and Evaluation Schemes. Part 1 — Attacks and Defences"* [[Program](https://csrc.nist.gov/projects/crypto-reading-club)]. Co-presented with Elisabeth Oswald. Invited talk to NIST's Crypto Reading Club.
 
