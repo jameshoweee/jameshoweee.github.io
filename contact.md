@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 * Personal email: **jameshoweee** at **gmail** dot **com**.
-* Work email: **[james.howe@sandboxaq.com](mailto:james.howe@sandboxaq.com)**.
+* Work email: **james** dot **howe** at **sandboxaq** dot **com**.
 * Twitter: **[@jameshowe1729](https://twitter.com/JamesHowe1729)**.
 * Instagram: **[@jamesvhowe](https://www.instagram.com/jamesvhowe/)**.
 * GitHub: **[jameshoweee](https://github.com/jameshoweee)**.
