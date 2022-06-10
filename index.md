@@ -7,10 +7,10 @@ title: Home
 
 ## Professional 
 
-I'm a cryptographer, with a focus on practical implementations and cryptanalysis. 
+I'm a cryptographer, with a focus on practical implementations, cryptanalysis, and protocols. 
 You can find a link to my publications on [Google Scholar](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en).
 
-For 2.5 years I was employed as a Cryptography Engineer at [PQShield Ltd](https://pqshield.com/), a small spin-out company from the University of Oxford. Previously, I was a post-doc at the University of Bristol in the [SCA / Crypto group](http://www.bristol-sca.com). Other previous research positions and education history can be found in my [CV](files/CV.pdf).
+I am currently a Senior Research Scientist in the Quantum Security Group at [SandboxAQ](https://www.sandboxaq.com/). For 2.5 years, I was employed as a Cryptography Engineer at [PQShield Ltd](https://dblp.org/pid/138/8975.html), a small spin-out company from the University of Oxford. Previously, I was a post-doc at the University of Bristol in the [SCA / Crypto group](https://github.com/sca-research). Other previous research positions and education history can be found in my [CV](files/CV.pdf).
 
 ## Research Interests
 
