@@ -12,8 +12,8 @@ This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2022
-* Howe, J. and Westerbaan, B., 2022, March. [*Benchmarking and Analysing the NIST PQC Finalist Lattice-Based Signature Schemes on the ARM Cortex M7
-*](https://eprint.iacr.org/2022/405.pdf). In submission.
+* Howe, J. and Westerbaan, B., 2022, March. [*"Benchmarking and Analysing the NIST PQC Finalist Lattice-Based Signature Schemes on the ARM Cortex M7
+"*](https://eprint.iacr.org/2022/405.pdf). In submission.
 
 ### 2021
 * Howe, J., Prest, T., and Apon, D., 2021, May. [*"SoK: How (not) to Design and Implement Post-Quantum Cryptography"*](https://eprint.iacr.org/2021/462.pdf). In: CT-RSA. LNCS. Springer, Heidelberg.
