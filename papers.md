@@ -12,6 +12,8 @@ This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2022
+* Aguilar-Melchor, C., Deneuville, J.-C., Dion, A., Howe, J., Malmain, R., Migliore, V., Nawan, M., Nawaz, K., 2022, October. [*"Towards Automating Cryptographic Hardware Implementations: a Case Study of HQC"*](https://eprint.iacr.org/2022/1425.pdf). In submission.
+
 * Howe, J. and Westerbaan, B., 2022, March. [*"Benchmarking and Analysing the NIST PQC Finalist Lattice-Based Signature Schemes on the ARM Cortex M7"*](https://eprint.iacr.org/2022/405.pdf). In submission.
 
 ### 2021
@@ -20,19 +22,19 @@ See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&
 * Howe, J., Martinoli, M., Oswald, E., and Regazzoni, F. [*"Exploring Parallelism to Improve the Performance of FrodoKEM in Hardware"*](files/Howe2021_Article_ExploringParallelismToImproveT.pdf). Journal of Cryptographic Engineering (2021). https://doi.org/10.1007/s13389-021-00258-7
 
 ### 2020
-* Howe, J., Prest, T., Ricosset, T., Rossi, M., 2020, April. [*"Isochronous Gaussian Sampling: From Inception to Implementation"*](https://eprint.iacr.org/2019/1411). Post-Quantum Cryptography - 11th International Conference, PQCrypto 2020, Paris, France, April 15-17, 2020 Revised Selected Papers.
+* Howe, J., Prest, T., Ricosset, T., Rossi, M., 2020, April. [*"Isochronous Gaussian Sampling: From Inception to Implementation"*](https://eprint.iacr.org/2019/1411.pdf). Post-Quantum Cryptography - 11th International Conference, PQCrypto 2020, Paris, France, April 15-17, 2020 Revised Selected Papers.
 
 ### 2019
 * Howe, J., Martinoli, M., Oswald, E., Regazzoni, F., 2019, August. [*"Optimised lattice-based key encapsulation in hardware"*](https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/howe-optimised-lattice-based.pdf). NIST’s Second PQC Standardization Conference 2019, 13.
 
-* Ravi, P., Jhanwar, M. P., Howe, J., Chattopadhyay, A., and Bhasin, S., 2019, July. [*"Exploiting Determinism in Lattice-based Signatures: Practical Fault Attacks on pqm4 Implementations of NIST Candidates"*](https://eprint.iacr.org/2019/769). In Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security (Asia CCS '19). ACM, New York, NY, USA, 427-440.
+* Ravi, P., Jhanwar, M. P., Howe, J., Chattopadhyay, A., and Bhasin, S., 2019, July. [*"Exploiting Determinism in Lattice-based Signatures: Practical Fault Attacks on pqm4 Implementations of NIST Candidates"*](https://eprint.iacr.org/2019/769.pdf). In Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security (Asia CCS '19). ACM, New York, NY, USA, 427-440.
 
-* Howe, J., Khalid, A., Martinoli, M., Regazzoni, F., and Oswald, E., 2019, May. [*"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"*](https://eprint.iacr.org/2019/206). In 2019 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE.
+* Howe, J., Khalid, A., Martinoli, M., Regazzoni, F., and Oswald, E., 2019, May. [*"Fault Attack Countermeasures for Error Samplers in Lattice-Based Cryptography"*](https://eprint.iacr.org/2019/206.pdf). In 2019 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE.
 
 ### 2018
 *	Howe, J., Oder, T., Krausz, M., and Güneysu, T., 2018, September. [*"Standard Lattice-Based Key Encapsulation on Embedded Devices"*](https://tches.iacr.org/index.php/TCHES/article/view/7279). IACR Transactions on Cryptographic Hardware and Embedded Systems, 2018(3), pp.372-393.
 
-*	Khalid, A., Howe, J., Rafferty, C., Regazzoni, F., and O'Neill, M., 2018, May. [*"Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography"*](https://eprint.iacr.org/2018/265). In 2018 IEEE International Symposium on Circuits and Systems (ISCAS), pp. 1-5. IEEE.
+*	Khalid, A., Howe, J., Rafferty, C., Regazzoni, F., and O'Neill, M., 2018, May. [*"Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography"*](https://eprint.iacr.org/2018/265.pdf). In 2018 IEEE International Symposium on Circuits and Systems (ISCAS), pp. 1-5. IEEE.
 
 * Khalid, A., Rafferty, C., Howe, J., Brannigan, S., Liu, W. and O'Neill, M., 2018, October. [*"Error Samplers for Lattice-Based Cryptography - Challenges, Vulnerabilities, and Solutions"*](https://ieeexplore.ieee.org/document/8605725). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 411-414. IEEE.
 
