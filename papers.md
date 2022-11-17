@@ -12,6 +12,9 @@ This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2022
+
+* Howe, J. and Westerbaan, B., 2022, November. [*"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"*](https://csrc.nist.gov/csrc/media/Events/2022/fourth-pqc-standardization-conference/documents/papers/benchmarking-and-analysiing-nist-pqc-lattice-based-pqc2022.pdf). NIST Fourth PQC Conference, Virtual.
+
 * Aguilar-Melchor, C., Deneuville, J.-C., Dion, A., Howe, J., Malmain, R., Migliore, V., Nawan, M., Nawaz, K., 2022, October. [*"Towards Automating Cryptographic Hardware Implementations: a Case Study of HQC"*](https://eprint.iacr.org/2022/1425.pdf). In submission.
 
 * Howe, J. and Westerbaan, B., 2022, March. [*"Benchmarking and Analysing the NIST PQC Finalist Lattice-Based Signature Schemes on the ARM Cortex M7"*](https://eprint.iacr.org/2022/405.pdf). In submission.
