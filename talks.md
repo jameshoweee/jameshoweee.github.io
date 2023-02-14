@@ -6,7 +6,7 @@ permalink: /talks/
 
 A list of presentations or talks I've given: 
 
-* 15 February 2023. *"Post-Quantum Fido2"* (Presented by Sandra Guasch)[[Link](https://www.etsi.org/events/2117-2023-02-9th-etsi-iqc-quantum-safe-cryptography-workshop)]. 9th ETSI/IQC Quantum Safe Cryptography Event, Sophia Antipolis, France
+* 15 February 2023. *"Post-Quantum Fido2"*[[Link](https://www.etsi.org/events/2117-2023-02-9th-etsi-iqc-quantum-safe-cryptography-workshop)] (Presented by Sandra Guasch). 9th ETSI/IQC Quantum Safe Cryptography Event, Sophia Antipolis, France
 
 * 30 November 2022. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/NIST4thRoundConference.pdf)]. NIST Fourth PQC Conference, Virtual.
 
