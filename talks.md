@@ -6,6 +6,8 @@ permalink: /talks/
 
 A list of presentations or talks I've given: 
 
+* 15 February 2023. *"Post-Quantum Fido2"* (Presented by Sandra Guasch)[[Link](https://www.etsi.org/events/2117-2023-02-9th-etsi-iqc-quantum-safe-cryptography-workshop)]. 9th ETSI/IQC Quantum Safe Cryptography Event, Sophia Antipolis, France
+
 * 30 November 2022. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/NIST4thRoundConference.pdf)]. NIST Fourth PQC Conference, Virtual.
 
 * 14 September 2022. *"How (not) to Design and Instantiate Post-Quantum Cryptography"*. Co-presented with Thomas Prest. Invited talk to NIST's Security Research Review.
@@ -20,7 +22,7 @@ A list of presentations or talks I've given:
 
 * 19 May 2021. *"SoK: How (not) to Design and Implement Post-Quantum Cryptography"* [[Program](https://sites.google.com/site/ctrsa2021/conference-program)][[Slides](files/PresentationT+J.pdf)]. Co-presented with Thomas Prest. Cryptographers’ Track at the RSA Conference 2021, Virtual Event, May 17–20, 2021.
 
-* 12 January 2021. *"Attacks on NIST PQC 3rd Round Candidates"* [[Program](https://rwc.iacr.org/2021/program.php)][[Video](https://youtu.be/X0Y6D5zLI-Y?t=1747)][[Slides](https://iacr.org/submit/files/slides/2021/rwc/rwc2021/22/slides.pdf)]. Co-presented with Daniel Apon. IACR Real World Crypto 2021.
+* 12 January 2021. *"Attacks on NIST PQC 3rd Round Candidates"* [[Program](https://rwc.iacr.org/2021/program.php)][[Video](https://youtu.be/X0Y6D5zLI-Y?t=1747)][[Slides](https://iacr.org/submit/files/slides/2021/rwc/rwc2021/22/slides.pdf)]. Co-presented with Daniel Apon. IACR Real World Crypto 2021, Virtual Event.
 
 * 17 September 2020. *"Isochronous Gaussian sampling: From inception to implementation"* [[Presentation](https://youtu.be/KqCnJApHC3w)][[Slides](files/FalconConstantTime.pdf)]. International Conference on Post-Quantum Cryptography (PQCrypto) 2020.
 
