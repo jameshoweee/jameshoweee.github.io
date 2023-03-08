@@ -12,7 +12,7 @@ A list of presentations or talks I've given:
 
 * 14 September 2022. *"How (not) to Design and Instantiate Post-Quantum Cryptography"*. Co-presented with Thomas Prest. Invited talk to NIST's Security Research Review.
 
-* 12 August 2022. *"PQC in the Real World"* [[Video](https://www.youtube.com/watch?v=UL0N2HZ_atI)]. DEFCON 30 - Quantum Village.
+* 12 August 2022. *"PQC in the Real World"* [[Slides](files/defcon30.pdf)][[Video](https://www.youtube.com/watch?v=UL0N2HZ_atI)]. DEFCON 30 - Quantum Village.
 
 * 1 December 2021. *"Side Channels: Attacks, Defences, and Evaluation Schemes. Part 2 — Evaluation Techniques"* [[Slides](files/crclub-2021-side-channels-2.pdf)][[Link](https://csrc.nist.gov/presentations/2021/crypto-club-2021-side-channels-2)]. Co-presented with Elisabeth Oswald. Invited talk to NIST's Crypto Reading Club.
 
