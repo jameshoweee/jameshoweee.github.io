@@ -8,7 +8,11 @@ A list of presentations or talks I've given:
 
 ### 2023
 
-* 15 February 2023. *"Post-Quantum Fido2"*[[Link](https://www.etsi.org/events/2117-2023-02-9th-etsi-iqc-quantum-safe-cryptography-workshop)] (Presented by Sandra Guasch). 9th ETSI/IQC Quantum Safe Cryptography Event, Sophia Antipolis, France
+* 23 March 2023. *"Panel: What should telecom operators do first for quantum attacks in the future?"*[[Link](https://www.softbank.jp/corp/technology/research/ats2023/)] with Masayuki Miyashita and Naoki Maekawa (SoftBank), Nobuya Murai (Toshiba), and Nikolai Chernyy (SandboxAQ). SoftBank Advanced Tech Show 2023. Tokyo, Japan.
+
+* 23 March 2023. *"Future Security and Verification of PQC Practicality"*[[Link](https://www.softbank.jp/corp/technology/research/ats2023/)]. SoftBank Advanced Tech Show 2023. Tokyo, Japan.
+
+* 15 February 2023. *"Post-Quantum Fido2"*[[Link](https://www.etsi.org/events/2117-2023-02-9th-etsi-iqc-quantum-safe-cryptography-workshop)] (Presented by Sandra Guasch). 9th ETSI/IQC Quantum Safe Cryptography Event, Sophia Antipolis, France.
 
 ### 2022
 * 30 November 2022. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/NIST4thRoundConference.pdf)]. NIST Fourth PQC Conference, Virtual.
