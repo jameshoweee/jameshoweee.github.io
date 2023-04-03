@@ -8,6 +8,8 @@ A list of presentations or talks I've given:
 
 ### 2023
 
+* 26 March 2023. *"Panel: Roundtable #1 – Implementation and Side Channels"* [[Link](https://rwpqc.org/)] with Thomas Pornin (NCC), Tobias Schneider (NXP), Daniel Genkin (Georgia Tech), Mélissa Rossi (ANSSI), and Patrick Longa (Microsoft Research). Real World PQC 2023. Tokyo, Japan.
+
 * 23 March 2023. *"Panel: What should telecom operators do first for quantum attacks in the future?"* [[Link](https://www.softbank.jp/corp/technology/research/ats2023/)] with Masayuki Miyashita and Naoki Maekawa (SoftBank), Nobuya Murai (Toshiba), and Nikolai Chernyy (SandboxAQ). SoftBank Advanced Tech Show 2023. Tokyo, Japan.
 
 * 23 March 2023. *"Future Security and Verification of PQC Practicality"* [[Link](https://www.softbank.jp/corp/technology/research/ats2023/)]. SoftBank Advanced Tech Show 2023. Tokyo, Japan.
