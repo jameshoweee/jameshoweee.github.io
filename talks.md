@@ -67,7 +67,7 @@ A list of presentations or talks I've given:
 
 ## Programme Committees and Reviewing
 
-Steering committee for [[RWPQC](https://rwpqc.org/)].
+Steering committee for [RWPQC](https://rwpqc.org/).
 
 Program committee for T-CHES 2022 (Artifacts), T-CHES 2021 (Artifacts), IndoCrypt 2020, COSADE 2020, and MAL-IoT 2019.
 
