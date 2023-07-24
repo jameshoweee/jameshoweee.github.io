@@ -7,6 +7,7 @@ permalink: /talks/
 A list of presentations or talks I've given: 
 
 ### 2023
+* 18 July 2023. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/AFRICACRYPT2023.pdf)]. AFRICACRYPT 2023, Sousse, Tunisia.
 
 * 26 March 2023. *"Panel: Roundtable #1 – Implementation and Side Channels"* [[Link](https://rwpqc.org/)] with Thomas Pornin (NCC), Tobias Schneider (NXP), Daniel Genkin (Georgia Tech), Mélissa Rossi (ANSSI), and Patrick Longa (Microsoft Research). Real World PQC 2023. Tokyo, Japan.
 
