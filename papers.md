@@ -13,15 +13,18 @@ See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&
 
 ### 2023
 
-* Aguilar-Melchor, C., Gama, N., Howe, J., Hülsing, A., Joseph, D. and Yue, D., 2022. [*"The Return of the SDitH"*](https://eprint.iacr.org/2022/1645.pdf). EUROCRYPT 2023.
+* Aguilar-Melchor, C., Gama, N., Howe, J., Hülsing, A., Joseph, D. and Yue, D., 2023. [*"The Return of the SDitH"*](https://eprint.iacr.org/2022/1645.pdf). IACR EUROCRYPT 2023.
+
+* Aguilar-Melchor, C., Albrecht, M. R., Bailleux, T., Bindel, N., Howe, J., Hülsing, A., Joseph, D., and Manzano, M., 2023. [*"Batch Signatures, Revisited"*](https://eprint.iacr.org/2023/492.pdf). In submission.
+
+
+* Howe, J. and Westerbaan, B., 2022, March. [*"Benchmarking and Analysing the NIST PQC Finalist Lattice-Based Signature Schemes on the ARM Cortex M7"*](https://eprint.iacr.org/2022/405.pdf). AFRICACRYPT 2023.
 
 ### 2022
 
 * Howe, J. and Westerbaan, B., 2022, November. [*"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"*](https://csrc.nist.gov/csrc/media/Events/2022/fourth-pqc-standardization-conference/documents/papers/benchmarking-and-analysiing-nist-pqc-lattice-based-pqc2022.pdf). NIST Fourth PQC Conference, Virtual.
 
-* Aguilar-Melchor, C., Deneuville, J.-C., Dion, A., Howe, J., Malmain, R., Migliore, V., Nawan, M., Nawaz, K., 2022, October. [*"Towards Automating Cryptographic Hardware Implementations: a Case Study of HQC"*](https://eprint.iacr.org/2022/1425.pdf). CBCrypto 2023.
-
-* Howe, J. and Westerbaan, B., 2022, March. [*"Benchmarking and Analysing the NIST PQC Finalist Lattice-Based Signature Schemes on the ARM Cortex M7"*](https://eprint.iacr.org/2022/405.pdf). In submission.
+* Aguilar-Melchor, C., Deneuville, J.-C., Dion, A., Howe, J., Malmain, R., Migliore, V., Nawan, M., Nawaz, K., 2022, October. [*"Towards Automating Cryptographic Hardware Implementations: a Case Study of HQC"*](https://eprint.iacr.org/2022/1425.pdf). CBCrypto 2022.
 
 ### 2021
 * Howe, J., Prest, T., and Apon, D., 2021, May. [*"SoK: How (not) to Design and Implement Post-Quantum Cryptography"*](https://eprint.iacr.org/2021/462.pdf). In: CT-RSA. LNCS. Springer, Heidelberg.
