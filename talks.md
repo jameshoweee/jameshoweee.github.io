@@ -72,6 +72,8 @@ A list of presentations or talks I've given:
 
 Steering committee for [RWPQC](https://rwpqc.org/).
 
+Editorial board for IACR Communications in Cryptography ([CiC](https://cic.iacr.org/)).
+
 Program committee for T-CHES 2022 (Artifacts), T-CHES 2021 (Artifacts), IndoCrypt 2020, COSADE 2020, and MAL-IoT 2019.
 
 Reviews for journals ACM TECS, IEEE Transactions on Computers, Designs Codes and Cryptography.
