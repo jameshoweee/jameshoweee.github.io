@@ -7,16 +7,21 @@ permalink: /publications/
 ## PhD Thesis
 *	Howe, J., 2017, August. [*"Practical Lattice-Based Cryptography in Hardware"*](files/thesis.pdf). PhD thesis at the School of Electronics, Electrical Engineering, and Computer Science, Queen’s University Belfast.
 
+## Standards, Specifications, and Technical Reports
+* C. Aguilar-Melchor, T. Feneuil, N. Gama, S. Gueron, J. Howe, D. Joseph, A. Joux, E. Persichetti, T. H. Randrianarisoa, M. Rivain, and D. Yue. [*"SDitH"*](https://sdith.org/). Technical report, National Institute of Standards and Technology, 2023. available at [https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures](https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures).
+
 ## Journal and Conference Papers
 This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
+### 2024
+* S. Deshpande, J. Howe, J. Szefer, and D. Yue, 2024, September. [*"SDitH in Hardware"*](https://eprint.iacr.org/2024/069). IACR Transactions on Cryptographic Hardware and Embedded Systems, 2024(2).
+
+* Aguilar-Melchor, C., Albrecht, M. R., Bailleux, T., Bindel, N., Howe, J., Hülsing, A., Joseph, D., and Manzano, M., 2023. [*"Batch Signatures, Revisited"*](https://eprint.iacr.org/2023/492.pdf). CT-RSA 2024.
+
 ### 2023
 
 * Aguilar-Melchor, C., Gama, N., Howe, J., Hülsing, A., Joseph, D. and Yue, D., 2023. [*"The Return of the SDitH"*](https://eprint.iacr.org/2022/1645.pdf). IACR EUROCRYPT 2023.
-
-* Aguilar-Melchor, C., Albrecht, M. R., Bailleux, T., Bindel, N., Howe, J., Hülsing, A., Joseph, D., and Manzano, M., 2023. [*"Batch Signatures, Revisited"*](https://eprint.iacr.org/2023/492.pdf). In submission.
-
 
 * Howe, J. and Westerbaan, B., 2022, March. [*"Benchmarking and Analysing the NIST PQC Finalist Lattice-Based Signature Schemes on the ARM Cortex M7"*](https://eprint.iacr.org/2022/405.pdf). AFRICACRYPT 2023.
 
