@@ -74,11 +74,11 @@ Steering committee for [RWPQC](https://rwpqc.org/).
 
 Editorial board for IACR Communications in Cryptography ([CiC](https://cic.iacr.org/)).
 
-Program committee for T-CHES 2022 (Artifacts), T-CHES 2021 (Artifacts), IndoCrypt 2020, COSADE 2020, and MAL-IoT 2019.
+Program committee for CT-RSA 2024, T-CHES 2022 (Artifacts), T-CHES 2021 (Artifacts), IndoCrypt 2020, COSADE 2020, and MAL-IoT 2019.
+
+Reviews for conferences IACR CiC 2024, CT-RSA 2024, IACR TCHES 2023, ISIT 2023, AFRICACRYPT 2022, IMACC 2019, CRYPTO 2019, PQCrypto 2019, ASIACRYPT 2018, CT-RSA 2018, CARDIS 2018, SAC 2016, WAHC 2015, and Security and Communication Networks.
 
 Reviews for journals ACM TECS, IEEE Transactions on Computers, Designs Codes and Cryptography.
-
-Reviews for conferences T-CHES 2023, ISIT 2023, AFRICACRYPT 2022, IMACC 2019, CRYPTO 2019, PQCrypto 2019, ASIACRYPT 2018, CT-RSA 2018, CARDIS 2018, SAC 2016, WAHC 2015, and Security and Communication Networks.
 
 ## Research Visits and Internships
 
