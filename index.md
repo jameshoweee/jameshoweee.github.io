@@ -7,10 +7,10 @@ title: Home
 
 ## Professional 
 
-I'm a cryptographer, with a focus on practical implementations, cryptanalysis, and protocols. 
+I'm a cryptographer, with a focus on practical implementations, cryptanalysis, and protocols related to post-quantum cryptography. 
 You can find a link to my publications on [Google Scholar](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en).
 
-I am currently a Senior Research Scientist in the Quantum Security Group at [SandboxAQ](https://www.sandboxaq.com/). At SandboxAQ we have a lot of great opportunities for [Residencies](https://www.sandboxaq.com/company/residencies), which can be for anyone from postgraduates to postdocs, for 3-12 months. Please feel free to get in [contact](https://jameshowe.eu/contact/) to informally enquire, I would be interested in topics (in PQC or others) ranging from FPGA or microcontroller designs, side-channel analysis and countermeasures, protocol design, crypto-agility, and developing our open-source tools at SandboxAQ. We also have other researchers, such as [Martin Albrecht](https://martinralbrecht.wordpress.com/2023/04/25/sandboxaq-internships/), who have other topics in mind.
+I am currently a Staff Research Scientist in the Quantum Security Group at [SandboxAQ](https://www.sandboxaq.com/). At SandboxAQ we have a lot of great opportunities for [Residencies](https://www.sandboxaq.com/company/residencies), which can be for anyone from postgraduates to postdocs, for 3-12 months. Please feel free to get in [contact](https://jameshowe.eu/contact/) to informally enquire, I would be interested in topics (in PQC or others) ranging from FPGA or microcontroller designs, side-channel analysis and countermeasures, protocol design, crypto-agility, and developing our open-source tools at SandboxAQ. We also have other researchers, such as [Martin Albrecht](https://martinralbrecht.wordpress.com/2023/04/25/sandboxaq-internships/), who have other topics in mind.
 
 I've had the pleasure of supervising Paula Alonso Blanco, Sanjay Deshpande, Tarun Yadav, as well as many others in a more informal setting.
 
