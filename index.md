@@ -14,7 +14,7 @@ I am currently a Staff Research Scientist in the Quantum Security Group at [Sand
 
 I've had the pleasure of supervising Paula Alonso Blanco, Sanjay Deshpande, Tarun Yadav, as well as many others in a more informal setting.
 
-For 2.5 years, I was employed as a Cryptography Engineer at [PQShield Ltd](https://dblp.org/pid/138/8975.html), a small spin-out company from the University of Oxford. Previously, I was a post-doc at the University of Bristol in the [SCA / Crypto group](https://github.com/sca-research) and at [CSIT](https://www.qub.ac.uk/ecit/CSIT/) where I also did my PhD. Other previous research positions and education history can be found in my [CV](files/CV.pdf).
+For 2.5 years, I was employed as a Cryptography Engineer at [PQShield Ltd](https://dblp.org/pid/138/8975.html), a small spin-out company from the University of Oxford. Previously, I was a post-doc at the University of Bristol in the [SCA / Crypto group](https://github.com/sca-research) and at [CSIT](https://www.qub.ac.uk/ecit/CSIT/) where I also did a research fellowship and my PhD. Other previous research positions and education history can be found in my [CV](files/CV.pdf).
 
 ## Research Interests
 
