@@ -5,6 +5,8 @@ permalink: /talks/
 ---
 
 A list of presentations or talks I've given: 
+### 2024
+* 11 August 2024. *"FIDO2 in the Quantum Realm"* [[Slides](files/defcon2024.pdf)]. Quantum Village at DEF CON 32, Las Vegas, USA.
 
 ### 2023
 * 12 August 2023. *"Exploring the Impact of PQC on Cryptographic Key Management"* [[Link](https://twitter.com/CryptoVillage/status/1686898014936596480?s=20)] with Sofía Celi, Deirdre Connolly, Sandra Guasch, and Ryan Hurst. Crypto and Privacy Village at DEF CON 31, Las Vegas, USA.
