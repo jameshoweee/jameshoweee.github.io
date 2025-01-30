@@ -15,7 +15,7 @@ This may not be a comprehensive list.
 See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en) for up-to-date and complete publications.
 
 ### 2025
-* Albrecht, M. R., Gama, N., Howe, J., Narayanan, A. K., 2025. [*"Post-Quantum Online/Offline Signatures"*]([https://eprint.iacr.org/2023/492.pdf](https://eprint.iacr.org/2025/117.pdf)). CT-RSA 2025.
+* Albrecht, M. R., Gama, N., Howe, J., Narayanan, A. K., 2025. [*"Post-Quantum Online/Offline Signatures"*](https://eprint.iacr.org/2025/117.pdf). CT-RSA 2025.
 
 ### 2024
 * S. Deshpande, J. Howe, J. Szefer, and D. Yue, 2024, September. [*"SDitH in Hardware"*](https://eprint.iacr.org/2024/069). IACR Transactions on Cryptographic Hardware and Embedded Systems, 2024(2).
