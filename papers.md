@@ -4,11 +4,19 @@ title: Publications
 permalink: /publications/
 ---
 
-## PhD Thesis
-*	Howe, J., 2017, August. [*"Practical Lattice-Based Cryptography in Hardware"*](files/thesis.pdf). PhD thesis at the School of Electronics, Electrical Engineering, and Computer Science, Queen’s University Belfast.
-
 ## Standards, Specifications, and Technical Reports
+* C. Aguilar-Melchor, T. Feneuil, N. Gama, S. Gueron, J. Howe, D. Joseph, A. Joux, E. Persichetti, T. H. Randrianarisoa, M. Rivain, and D. Yue. [*"SDitH"*](https://sdith.org/). Technical report, National Institute of Standards and Technology, 2025. available at [https://csrc.nist.gov/Projects/pqc-dig-sig/round-3-additional-signatures](https://csrc.nist.gov/Projects/pqc-dig-sig/round-3-additional-signatures).
 * C. Aguilar-Melchor, T. Feneuil, N. Gama, S. Gueron, J. Howe, D. Joseph, A. Joux, E. Persichetti, T. H. Randrianarisoa, M. Rivain, and D. Yue. [*"SDitH"*](https://sdith.org/). Technical report, National Institute of Standards and Technology, 2023. available at [https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures](https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures).
+
+## Blog Posts
+* C. Aguilar-Melchor and J. Howe. [*"New PQC Standards Set to Transform Cybersecurity"*](https://www.sandboxaq.com/post/new-pqc-standards-set-to-transform-cybersecurity). August 13, 2024.
+* J. Howe and D. Joseph. [*"Cybersecurity Chronicles: RWPQC to RSA"*](https://cryptographycaffe.sandboxaq.com/posts/rwpqc2024_rsa2024/). June 03, 2024.
+* J. Howe and D. Nguyen. [*"How to Build Secure Tunnels with Sandwich in Python"*](https://cryptographycaffe.sandboxaq.com/posts/sandwich-tutorial1/). December 19, 2023.
+* J. Howe. [*"Sandwich: An Open-Source Modern Cryptography Library"*](https://cryptographycaffe.sandboxaq.com/posts/sandwich-release/). August 08, 2023.
+* N. Bindel and J. Howe. [*"Batch Me if You Can"*](https://cryptographycaffe.sandboxaq.com/posts/batch-signing/). May 02, 2023.
+* J. Howe and S. Yue. [*"Adventures in PQC: Exploring Kyber in Python - Part I"*](https://cryptographycaffe.sandboxaq.com/posts/kyber-01/). November 30, 2022.
+* N. Bindel, J. Howe, and M. Manzano. [*"Recent Updates in PQC and Why We Should Learn to Love Cryptanalysis"*](https://cryptographycaffe.sandboxaq.com/posts/pqc-attacks/). September 20, 2022.
+* J. Howe and D. Joseph. [*"Standing Room Only for SandboxAQ at DEFCON30"*](https://www.sandboxaq.com/post/standing-room-only-for-sandboxaq-at-defcon30). May 24, 2022.
 
 ## Journal and Conference Papers
 This may not be a comprehensive list.
@@ -57,6 +65,9 @@ See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&
 * Khalid, A., Rafferty, C., Howe, J., Brannigan, S., Liu, W. and O'Neill, M., 2018, October. [*"Error Samplers for Lattice-Based Cryptography - Challenges, Vulnerabilities, and Solutions"*](https://ieeexplore.ieee.org/document/8605725). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 411-414. IEEE.
 
 * Fan, S., Liu, W., Howe, J., Khalid, A., and O'Neill, M., 2018, October. [*"Lightweight Hardware Implementation of R-LWE Lattice-Based Cryptography"*](https://ieeexplore.ieee.org/abstract/document/8605630). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 403-406. IEEE.
+
+### 2017 (PhD Thesis)
+*	Howe, J., 2017, August. [*"Practical Lattice-Based Cryptography in Hardware"*](files/thesis.pdf). PhD thesis at the School of Electronics, Electrical Engineering, and Computer Science, Queen’s University Belfast.
 
 ### 2017
 *	Howe, J. and O’Neill, M., 2017, July. [*"GLITCH: A Discrete Gaussian Testing Suite For Lattice-Based Cryptography"*](https://eprint.iacr.org/2017/438). In Proceedings of the 14th International Joint Conference on e-Business and Telecommunications (ICETE 2017): SECRYPT, Madrid, Spain.
