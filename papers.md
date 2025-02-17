@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Standards, Specifications, and Technical Reports
-* C. Aguilar-Melchor, T. Feneuil, N. Gama, S. Gueron, J. Howe, D. Joseph, A. Joux, E. Persichetti, T. H. Randrianarisoa, M. Rivain, and D. Yue. [*"SDitH"*](https://sdith.org/). Technical report, National Institute of Standards and Technology, 2025. available at [https://csrc.nist.gov/Projects/pqc-dig-sig/round-3-additional-signatures](https://csrc.nist.gov/Projects/pqc-dig-sig/round-3-additional-signatures).
+* C. Aguilar-Melchor, T. Feneuil, N. Gama, S. Gueron, J. Howe, D. Joseph, A. Joux, E. Persichetti, T. H. Randrianarisoa, M. Rivain, and D. Yue. [*"SDitH"*](https://sdith.org/). Technical report, National Institute of Standards and Technology, 2025. available at [https://csrc.nist.gov/Projects/pqc-dig-sig/round-2-additional-signatures](https://csrc.nist.gov/Projects/pqc-dig-sig/round-2-additional-signatures).
 * C. Aguilar-Melchor, T. Feneuil, N. Gama, S. Gueron, J. Howe, D. Joseph, A. Joux, E. Persichetti, T. H. Randrianarisoa, M. Rivain, and D. Yue. [*"SDitH"*](https://sdith.org/). Technical report, National Institute of Standards and Technology, 2023. available at [https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures](https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures).
 
 ## Blog Posts
