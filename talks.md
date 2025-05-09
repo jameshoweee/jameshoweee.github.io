@@ -7,7 +7,7 @@ permalink: /talks/
 A list of presentations or talks I've given: 
 
 ### 2025
-* 8 May 2025. *"NCSC Workshop - The Next Generation: The Emerging Technology Standards That Will Transform Security"*. [[Link](https://www.cyberuk.uk/2025/speaker/1627675/james-howe)] CYBERUK 2025, Manchester, UK.
+* 8 May 2025. *"NCSC Workshop - The Next Generation: The Emerging Technology Standards That Will Transform Security"* [[Link](https://www.cyberuk.uk/2025/speaker/1627675/james-howe)]. CYBERUK 2025, Manchester, UK.
 
 * 30 April 2025. *"Post-Quantum Online/Offline Signatures"* [[Slides](files/rsac2025.pdf)]. Cryptographers’ Track at the RSA Conference, San Francisco, USA. 
 
