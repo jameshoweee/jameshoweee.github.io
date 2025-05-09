@@ -7,7 +7,7 @@ permalink: /talks/
 A list of presentations or talks I've given: 
 
 ### 2025
-* 8 May 2025. *"NCSC Workshop - The Next Generation: The Emerging Technology Standards That Will Transform Security"* [[Link](https://www.cyberuk.uk/2025/speaker/1627675/james-howe)]. CYBERUK 2025, Manchester, UK.
+* 8 May 2025. *"NCSC Workshop - The Next Generation: The Emerging Technology Standards That Will Transform Security"* [[Link](https://www.cyberuk.uk/2025/speaker/1627675/james-howe)]. Panel with Deputy Chief Technology Officer for Cyber Policy and Assessments (NCSC), Issy Hall (Cyber Security AI and EmTech Standards Lead, Department for Science, Innovation, and Technology), Gerry McQuaid (Director Telecoms and Internet Security, Ofcom), and Head of International Standards (NCSC). CYBERUK 2025, Manchester, UK.
 
 * 30 April 2025. *"Post-Quantum Online/Offline Signatures"* [[Slides](files/rsac2025.pdf)]. Cryptographers’ Track at the RSA Conference, San Francisco, USA. 
 
@@ -15,7 +15,7 @@ A list of presentations or talks I've given:
 * 11 August 2024. *"FIDO2 in the Quantum Realm"* [[Slides](files/defcon2024.pdf)]. Quantum Village at DEF CON 32, Las Vegas, USA.
 
 ### 2023
-* 12 August 2023. *"Exploring the Impact of PQC on Cryptographic Key Management"* [[Link](https://twitter.com/CryptoVillage/status/1686898014936596480?s=20)] with Sofía Celi, Deirdre Connolly, Sandra Guasch, and Ryan Hurst. Crypto and Privacy Village at DEF CON 31, Las Vegas, USA.
+* 12 August 2023. *"Exploring the Impact of PQC on Cryptographic Key Management"* [[Link](https://twitter.com/CryptoVillage/status/1686898014936596480?s=20)] Panel with Sofía Celi, Deirdre Connolly, Sandra Guasch, and Ryan Hurst. Crypto and Privacy Village at DEF CON 31, Las Vegas, USA.
 
 * 18 July 2023. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/AFRICACRYPT2023.pdf)]. AFRICACRYPT 2023, Sousse, Tunisia.
 
