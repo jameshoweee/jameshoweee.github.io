@@ -7,6 +7,8 @@ permalink: /talks/
 A list of presentations or talks I've given: 
 
 ### 2025
+* 10 July 2025. *"Cryptographic Posture and PQC Readiness What Every CISO Needs to Know"* [[Slides](files/Swiss-Cyber-Security-Community.pdf)]. Invited talk to the Swiss Cyber Security Community, Virtual.
+
 * 5 June 2025. *"Lessons learned from the field: Cryptographic Insight from the Modern Enterprise"* [[Slides](files/S32_HOWE_SANDBOXAQ.pdf)][[Link](https://www.etsi.org/events/2450-etsi-iqc-quantum-safe-cryptography-conference-2025#pane-2/)]. ETSI/IQC Quantum Safe Cryptography Conference 2025, Madrid, Spain.
 
 * 8 May 2025. *"NCSC Workshop - The Next Generation: The Emerging Technology Standards That Will Transform Security"* [[Link](https://www.cyberuk.uk/2025/speaker/1627675/james-howe)]. Panel with Deputy Chief Technology Officer for Cyber Policy and Assessments (NCSC), Issy Hall (Cyber Security AI and EmTech Standards Lead, Department for Science, Innovation, and Technology), Gerry McQuaid (Director Telecoms and Internet Security, Ofcom), and Head of International Standards (NCSC). CYBERUK 2025, Manchester, UK.
