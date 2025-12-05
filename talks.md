@@ -7,6 +7,8 @@ permalink: /talks/
 A list of presentations or talks I've given: 
 
 ### 2025
+* 3 December 2025. *"Panel: Cryptographic Asset Discovery"* [[Link](https://pqc-conference.eu/talks/)]. Panel with Itan Barmes (Qiz Security Inc), Kim Nguyen (Bundesdruckerei GmbH), Vladimir Soukharev (Infosec Global (Keyfactor)), moderator: Jaime Gómez García (Santander Digital Services). European Conference on PQC Migration, The Hague, The Netherlands.
+
 * 30 October 2025. *"From Noise to Clarity: Adding Intelligence to the PQC Migration"* [[Slides](files/JamesHowe-PKIC-PQC-2025.pdf)][[Link](https://pkic.org/events/2025/pqc-conference-kuala-lumpur-my/#nav-thursday)]. PKI Consortium's PQC Conference, Kuala Lumpur, Malaysia. **Annoucing [OpenCryptography.com](https://opencryptography.com/)**.
 
 * 10 July 2025. *"Cryptographic Posture and PQC Readiness What Every CISO Needs to Know"* [[Slides](files/Swiss-Cyber-Security-Community.pdf)]. Invited talk to the Swiss Cyber Security Community, Virtual.
