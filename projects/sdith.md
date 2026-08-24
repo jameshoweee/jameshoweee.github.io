@@ -9,6 +9,7 @@ links:
   - label: sdith.org
     url: https://sdith.org/
 nav: false
+latest: true
 ---
 
 SDitH (Syndrome Decoding in the Head) is a post-quantum digital signature scheme based on the syndrome decoding problem, currently a Round 3 candidate in NIST's PQC "additional signatures" standardisation process. I'm a co-author on the submission, alongside Carlos Aguilar-Melchor, Thibauld Feneuil, Nicolas Gama, Shay Gueron, David Joseph, Antoine Joux, Edoardo Persichetti, Tovohery Hajatiana Randrianarisoa, Matthieu Rivain, and Dongze Yue.
