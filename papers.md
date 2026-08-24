@@ -3,6 +3,11 @@ layout: page
 title: Publications
 permalink: /publications/
 nav: true
+latest:
+  venue: "CT-RSA 2025"
+  title: "Post-Quantum Online/Offline Signatures"
+  meta: "Albrecht, Gama, Howe, Narayanan"
+  url: "https://eprint.iacr.org/2025/117.pdf"
 ---
 
 ## Standards, Specifications, and Technical Reports

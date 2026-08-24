@@ -12,6 +12,7 @@ title: Home
       <a href="{{ site.baseurl }}/contact/" title="Contact"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 6 10-6"/></svg></a>
       <a href="https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en" title="Google Scholar"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10 12 4 2 10l10 6 10-6Z"/><path d="M6 12.5V18c0 1.5 3 3 6 3s6-1.5 6-3v-5.5"/></svg></a>
       <a href="https://github.com/jameshoweee" title="GitHub"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2 2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6-.6.6-.6 1.2-.5 2V21"/></svg></a>
+      <a href="https://letterboxd.com/jhowe/" title="Letterboxd"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="12" r="5"/><circle cx="12" cy="12" r="5"/><circle cx="17" cy="12" r="5"/></svg></a>
     </div>
   </div>
 </div>
@@ -50,18 +51,26 @@ The focus of my research is mainly based around (but not limited to) post-quantu
   <span>Crypto Discovery &amp; Modernization</span>
 </div>
 
+{% assign talks_page = site.pages | where: "url", "/talks/" | first %}
+{% assign papers_page = site.pages | where: "url", "/publications/" | first %}
+{% assign latest_project = site.pages | where: "latest", true | first %}
 <div class="section" markdown="0">
   <div class="section-label">Recently</div>
   <div class="recent">
-    <div class="card">
-      <div class="kicker">TALK &middot; 3 DEC 2025</div>
-      <div class="title">Panel: Cryptographic Asset Discovery</div>
-      <div class="meta">European Conference on PQC Migration, The Hague</div>
-    </div>
-    <div class="card">
-      <div class="kicker">PAPER &middot; CT-RSA 2025</div>
-      <div class="title">Post-Quantum Online/Offline Signatures</div>
-      <div class="meta">Albrecht, Gama, Howe, Narayanan</div>
-    </div>
+    <a class="card" href="{{ talks_page.latest.url }}">
+      <div class="kicker">TALK &middot; {{ talks_page.latest.date | upcase }}</div>
+      <div class="title">{{ talks_page.latest.title }}</div>
+      <div class="meta">{{ talks_page.latest.meta }}</div>
+    </a>
+    <a class="card" href="{{ papers_page.latest.url }}">
+      <div class="kicker">PAPER &middot; {{ papers_page.latest.venue | upcase }}</div>
+      <div class="title">{{ papers_page.latest.title }}</div>
+      <div class="meta">{{ papers_page.latest.meta }}</div>
+    </a>
+    <a class="card" href="{{ latest_project.url }}">
+      <div class="kicker">PROJECT</div>
+      <div class="title">{{ latest_project.title }}</div>
+      <div class="meta">{{ latest_project.tagline }}</div>
+    </a>
   </div>
 </div>

@@ -3,6 +3,11 @@ layout: page
 title: Talks
 permalink: /talks/
 nav: true
+latest:
+  date: "3 Dec 2025"
+  title: "Panel: Cryptographic Asset Discovery"
+  meta: "European Conference on PQC Migration, The Hague"
+  url: "https://pqc-conference.eu/talks/"
 ---
 
 A list of presentations or talks I've given: 
