@@ -1,28 +1,21 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-#relative_permalinks: true
 
 # Setup
 title:               Dr. James Howe
 tagline:             'Cryptography Researcher and Engineer'
 description:         'Personal home page'
-url:                 http://jameshowe.eu
-#http://lanyon.getpoole.com
+url:                 https://jameshowe.eu
 baseurl:             ''
-#paginate:            
-#no
 
 # About/contact
 author:
   name:              James Howe
   email:             jameshoweee@gmail.com
 
-# Custom vars
-#version:             1.0.0
-
-#theme: "ed."
+# Plugins (bundled via the github-pages gem)
+plugins:
+  - jekyll-sitemap
 
 # Google Analytics
 google_analytics: G-DCEGWP83NC

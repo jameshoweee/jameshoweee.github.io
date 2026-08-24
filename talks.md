@@ -82,7 +82,7 @@ A list of presentations or talks I've given:
 ### 2016
 *	9 December 2016. *"Time-independent discrete Gaussian sampling for post-quantum cryptography"* [[Poster](files/FPT_Poster.pdf)]. IEEE International Conference on Field-Programmable Technology (FPT) 2016.
 
-*	9 June 2016. *"Lattice-based encryption over standard lattices in hardware"* [[Slides]()][[Poster](files/DAC_Poster.pdf)]. ACM Design Automation Conference (DAC) 2016.
+*	9 June 2016. *"Lattice-based encryption over standard lattices in hardware"* [[Poster](files/DAC_Poster.pdf)]. ACM Design Automation Conference (DAC) 2016.
 
 ## Programme Committees and Reviewing
 

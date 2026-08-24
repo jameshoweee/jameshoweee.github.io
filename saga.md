@@ -6,7 +6,7 @@ permalink: /saga/
 
 ![Joke-Logo](files/saga.png)
 
-This is a quick summary of a project I did in collaboration with Thomas Prest, Thomas Ricosset, and Mélissa Rossi on designing a statistical test suite for Gaussian samplers, both univariate and multivariate. The details of this can be found in our paper: [https://eprint.iacr.org/2019/1411](https://eprint.iacr.org/2019/1411).
+This is a quick summary of a project I did in collaboration with Thomas Prest, Thomas Ricosset, and Mélissa Rossi on designing a statistical test suite for Gaussian samplers, both univariate and multivariate. The details of this can be found in our paper: [https://eprint.iacr.org/2019/1411](https://eprint.iacr.org/2019/1411). The code is available at [github.com/PQShield/SAGA](https://github.com/PQShield/SAGA).
 
 ## Introduction
 
@@ -18,7 +18,7 @@ This standalone implementation should be able to run on most machines. We have p
 
 ## How to use
 
-Along with the main file to run these statistical tests, `saga.py`, we also provide code for our proposed sampler [1] in the files `sampler.c`, `sampler.py`, where `sampler_rep.py` is a file we use to get data on the repetition rate. We also provide [falcon/](code/falcon) and [testdata/](code/testdata) for python implementations of [Falcon](https://falcon-sign.info/) and its output values.
+Along with the main file to run these statistical tests, `saga.py`, we also provide code for our proposed sampler [1] in the files `sampler.c`, `sampler.py`, where `sampler_rep.py` is a file we use to get data on the repetition rate. We also provide [falcon/](https://github.com/PQShield/SAGA/tree/master/code/falcon) and `testdata/` for python implementations of [Falcon](https://falcon-sign.info/) and its output values.
 
 #### Example for univariate samples
 
@@ -55,7 +55,7 @@ This creates an object `res`, and printing `res` gives expected and empiric mome
 
 #### Example for multivariate samples
 
-Now suppose we want to test the normality of a (Python) list of *multivariate* samples stored in `data`, with *expected* center 0 and *expected* standard deviation `sigma`. For simplicity and because it applies to most multivariate samplers, the expected center is always considered as zero. One can still translate the samples if the expected center is (integral) nonzero. For replicability, we generated `data` and `sigma` by parsing raw data contained in the 39.2 MB file [falcon64_avx2](code/testdata/falcon64_avx2). The following snippet of code in Python shows the required course of action:
+Now suppose we want to test the normality of a (Python) list of *multivariate* samples stored in `data`, with *expected* center 0 and *expected* standard deviation `sigma`. For simplicity and because it applies to most multivariate samplers, the expected center is always considered as zero. One can still translate the samples if the expected center is (integral) nonzero. For replicability, we generated `data` and `sigma` by parsing raw data contained in the 39.2 MB file `testdata/falcon64_avx2`. The following snippet of code in Python shows the required course of action:
 
 ```python
 >> import saga
