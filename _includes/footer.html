@@ -1,0 +1,11 @@
+<footer class="site-footer">
+  <div>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</div>
+  <div class="site-footer-links">
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.nav == true %}
+        <a href="{{ node.url }}">{{ node.nav_title | default: node.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</footer>

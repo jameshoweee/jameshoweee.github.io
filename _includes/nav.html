@@ -1,0 +1,13 @@
+<nav class="site-nav">
+  <div class="site-nav-inner">
+    <a class="site-brand" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+    <div class="site-nav-links">
+      {% assign pages_list = site.pages | sort:"url" %}
+      {% for node in pages_list %}
+        {% if node.nav == true %}
+          <a class="site-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.nav_title | default: node.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</nav>

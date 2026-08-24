@@ -3,9 +3,22 @@ layout: default
 title: Home
 ---
 
-<img align="right" src="files/DSCF5469.jpg" alt="drawing" style="width:215px; padding-left: 5px"/>
+<div class="hero" markdown="0">
+  <img src="files/DSCF5469.jpg" alt="James Howe">
+  <div>
+    <h1>Dr. James Howe</h1>
+    <div class="hero-tagline">Cryptography Researcher and Engineer</div>
+    <div class="hero-icons">
+      <a href="{{ site.baseurl }}/contact/" title="Contact"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 6 10-6"/></svg></a>
+      <a href="https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en" title="Google Scholar"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10 12 4 2 10l10 6 10-6Z"/><path d="M6 12.5V18c0 1.5 3 3 6 3s6-1.5 6-3v-5.5"/></svg></a>
+      <a href="https://github.com/jameshoweee" title="GitHub"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2 2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6-.6.6-.6 1.2-.5 2V21"/></svg></a>
+    </div>
+  </div>
+</div>
 
-## Professional 
+<div class="bio" markdown="1">
+
+## Professional
 
 I'm a cryptographer, with a focus on practical implementations, cryptanalysis, and protocols related to post-quantum cryptography. 
 You can find a link to my publications on [Google Scholar](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en).
@@ -18,6 +31,37 @@ I've had the pleasure of supervising Paula Alonso Blanco, Sanjay Deshpande, Kahl
 
 For 2.5 years, I was employed as a Cryptography Engineer at [PQShield Ltd](https://dblp.org/pid/138/8975.html), a small spin-out company from the University of Oxford. Previously, I was a post-doc at the University of Bristol in the [SCA / Crypto group](https://github.com/sca-research) and at [CSIT](https://www.qub.ac.uk/ecit/CSIT/) where I also did a research fellowship and my PhD. Other previous research positions and education history can be found in my [CV](files/CV.pdf).
 
+</div>
+
+<div class="section" markdown="1">
+
 ## Research Interests
 
 The focus of my research is mainly based around (but not limited to) post-quantum cryptography. My research has somewhat been focused on implementations (optimisations for hardware and software designs), physical implementation attacks (side-channel and fault attacks) and countermeasures. Also I have been researching protocols (such as KEMs, signatures, and beyond) and algorithmic optimisations.
+
+</div>
+
+<div class="tags" markdown="0">
+  <span>Post-Quantum Cryptography</span>
+  <span>FPGA &amp; Embedded Systems</span>
+  <span>Software Optimisation</span>
+  <span>Side-Channel Analysis</span>
+  <span>Protocol Design</span>
+  <span>Crypto Discovery &amp; Modernization</span>
+</div>
+
+<div class="section" markdown="0">
+  <div class="section-label">Recently</div>
+  <div class="recent">
+    <div class="card">
+      <div class="kicker">TALK &middot; 3 DEC 2025</div>
+      <div class="title">Panel: Cryptographic Asset Discovery</div>
+      <div class="meta">European Conference on PQC Migration, The Hague</div>
+    </div>
+    <div class="card">
+      <div class="kicker">PAPER &middot; CT-RSA 2025</div>
+      <div class="title">Post-Quantum Online/Offline Signatures</div>
+      <div class="meta">Albrecht, Gama, Howe, Narayanan</div>
+    </div>
+  </div>
+</div>

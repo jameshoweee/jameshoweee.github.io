@@ -2,6 +2,7 @@
 layout: page
 title: Talks
 permalink: /talks/
+nav: true
 ---
 
 A list of presentations or talks I've given: 

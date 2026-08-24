@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+nav: true
 ---
 
 ## Standards, Specifications, and Technical Reports

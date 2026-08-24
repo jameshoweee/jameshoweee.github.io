@@ -1,16 +1,21 @@
 ---
-layout: page
-title: "Statistically Acceptable GAussians (SAGA)"
-permalink: /saga/
+layout: project
+title: "SAGA — Statistically Acceptable GAussians"
+permalink: /projects/saga/
+redirect_from: /saga/
+github: https://github.com/PQShield/SAGA
+paper: https://eprint.iacr.org/2019/1411
+paper_venue: PQCrypto 2020
+nav: false
 ---
 
-![Joke-Logo](files/saga.png)
+![Joke-Logo](/files/saga.png)
 
-This is a quick summary of a project I did in collaboration with Thomas Prest, Thomas Ricosset, and Mélissa Rossi on designing a statistical test suite for Gaussian samplers, both univariate and multivariate. The details of this can be found in our paper: [https://eprint.iacr.org/2019/1411](https://eprint.iacr.org/2019/1411). The code is available at [github.com/PQShield/SAGA](https://github.com/PQShield/SAGA).
+A statistical test suite for verifying the correctness of Gaussian samplers, both univariate and multivariate, designed in collaboration with Thomas Prest, Thomas Ricosset, and Mélissa Rossi.
 
 ## Introduction
 
-SAGA (Statistically Acceptable GAussians) is a test suite proposal for verfying statistical correctness for univariate and multivariate Gaussians. The paper accompanying this code has been published at PQCrypto 2020 and is also available on [ePrint](https://eprint.iacr.org/2019/1411). The following will briefly describe how to setup and use the python script.
+SAGA (Statistically Acceptable GAussians) is a test suite proposal for verifying statistical correctness for univariate and multivariate Gaussians. The following will briefly describe how to setup and use the python script.
 
 ## Installation
 
@@ -92,7 +97,7 @@ The test checks that the data corresponds to a multivariate Gaussian, by doing t
 
 The p-values given by items 2 and 3 are > 0.001, and item 4 states that each coordinate looks Gaussian (in average, we expect 128 * 0.001 coordinates to be rejected), hence this list of samples pass our test of multivariate normality. In addition, one can plot the covariance matrix by typing `res.show_covariance()`, which gives:
 
-![covariance](files/covariance.png)
+![covariance](/files/covariance.png)
 
 ***
 

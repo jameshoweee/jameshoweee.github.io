@@ -16,6 +16,7 @@ author:
 # Plugins (bundled via the github-pages gem)
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Google Analytics
 google_analytics: G-DCEGWP83NC
