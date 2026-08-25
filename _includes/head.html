@@ -7,8 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+    {% if page.url == "/" %}
+      {{ page.title }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
@@ -27,16 +27,28 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   <!-- SEO / link previews -->
-  <meta name="description" content="{{ site.description }}">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:title" content="{% if page.title == 'Home' %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}">
-  <meta property="og:description" content="{{ site.description }}">
-  <meta property="og:image" content="{{ site.url }}/files/DSCF5469.jpg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.title == 'Home' %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{{ site.description }}">
-  <meta name="twitter:image" content="{{ site.url }}/files/DSCF5469.jpg">
+  {% seo title=false %}
+
+  {% if page.url == "/" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "James Howe",
+    "url": "{{ site.url }}",
+    "jobTitle": "Cryptographer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "SandboxAQ"
+    },
+    "sameAs": [
+      "https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en",
+      "https://github.com/jameshoweee",
+      "https://letterboxd.com/jhowe/"
+    ]
+  }
+  </script>
+  {% endif %}
 
   {% include analytics.html %}
 </head>

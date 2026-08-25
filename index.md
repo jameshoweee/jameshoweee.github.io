@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: "Dr. James Howe · Cryptography Researcher and Engineer"
 ---
 
 <div class="hero" markdown="0">

@@ -23,7 +23,7 @@ A list of presentations or talks I've given:
 
 * 8 May 2025. *"NCSC Workshop - The Next Generation: The Emerging Technology Standards That Will Transform Security"* [[Link](https://www.cyberuk.uk/2025/speaker/1627675/james-howe)]. Panel with Deputy Chief Technology Officer for Cyber Policy and Assessments (NCSC), Issy Hall (Cyber Security AI and EmTech Standards Lead, Department for Science, Innovation, and Technology), Gerry McQuaid (Director Telecoms and Internet Security, Ofcom), and Head of International Standards (NCSC). CYBERUK 2025, Manchester, UK.
 
-* 30 April 2025. *"Post-Quantum Online/Offline Signatures"* [[Slides](files/rsac2025.pdf)]. Cryptographers’ Track at the RSA Conference, San Francisco, USA. 
+* 30 April 2025. *"Post-Quantum Online/Offline Signatures"* [[Slides](files/rsac2025.pdf)][[Project page](/projects/online-offline-signatures/)]. Cryptographers’ Track at the RSA Conference, San Francisco, USA. 
 
 ### 2024
 * 11 August 2024. *"FIDO2 in the Quantum Realm"* [[Slides](files/defcon2024.pdf)]. Quantum Village at DEF CON 32, Las Vegas, USA.
@@ -31,7 +31,7 @@ A list of presentations or talks I've given:
 ### 2023
 * 12 August 2023. *"Exploring the Impact of PQC on Cryptographic Key Management"* [[Link](https://twitter.com/CryptoVillage/status/1686898014936596480?s=20)] Panel with Sofía Celi, Deirdre Connolly, Sandra Guasch, and Ryan Hurst. Crypto and Privacy Village at DEF CON 31, Las Vegas, USA.
 
-* 18 July 2023. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/AFRICACRYPT2023.pdf)]. AFRICACRYPT 2023, Sousse, Tunisia.
+* 18 July 2023. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/AFRICACRYPT2023.pdf)][[Project page](/projects/falcon-fpu/)]. AFRICACRYPT 2023, Sousse, Tunisia.
 
 * 26 March 2023. *"Panel: Roundtable #1 – Implementation and Side Channels"* [[Link](https://rwpqc.org/)] with Thomas Pornin (NCC), Tobias Schneider (NXP), Daniel Genkin (Georgia Tech), Mélissa Rossi (ANSSI), and Patrick Longa (Microsoft Research). Real World PQC 2023. Tokyo, Japan.
 
@@ -42,7 +42,7 @@ A list of presentations or talks I've given:
 * 15 February 2023. *"Post-Quantum Fido2"* [[Link](https://www.etsi.org/events/2117-2023-02-9th-etsi-iqc-quantum-safe-cryptography-workshop)] (Presented by Sandra Guasch). 9th ETSI/IQC Quantum Safe Cryptography Event, Sophia Antipolis, France.
 
 ### 2022
-* 30 November 2022. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/NIST4thRoundConference.pdf)]. NIST Fourth PQC Conference, Virtual.
+* 30 November 2022. *"Benchmarking and Analysing NIST PQC Lattice-Based Signature Scheme Standards on the ARM Cortex M7"* [[Slides](files/NIST4thRoundConference.pdf)][[Project page](/projects/falcon-fpu/)]. NIST Fourth PQC Conference, Virtual.
 
 * 14 September 2022. *"How (not) to Design and Instantiate Post-Quantum Cryptography"*. Co-presented with Thomas Prest. Invited talk to NIST's Security Research Review.
 
@@ -60,7 +60,7 @@ A list of presentations or talks I've given:
 * 12 January 2021. *"Attacks on NIST PQC 3rd Round Candidates"* [[Program](https://rwc.iacr.org/2021/program.php)][[Video](https://youtu.be/X0Y6D5zLI-Y?t=1747)][[Slides](https://iacr.org/submit/files/slides/2021/rwc/rwc2021/22/slides.pdf)]. Co-presented with Daniel Apon. IACR Real World Crypto 2021, Virtual Event.
 
 ### 2020
-* 17 September 2020. *"Isochronous Gaussian sampling: From inception to implementation"* [[Presentation](https://youtu.be/KqCnJApHC3w)][[Slides](files/FalconConstantTime.pdf)]. International Conference on Post-Quantum Cryptography (PQCrypto) 2020.
+* 17 September 2020. *"Isochronous Gaussian sampling: From inception to implementation"* [[Presentation](https://youtu.be/KqCnJApHC3w)][[Slides](files/FalconConstantTime.pdf)][[Project page](/projects/saga/)]. International Conference on Post-Quantum Cryptography (PQCrypto) 2020.
 
 * 19 June 2020. *"Real-World Post-Quantum Security Strategies"* [[Link](https://www.quantumtechcongress.co.uk/speakers/dr-james-howe)]. Quantum.Tech Congress 2020.
 
@@ -81,7 +81,7 @@ A list of presentations or talks I've given:
 *	28 May 2018. *"Compact, Scalable, and Efficient Discrete Gaussian Samplers for Lattice-Based Cryptography"* [[Video](https://player.vimeo.com/video/272220291)][[Slides](files/iscas2018.pdf)]. IEEE International Symposium on Circuits and Systems (ISCAS) 2018.
 
 ### 2017
-*	25 July 2017. *"GLITCH: A Discrete Gaussian Testing Suite For Lattice-Based Cryptography"* [[Poster](files/SECRYPT__Poster.pdf)]. International Joint Conference on e-Business and Telecommunications (ICETE 2017): SECRYPT 2018.
+*	25 July 2017. *"GLITCH: A Discrete Gaussian Testing Suite For Lattice-Based Cryptography"* [[Poster](files/SECRYPT__Poster.pdf)][[Project page](/projects/glitch/)]. International Joint Conference on e-Business and Telecommunications (ICETE 2017): SECRYPT 2018.
 
 *	30 May 2017. *"Compact and provably secure lattice-based signatures in hardware"* [[Slides](files/ISCAS_2017.pdf)]. IEEE International Symposium on Circuits and Systems (ISCAS) 2017.
 

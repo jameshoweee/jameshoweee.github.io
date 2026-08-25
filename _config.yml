@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Dr. James Howe
 tagline:             'Cryptography Researcher and Engineer'
-description:         'Personal home page'
+description:         'James Howe is a post-quantum cryptography researcher and engineer at SandboxAQ, working on PQC implementations, side-channel and fault analysis, and protocol design.'
 url:                 https://jameshowe.eu
 baseurl:             ''
 
@@ -13,10 +13,18 @@ author:
   name:              James Howe
   email:             jameshoweee@gmail.com
 
+# Default social-preview image (used by jekyll-seo-tag when a page doesn't set its own `image`)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /files/DSCF5469.jpg
+
 # Plugins (bundled via the github-pages gem)
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 # Google Analytics
 google_analytics: G-DCEGWP83NC

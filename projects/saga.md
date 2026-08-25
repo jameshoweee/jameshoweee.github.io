@@ -9,7 +9,7 @@ paper_venue: PQCrypto 2020
 nav: false
 ---
 
-![Joke-Logo](/files/saga.png)
+![SAGA logo](/files/saga.png)
 
 A statistical test suite for verifying the correctness of Gaussian samplers, both univariate and multivariate, designed in collaboration with Thomas Prest, Thomas Ricosset, and Mélissa Rossi.
 
@@ -97,7 +97,7 @@ The test checks that the data corresponds to a multivariate Gaussian, by doing t
 
 The p-values given by items 2 and 3 are > 0.001, and item 4 states that each coordinate looks Gaussian (in average, we expect 128 * 0.001 coordinates to be rejected), hence this list of samples pass our test of multivariate normality. In addition, one can plot the covariance matrix by typing `res.show_covariance()`, which gives:
 
-![covariance](/files/covariance.png)
+![Heatmap of a 128x128 covariance matrix, showing a clear diagonal indicating uncorrelated samples](/files/covariance.png)
 
 ***
 
