@@ -325,6 +325,70 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
 }
 
+/* ===================== Movies ===================== */
+
+.movie-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.movie-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  padding: 10px 0;
+  border-top: 1px solid var(--border);
+  font-size: 14px;
+}
+.movie-list li:last-child {
+  border-bottom: 1px solid var(--border);
+}
+.movie-main {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.movie-title {
+  font-weight: 500;
+  color: var(--ink);
+}
+.movie-title:hover {
+  color: var(--accent);
+}
+.movie-year {
+  color: var(--muted);
+  font-size: 13px;
+}
+.movie-liked {
+  color: var(--accent);
+  font-size: 13px;
+}
+.movie-rewatch {
+  color: var(--muted);
+  font-size: 13px;
+}
+.movie-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  font-size: 13px;
+  color: var(--muted);
+}
+.movie-rating {
+  color: var(--accent);
+  letter-spacing: 1px;
+}
+
+@media (max-width: 560px) {
+  .movie-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+}
+
 /* ===================== Baseline element styling ===================== */
 
 blockquote {
