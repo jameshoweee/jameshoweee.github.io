@@ -10,6 +10,7 @@ title: "Dr. James Howe · Cryptography Researcher and Engineer"
     <div class="hero-tagline">Cryptography Researcher and Engineer</div>
     <div class="hero-icons">
       <a href="{{ site.baseurl }}/contact/" title="Contact"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 6 10-6"/></svg></a>
+      <a href="https://www.linkedin.com/in/jameshowe1729/" title="LinkedIn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg></a>
       <a href="https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en" title="Google Scholar"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10 12 4 2 10l10 6 10-6Z"/><path d="M6 12.5V18c0 1.5 3 3 6 3s6-1.5 6-3v-5.5"/></svg></a>
       <a href="https://github.com/jameshoweee" title="GitHub"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2 2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6-.6.6-.6 1.2-.5 2V21"/></svg></a>
       <a href="https://letterboxd.com/jhowe/" title="Letterboxd"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="12" r="5"/><circle cx="12" cy="12" r="5"/><circle cx="17" cy="12" r="5"/></svg></a>
@@ -24,7 +25,7 @@ title: "Dr. James Howe · Cryptography Researcher and Engineer"
 I'm a cryptographer, with a focus on practical implementations, cryptanalysis, and protocols related to post-quantum cryptography. 
 You can find a link to my publications on [Google Scholar](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en).
 
-I currently lead the cryptography team at [SandboxAQ](https://www.sandboxaq.com/), where I manage our cryptographic research and guide the design and enhancement of our cybersecurity products. My work spans post-quantum cryptography, cryptographic modernization, and strengthening compliance and risk management capabilities.
+I currently lead the cryptography team at [SandboxAQ](https://www.sandboxaq.com/), where I manage our cryptographic research and guide the design and enhancement of our cybersecurity products. My work spans post-quantum cryptography, PQC migration and cryptographic modernization, and strengthening compliance and risk management capabilities.
 
 At SandboxAQ we have a lot of great opportunities for [Residencies](https://www.sandboxaq.com/company/residencies), which can be for anyone from postgraduates to postdocs, for 3-12 months. Please feel free to get in [contact](https://jameshowe.eu/contact/) to informally enquire, I would be interested in topics (in PQC or others) ranging from FPGA or microcontroller designs, side-channel analysis and countermeasures, protocol design, crypto-agility, and developing our open-source tools at SandboxAQ. We also have other researchers, such as [Martin Albrecht](https://martinralbrecht.wordpress.com/2023/04/25/sandboxaq-internships/), who have other topics in mind.
 
@@ -44,11 +45,11 @@ The focus of my research is mainly based around (but not limited to) post-quantu
 
 <div class="tags" markdown="0">
   <span>Post-Quantum Cryptography</span>
+  <span>PQC Migration &amp; Modernization</span>
+  <span>Protocol Design</span>
   <span>FPGA &amp; Embedded Systems</span>
   <span>Software Optimisation</span>
   <span>Side-Channel Analysis</span>
-  <span>Protocol Design</span>
-  <span>Crypto Discovery &amp; Modernization</span>
 </div>
 
 {% assign talks_page = site.pages | where: "url", "/talks/" | first %}

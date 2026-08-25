@@ -8,6 +8,7 @@ nav_title: Contact
 
 * Personal email: **jameshoweee** at **gmail** dot **com**.
 * Work email: **james** dot **howe** at **sandboxaq** dot **com**.
+* LinkedIn: **[jameshowe1729](https://www.linkedin.com/in/jameshowe1729/)**.
 * GitHub: **[jameshoweee](https://github.com/jameshoweee)**.
 * Google Scholar: **[James Howe](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en)**.
 * Letterboxd: **[jhowe](https://letterboxd.com/jhowe/)**.
