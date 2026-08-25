@@ -7,6 +7,24 @@ nav: false
 
 A diary of what I've watched, pulled automatically from [Letterboxd](https://letterboxd.com/jhowe/).
 
+{% assign favorites = site.data.favorites %}
+{% if favorites.size > 0 %}
+<div class="favorite-films">
+  {% for film in favorites %}
+  {% assign fav_key = film.title | append: "|" | append: film.year %}
+  {% assign fav_meta = site.data.movie_metadata[fav_key] %}
+  <div class="favorite-film">
+    {% if fav_meta.poster %}
+      <img src="{{ fav_meta.poster }}" alt="{{ film.title }} ({{ film.year }}) poster">
+    {% else %}
+      <div class="favorite-film-placeholder">{{ film.title }}</div>
+    {% endif %}
+    <div class="favorite-film-title">{{ film.title }}</div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
 {% assign movies = site.data.movies | sort: "watched_date" | reverse %}
 {% assign film_groups = movies | group_by: "title" %}
 {% assign liked_movies = movies | where: "liked", true %}

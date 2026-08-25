@@ -20,8 +20,10 @@ require "uri"
 
 API_KEY = ENV.fetch("TMDB_API_KEY") { abort "TMDB_API_KEY is not set" }
 MOVIES_PATH = File.join(__dir__, "..", "_data", "movies.yml")
+FAVORITES_PATH = File.join(__dir__, "..", "_data", "favorites.yml")
 METADATA_PATH = File.join(__dir__, "..", "_data", "movie_metadata.yml")
 STATS_PATH = File.join(__dir__, "..", "_data", "movie_stats.yml")
+POSTER_BASE = "https://image.tmdb.org/t/p/w500"
 
 def tmdb_get(path, params)
   uri = URI("https://api.themoviedb.org/3#{path}")
@@ -33,9 +35,12 @@ def tmdb_get(path, params)
 end
 
 movies = YAML.load_file(MOVIES_PATH) || []
+favorites = File.exist?(FAVORITES_PATH) ? (YAML.load_file(FAVORITES_PATH) || []) : []
 metadata = File.exist?(METADATA_PATH) ? (YAML.load_file(METADATA_PATH) || {}) : {}
 
-films = movies.map { |m| [m["title"], m["year"]] }.uniq
+diary_films = movies.map { |m| [m["title"], m["year"]] }
+favorite_films = favorites.map { |f| [f["title"], f["year"]] }
+films = (diary_films + favorite_films).uniq
 new_films = films.reject { |title, year| metadata.key?("#{title}|#{year}") }
 
 puts "#{films.size} unique films, #{new_films.size} not yet cached"
@@ -53,6 +58,7 @@ new_films.each do |title, year|
   metadata[key] = {
     "genres" => full && full["genres"] ? full["genres"].map { |g| g["name"] } : [],
     "director" => director && director["name"],
+    "poster" => full && full["poster_path"] ? "#{POSTER_BASE}#{full['poster_path']}" : nil,
   }
 
   print "."

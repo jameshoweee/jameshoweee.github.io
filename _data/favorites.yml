@@ -1,0 +1,11 @@
+# Letterboxd "Four Favorites", from the profile data export (profile.csv's
+# Favorite Films column, resolved from boxd.it short links by hand since
+# they aren't stable machine-readable identifiers).
+- title: Paddington 2
+  year: 2017
+- title: The Prestige
+  year: 2006
+- title: Arrival
+  year: 2016
+- title: Midnight in Paris
+  year: 2011
