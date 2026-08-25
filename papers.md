@@ -15,6 +15,7 @@ latest:
 * C. Aguilar-Melchor, T. Feneuil, N. Gama, S. Gueron, J. Howe, D. Joseph, A. Joux, E. Persichetti, T. H. Randrianarisoa, M. Rivain, and D. Yue. [*"SDitH"*](https://sdith.org/). Technical report, National Institute of Standards and Technology, 2023. available at [https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures](https://csrc.nist.gov/Projects/pqc-dig-sig/round-1-additional-signatures). [[Project page](/projects/sdith/)]
 
 ## Blog Posts
+* G. Wattiau, J. Howe, and S. Guasch. [*"How a vulnerability found by AQtive Guard in HP's software led to a fast, collaborative fix, and shows why cryptographic visibility matters."*](https://cryptographycaffe.sandboxaq.com/posts/hp-crypto-vuln-disclosure/). July 30, 2025.
 * C. Aguilar-Melchor and J. Howe. [*"New PQC Standards Set to Transform Cybersecurity"*](https://www.sandboxaq.com/post/new-pqc-standards-set-to-transform-cybersecurity). August 13, 2024.
 * J. Howe and D. Joseph. [*"Cybersecurity Chronicles: RWPQC to RSA"*](https://cryptographycaffe.sandboxaq.com/posts/rwpqc2024_rsa2024/). June 03, 2024.
 * J. Howe and D. Nguyen. [*"How to Build Secure Tunnels with Sandwich in Python"*](https://cryptographycaffe.sandboxaq.com/posts/sandwich-tutorial1/). December 19, 2023.
