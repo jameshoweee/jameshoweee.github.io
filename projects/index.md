@@ -13,6 +13,10 @@ Schemes, standards, and open-source code that go alongside my research — mostl
     <div class="project-desc">A NIST PQC Round 3 candidate for the additional digital signatures process, based on the syndrome decoding problem.</div>
   </li>
   <li>
+    <a class="project-name" href="/projects/opencryptography/">OpenCryptography</a>
+    <div class="project-desc">A free public database mapping cryptographic assets, vulnerabilities, and risks across the internet.</div>
+  </li>
+  <li>
     <a class="project-name" href="/projects/online-offline-signatures/">Online/Offline Signatures</a>
     <div class="project-desc">A proof-of-concept implementation of post-quantum online/offline signatures, with cross-platform benchmarks.</div>
   </li>
