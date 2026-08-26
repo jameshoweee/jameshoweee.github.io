@@ -1,4 +1,8 @@
 ---
+film_count: '1,307'
+hours_watched: '2,482'
+director_count: '653'
+country_count: '53'
 top_genres:
 - name: Drama
   count: 553
@@ -156,7 +160,6 @@ all_directors:
 - Curtis Hanson
 - Céline Sciamma
 - D.J. Caruso
-- DK Welchman
 - Damien Chazelle
 - Dan Berk
 - Dan Gilroy
@@ -276,6 +279,7 @@ all_directors:
 - Henry Joost
 - Hikari
 - Howard Deutch
+- Hugh Welchman
 - Ilya Naishuller
 - Irvin Kershner
 - Ivan Reitman
@@ -415,7 +419,6 @@ all_directors:
 - Len Wiseman
 - Lena Dunham
 - Lenny Abrahamson
-- Lilly Wachowski
 - Lisa Cholodenko
 - Lisa Joy
 - Lone Scherfig
