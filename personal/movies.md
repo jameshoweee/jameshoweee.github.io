@@ -91,8 +91,14 @@ A diary of what I've watched, pulled automatically from [Letterboxd](https://let
           {% assign half_star = movie.rating | minus: full_stars %}
           {% for i in (1..full_stars) %}&#9733;{% endfor %}{% if half_star >= 0.5 %}&#189;{% endif %}
         </span>
+      {% else %}
+        <span class="movie-unknown">No Rating</span>
       {% endif %}
-      <span class="movie-date">{% if movie.watched_date != "" %}{{ movie.watched_date | date: "%-d %b %Y" }}{% else %}N/A{% endif %}</span>
+      {% if movie.watched_date != "" %}
+        <span class="movie-date">{{ movie.watched_date | date: "%-d %b %Y" }}</span>
+      {% else %}
+        <span class="movie-unknown">No Date</span>
+      {% endif %}
     </div>
   </li>
   {% endfor %}
