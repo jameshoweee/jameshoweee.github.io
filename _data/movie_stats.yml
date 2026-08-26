@@ -1,273 +1,690 @@
 ---
 top_genres:
 - name: Drama
-  count: 149
-- name: Comedy
-  count: 108
-- name: Thriller
-  count: 92
+  count: 553
 - name: Action
-  count: 62
-- name: Crime
-  count: 58
-- name: Science Fiction
-  count: 53
+  count: 442
+- name: Comedy
+  count: 377
+- name: Thriller
+  count: 323
 - name: Adventure
-  count: 49
-- name: Horror
-  count: 42
+  count: 323
+- name: Science Fiction
+  count: 266
+- name: Crime
+  count: 229
+- name: Fantasy
+  count: 141
 top_directors:
-- name: Christopher Nolan
-  count: 8
-- name: Paul Thomas Anderson
-  count: 6
-- name: David Lynch
-  count: 5
+- name: Ridley Scott
+  count: 15
+- name: Steven Spielberg
+  count: 12
 - name: Martin Scorsese
-  count: 5
-- name: Alfred Hitchcock
-  count: 5
-- name: Edgar Wright
-  count: 4
-- name: Darren Aronofsky
-  count: 4
-- name: Paul Feig
-  count: 4
+  count: 11
+- name: Michael Bay
+  count: 11
+- name: Wes Anderson
+  count: 11
+- name: Christopher Nolan
+  count: 10
+- name: Guillermo del Toro
+  count: 9
+- name: Paul Thomas Anderson
+  count: 9
 all_directors:
+- Aaron Horvath
+- Aaron Nee
 - Aaron Schimberg
 - Aaron Sorkin
+- Abdellatif Kechiche
+- Adam McKay
+- Adam Wingard
 - Adele Lim
+- Adil El Arbi
 - Adrian Choa
+- Akiva Schaffer
+- Alan Taylor
+- Alejandro G. Iñárritu
 - Alex Garland
+- Alex Gibney
+- Alex Proyas
 - Alexander Payne
+- Alexander Shuryepov
 - Alfonso Cuarón
 - Alfred Hitchcock
 - Ali Abbasi
+- Ali Tabrizi
 - Alice Troughton
+- Allen Coulter
+- Allen Hughes
+- Alma Har'el
+- Amanda McBaine
 - Andrew Adamson
+- Andrew Ahn
+- Andrew Callaghan
 - Andrew Davis
 - Andrew Dominik
 - Andrew Haigh
+- Andrew Stanton
+- Andy Muschietti
+- Andy Serkis
+- Aneesh Chaganty
+- Ang Lee
+- Anna Boden
 - Anna Rose Holmer
+- Antoine Fuqua
 - Ari Aster
+- Armando Iannucci
 - Arthur Bourbon
 - Arthur Bradford
 - Arturo Perez Jr.
+- Asif Kapadia
 - Audrey Collins
+- Ava DuVernay
+- Banksy
+- Barry Jenkins
+- Barry Sonnenfeld
 - Bart Layton
 - Baz Luhrmann
 - Ben Affleck
 - Ben Hutchison
+- Ben Stiller
+- Ben Taylor
+- Ben Wheatley
+- Bennett Miller
 - Benny Safdie
 - Bernard MacMahon
 - Bernardo Britto
+- Betsy West
+- Bibo Bergeron
+- Bill Condon
 - Bill Forsyth
+- Bill Pohlad
 - Billy Wilder
+- Bo Burnham
 - Bob Persichetti
+- Bobby Farrelly
 - Bong Joon Ho
+- Boots Riley
+- Brad Baruh
+- Brad Bird
+- Brad Furman
+- Brad Peyton
+- Bradley Cooper
+- Brady Corbet
+- Brandon Trost
+- Breck Eisner
+- Brett Haley
 - Brett Ratner
+- Brian De Palma
+- Brian Fee
+- Brian Helgeland
+- Bryan Fogel
+- Bryan Singer
 - Cameron Cairnes
+- Cameron Crowe
 - Carlos López Estrada
+- Cary Joji Fukunaga
+- Cate Shortland
+- Catherine Hardwicke
+- Cathy Yan
 - Celine Song
+- Chad Stahelski
 - Charles Laughton
 - Charlotte Wells
 - Chloé Zhao
+- Chris Addison
+- Chris Columbus
+- Chris McKay
 - Chris Miller
+- Chris Morris
 - Chris Renaud
+- Chris Sanders
+- Chris Wedge
+- Chris Weitz
 - Christopher McQuarrie
 - Christopher Nolan
+- Claire Denis
+- Clint Eastwood
 - Colin Butfield
 - Colin Trevorrow
 - Coralie Fargeat
 - Cord Jefferson
+- Craig Gillespie
 - Curtis Hanson
+- Céline Sciamma
+- D.J. Caruso
+- DK Welchman
 - Damien Chazelle
 - Dan Berk
+- Dan Gilroy
+- Dan Scanlon
+- Dan Trachtenberg
+- Daniel Espinosa
+- Daniel Goldhaber
+- Daniel Kwan
 - Daniel Scheinert
 - Danny Boyle
 - Danny LeGare
 - Danny Philippou
+- Daphne Zuniga
+- Darius Marder
 - Darren Aronofsky
+- Darren Lynn Bousman
+- David Ayer
 - David Cronenberg
+- David Dobkin
+- David F. Sandberg
+- David Farrier
 - David Fincher
 - David Frankel
 - David Freyne
 - David Gelb
+- David Gordon Green
+- David Koepp
 - David Leitch
 - David Lowery
 - David Lynch
 - David Mackenzie
+- David O. Russell
 - David Robert Mitchell
+- David Silverman
+- David Slade
+- David Twohy
+- David Yarovesky
 - David Yates
 - David Zucker
+- Davis Guggenheim
+- Dean DeBlois
+- Dean Fleischer Camp
+- Dean Parisot
+- Deborah Kampmeier
+- Debra Granik
 - Denis Villeneuve
+- Dennis Dugan
+- Denzel Washington
 - Derek Cianfrance
 - Desiree Akhavan
 - Destin Daniel Cretton
 - Dev Patel
+- Dexter Fletcher
+- Dominic Cooke
+- Don Hall
+- Donald Petrie
+- Doug Liman
 - Dougal Wilson
 - Douglas Trumbull
+- Drew Goddard
 - Drew Hancock
+- Duncan Jones
 - Edgar Wright
 - Eduardo Zuno Valladolid
 - Edward Berger
+- Edward Zwick
+- Eliza Hittman
+- Elizabeth Banks
 - Emerald Fennell
 - Emma Seligman
+- Eric Darnell
+- Ericson Core
+- Espen Sandberg
 - Ethan Coen
 - Eva Victor
+- Evan Goldberg
+- Evgeniy Abyzov
+- F. Gary Gray
 - Fede Álvarez
+- Felicity Morris
+- Fernando Meirelles
+- Florian Zeller
 - Francis Ford Coppola
 - Francis Lawrence
+- Frank Miller
 - Frank Pavich
+- Gabriela Cowperthwaite
+- Gabriele Muccino
+- Gareth Edwards
+- Garth Davis
 - Gary Ross
+- Gary Winick
+- Gavin Hood
 - Gavin O'Connor
+- Gene Stupnitsky
+- George Clooney
+- George Lucas
 - George Miller
+- George Nolfi
+- Gia Coppola
+- Gina Prince-Bythewood
 - Gints Zilbalodis
+- Giuseppe Tornatore
+- Glenn Ficarra
 - Gore Verbinski
 - Greg Mottola
+- Greg Tiernan
 - Greta Gerwig
 - Guillermo del Toro
+- Gus Van Sant
 - Guy Hamilton
 - Guy Maddin
 - Guy Ritchie
+- Halina Reijn
+- Harald Zwart
+- Hayao Miyazaki
+- Henry Joost
 - Hikari
 - Howard Deutch
 - Ilya Naishuller
+- Irvin Kershner
+- Ivan Reitman
+- J. A. Bayona
 - J.C. Chandor
+- J.J. Abrams
 - Jacques Audiard
+- Jake Kasdan
 - Jake Schreier
 - James Cameron
+- James Franco
+- James Gray
 - James Griffiths
 - James Gunn
 - James Mangold
+- James Marsh
+- James McTeigue
+- James Ponsoldt
 - James Vanderbilt
+- James Wan
 - James Ward Byrkit
 - James Watkins
+- Jan de Bont
+- Jane Campion
+- Janicza Bravo
+- Jared Hess
 - Jason Orley
+- Jason Reitman
+- Jason S.
+- Jason Woliner
 - Jaume Collet-Serra
 - Jay Roach
+- Jean-Marc Vallée
 - Jean-Pierre Jeunet
+- Jeff Fowler
 - Jeff Nichols
+- Jeff Orlowski
+- Jeff Rowe
+- Jeff Tomsic
+- Jeff Tremaine
+- Jeff Wadlow
 - Jeffrey Doe
+- Jenny Popplewell
+- Jeremy Saulnier
 - Jesse Armstrong
 - Jesse Eisenberg
 - Jesse Moss
+- Jim Jarmusch
 - Jim Rash
+- Jimmy Chin
+- Joachim Trier
 - Joanna Hogg
+- Joe Carnahan
+- Joe Cornish
+- Joe Johnston
 - Joe Loncraine
 - Joe Russo
+- Joe Talbot
+- Joe Wright
 - Joel Coen
 - Joel Crawford
+- Joel Edgerton
 - Joel Schumacher
 - John Badham
 - John Carney
+- John Crowley
 - John Francis Daley
+- John G. Avildsen
 - John Glen
+- John Hillcoat
+- John Krasinski
+- John Krokidas
+- John Lasseter
+- John Lee Hancock
+- John Maclean
+- John McTiernan
+- John Michael McDonagh
+- John Moore
+- John Musker
 - John Patton Ford
+- John Singleton
+- John Wells
+- John Woo
 - Jon Favreau
 - Jon M. Chu
+- Jon S. Baird
+- Jon Turteltaub
+- Jon Watts
+- Jonah Hill
 - Jonathan Glazer
+- Jonathan Levine
+- Jonathan Liebesman
+- Jonathan Mostow
 - Jordan Peele
+- Jordan Vogt-Roberts
+- Joseph Gordon-Levitt
 - Joseph Kosinski
+- Josh Cooley
 - Josh Margolin
 - Josh Safdie
+- Josh Trank
 - Joshua Baker
+- Joss Whedon
+- Judd Apatow
+- Juel Taylor
+- Julia Ducournau
+- Juliano Luccas
 - Julius Onah
 - Justin Kurzel
+- Justin Lin
+- Justin Martin
 - Justine Triet
 - Kane Parsons
 - Kathryn Bigelow
+- Kelly Fremon Craig
 - Kelly Marcel
 - Kelly Reichardt
+- Kemp Powers
+- Ken Loach
+- Kenneth Branagh
+- Kenneth Lonergan
+- Kevin Greutert
 - Kirk Jones
+- Kogonada
 - Kristoffer Borgli
 - Kyle Balda
+- Lana Wachowski
+- Larry Charles
+- Lars von Trier
 - Laura McGann
+- Laura Poitras
+- Laurent Bouzereau
+- Lawrence Michael Levine
+- Lee Isaac Chung
+- Lee Unkrich
+- Leigh Whannell
 - Len Wiseman
 - Lena Dunham
+- Lenny Abrahamson
+- Lilly Wachowski
+- Lisa Cholodenko
+- Lisa Joy
+- Lone Scherfig
+- Lorene Scafaria
+- Louis Leterrier
+- Luc Besson
 - Luca Guadagnino
 - Lucky Kuswandi
+- Lulu Wang
+- Lynne Ramsay
 - M. Night Shyamalan
+- Madeleine Leroyer
 - Malcolm Guy
+- Marc Forster
+- Marc Webb
+- Marielle Heller
+- Mark Gustafson
 - Mark Monroe
+- Mark Mylod
+- Mark Osborne
+- Mark Steven Johnson
+- Mark Waters
+- Martin Campbell
+- Martin McDonagh
 - Martin Scorsese
 - Mary Bronstein
 - Mary Harron
 - Matt Bettinelli-Olpin
 - Matt Johnson
 - Matt Reeves
+- Matt Ross
 - Matt Shakman
 - Matt Spicer
+- Matthew Vaughn
+- Matthew Wade
+- Matthew Warchus
+- Max Barbakow
+- McG
+- Mel Gibson
+- Melina Matsoukas
+- Mia Hansen-Løve
+- Michael Bay
+- Michael Cuesta
 - Michael Curtiz
+- Michael Dougherty
 - Michael Mann
+- Michael Patrick King
 - Michael Sarnoski
+- Michael Showalter
+- Michael Spierig
+- Michaël R. Roskam
+- Michel Gondry
+- Miguel Sapochnik
+- Mike Cahill
 - Mike Flanagan
 - Mike Judge
+- Mike Mills
+- Mike Mitchell
+- Mike Newell
 - Miloš Forman
+- Miranda July
+- Molly Gordon
 - Morgan Neville
+- Morten Tyldum
+- Nancy Meyers
 - Natalie Erika James
+- Neil Burger
 - Neil Jordan
+- Neill Blomkamp
 - Nia DaCosta
+- Nicholas D'Agostino
+- Nicholas Stoller
+- Nick Cassavetes
 - Nick Park
+- Nicolas Winding Refn
+- Nicole Holofcener
+- Nikolaj Arcel
+- Nima Nourizadeh
+- Ning Haiqiang
+- Noah Baumbach
 - Nora Fingscheidt
+- Ol Parker
 - Oliver Hermanus
+- Oliver Parker
+- Oliver Stone
 - Olivia Wilde
+- Olivier Assayas
+- Olivier Megaton
 - Omar Parker
 - Osgood Perkins
+- Otto Bathurst
+- Pablo Larraín
 - Paloma Castro
+- Paolo Sorrentino
 - Park Chan-wook
 - Parker Finn
+- Patrick Hughes
+- Patty Jenkins
+- Paul Dano
 - Paul Feig
+- Paul Greengrass
 - Paul King
+- Paul Schrader
 - Paul Thomas Anderson
+- Paul Verhoeven
+- Paul W. S. Anderson
+- Paul Weitz
 - Pedro Sotero
 - Pete Docter
+- Pete Travis
+- Peter Berg
+- Peter Farrelly
+- Peter Jackson
+- Peter Segal
 - Peter Weir
+- Peyton Reed
 - Phil Lord
+- Philip Barantini
+- Phillip Noyce
+- Phyllida Lloyd
+- Pierre Coffin
+- Pierre Morel
 - Quentin Tarantino
+- Raine Allen-Miller
+- Ramin Bahrani
 - Randall Park
+- Rawson Marshall Thurber
+- Reinaldo Marcus Green
+- Renny Harlin
 - Rian Johnson
 - Ribal Chedid
+- Ric Roman Waugh
+- Richard Curtis
+- Richard Donner
+- Richard Kelly
 - Richard Linklater
+- Richard Marquand
 - Ridley Scott
+- Riley Stearns
+- Roar Uthaug
+- Rob Cohen
+- Rob Letterman
+- Rob Marshall
 - Rob Reiner
 - Robert Eggers
+- Robert Iscove
+- Robert Luketic
+- Robert Rodriguez
+- Robert Schwentke
+- Robert Zemeckis
+- Roger Melvin
 - Roger Spottiswoode
 - Rok Biček
+- Roland Emmerich
 - Roman Polanski
 - Ron Howard
 - Rose Glass
+- Ruben Fleischer
+- Ruben Östlund
+- Rupert Sanders
+- Rupert Wyatt
 - Ryan Coogler
+- Ryan Fleck
 - Sam Esmail
+- Sam Fell
+- Sam Liu
 - Sam Mendes
 - Sam Raimi
+- Sara Dosa
+- Sarah Polley
 - Scott Beck
+- Scott Cooper
+- Scott Derrickson
+- Scott Moore
+- Scott Stewart
+- Sean Anders
 - Sean Baker
 - Sean Durkin
+- Sean Penn
+- Sebastian Schipper
+- Sebastián Lelio
 - Sergio Leone
+- Seth Gordon
+- Seth MacFarlane
+- Shaka King
+- Shane Black
+- Sharon Maguire
 - Shawn Levy
+- Sian Heder
 - Sidney Lumet
+- Simon Kinberg
+- Simon West
 - Sofia Coppola
+- Spike Jonze
+- Spike Lee
 - Stanley Donen
 - Stanley Kubrick
 - Stefan Molina
+- Stefano Sollima
+- Stephen Chbosky
+- Stephen Daldry
+- Stephen Frears
+- Stephen Merchant
+- Stephen Norrington
+- Stephen Sommers
 - Steve Box
 - Steve Jamison
+- Steve McQueen
+- Steve Pink
+- Steven Caple Jr.
+- Steven Quale
+- Steven S. DeKnight
 - Steven Soderbergh
 - Steven Spielberg
 - Susanna Fogel
+- Susanne Bier
+- Sylvester Stallone
 - Taika Waititi
+- Tate Taylor
+- Taylor Sheridan
 - Terence Young
 - Terrence Malick
 - Thea Sharrock
+- Theodore Melfi
+- Thomas C. Grane
+- Thomas Vinterberg
+- Ti West
+- Tim Burton
+- Tim Miller
+- Tim Story
+- Tim Wardle
+- Timur Bekmambetov
+- Tina Satter
+- Todd Field
 - Todd Haynes
 - Todd Phillips
+- Tom Ford
+- Tom George
+- Tom Gormican
+- Tom Hooper
+- Tom McCarthy
 - Tomas Alfredson
+- Tony Gilroy
+- Tony Scott
+- Travis Knight
+- Trey Parker
+- Tuchí Ortiz
+- Tyler Gillett
+- Tyler Nilson
+- Valerie Faris
 - Victoria Mahoney
+- Vince Gilligan
+- Vincent Coen
 - Vladimir Rozin
+- Wally Pfister
+- Wayne Capps
 - Wes Anderson
 - Wes Ball
+- Will Gluck
+- Will Merrick
+- Will Speck
+- Wolfgang Petersen
 - Woody Allen
+- Xavier Dolan
+- Yann Demange
 - Yorgos Lanthimos
+- Yukiyasu Shimada
+- Zach Braff
 - Zach Cregger
 - Zack Snyder
+- Zhang Yimou
+- Ása Hjörleifsdóttir
