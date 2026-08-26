@@ -1,0 +1,193 @@
+---
+top_genres:
+- name: Drama
+  count: 70
+- name: Comedy
+  count: 66
+- name: Thriller
+  count: 51
+- name: Adventure
+  count: 35
+- name: Science Fiction
+  count: 33
+- name: Action
+  count: 32
+- name: Crime
+  count: 24
+- name: Horror
+  count: 23
+top_directors:
+- name: Danny Boyle
+  count: 3
+- name: Yorgos Lanthimos
+  count: 3
+- name: Paul Feig
+  count: 3
+- name: Steven Soderbergh
+  count: 2
+- name: Christopher Nolan
+  count: 2
+- name: Guy Hamilton
+  count: 2
+- name: David Frankel
+  count: 2
+- name: Bong Joon Ho
+  count: 2
+all_directors:
+- Aaron Schimberg
+- Adrian Choa
+- Alfred Hitchcock
+- Andrew Adamson
+- Andrew Haigh
+- Ari Aster
+- Arthur Bourbon
+- Arthur Bradford
+- Audrey Collins
+- Bart Layton
+- Ben Affleck
+- Ben Hutchison
+- Bernard MacMahon
+- Bernardo Britto
+- Bong Joon Ho
+- Celine Song
+- Chris Miller
+- Christopher McQuarrie
+- Christopher Nolan
+- Colin Butfield
+- Colin Trevorrow
+- Coralie Fargeat
+- Cord Jefferson
+- Dan Berk
+- Danny Boyle
+- Danny Philippou
+- Darren Aronofsky
+- David Frankel
+- David Freyne
+- David Lowery
+- David Lynch
+- David Mackenzie
+- David Yates
+- David Zucker
+- Denis Villeneuve
+- Derek Cianfrance
+- Destin Daniel Cretton
+- Dougal Wilson
+- Douglas Trumbull
+- Drew Hancock
+- Edgar Wright
+- Eduardo Zuno Valladolid
+- Edward Berger
+- Eva Victor
+- Francis Lawrence
+- Gavin O'Connor
+- George Miller
+- Gints Zilbalodis
+- Gore Verbinski
+- Guillermo del Toro
+- Guy Hamilton
+- Guy Maddin
+- Guy Ritchie
+- Hikari
+- Howard Deutch
+- J.C. Chandor
+- Jacques Audiard
+- Jake Schreier
+- James Cameron
+- James Griffiths
+- James Gunn
+- James Mangold
+- James Vanderbilt
+- Jason Orley
+- Jaume Collet-Serra
+- Jay Roach
+- Jeff Nichols
+- Jeffrey Doe
+- Jesse Armstrong
+- Jesse Eisenberg
+- Joe Loncraine
+- Joel Coen
+- Joel Crawford
+- John Badham
+- John Glen
+- John Patton Ford
+- Jon Favreau
+- Jon M. Chu
+- Jonathan Glazer
+- Joseph Kosinski
+- Josh Margolin
+- Josh Safdie
+- Joshua Baker
+- Julius Onah
+- Justin Kurzel
+- Kane Parsons
+- Kathryn Bigelow
+- Kelly Marcel
+- Kelly Reichardt
+- Kirk Jones
+- Kristoffer Borgli
+- Kyle Balda
+- Laura McGann
+- Len Wiseman
+- Lena Dunham
+- Luca Guadagnino
+- Lucky Kuswandi
+- Malcolm Guy
+- Martin Scorsese
+- Mary Bronstein
+- Matt Bettinelli-Olpin
+- Matt Johnson
+- Matt Shakman
+- Matt Spicer
+- Michael Mann
+- Michael Sarnoski
+- Mike Flanagan
+- Morgan Neville
+- Natalie Erika James
+- Neil Jordan
+- Nia DaCosta
+- Nick Park
+- Nora Fingscheidt
+- Oliver Hermanus
+- Olivia Wilde
+- Omar Parker
+- Osgood Perkins
+- Paloma Castro
+- Park Chan-wook
+- Parker Finn
+- Paul Feig
+- Paul King
+- Paul Thomas Anderson
+- Pete Docter
+- Peter Weir
+- Phil Lord
+- Randall Park
+- Rian Johnson
+- Richard Linklater
+- Ridley Scott
+- Rob Reiner
+- Robert Eggers
+- Ron Howard
+- Rose Glass
+- Ryan Coogler
+- Sam Mendes
+- Sam Raimi
+- Scott Beck
+- Sean Baker
+- Sean Durkin
+- Sergio Leone
+- Sidney Lumet
+- Sofia Coppola
+- Stanley Donen
+- Stefan Molina
+- Steve Box
+- Steve Jamison
+- Steven Soderbergh
+- Steven Spielberg
+- Susanna Fogel
+- Taika Waititi
+- Terence Young
+- Todd Phillips
+- Tomas Alfredson
+- Victoria Mahoney
+- Woody Allen
+- Yorgos Lanthimos
