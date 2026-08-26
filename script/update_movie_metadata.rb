@@ -75,10 +75,11 @@ diary_films = movies.map { |m| [m["title"], m["year"]] }
 favorite_films = favorites.map { |f| [f["title"], f["year"]] }
 films = (diary_films + favorite_films).uniq
 # A film "needs" a lookup if it's not cached at all, OR if it's cached from
-# before "runtime"/"countries" were added below - re-fetching those for
-# already-cached films costs nothing extra since they come from the same
-# /movie/{id} response already being made for genres/poster.
-new_films = films.reject { |title, year| metadata["#{title}|#{year}"]&.key?("runtime") }
+# before "runtime"/"countries"/"director_gender" were added below -
+# re-fetching those for already-cached films costs nothing extra since they
+# come from the same /movie/{id} and /credits responses already being made
+# for genres/poster/director.
+new_films = films.reject { |title, year| metadata["#{title}|#{year}"]&.key?("director_gender") }
 
 puts "#{films.size} unique films, #{new_films.size} not yet cached"
 
@@ -95,6 +96,10 @@ new_films.each do |title, year|
   metadata[key] = {
     "genres" => full && full["genres"] ? full["genres"].map { |g| g["name"] } : [],
     "director" => director && director["name"],
+    # TMDB's credits response already tags each crew member with a gender
+    # code (0 unspecified, 1 female, 2 male, 3 non-binary) - free from the
+    # same call, no extra request needed to build a "top women directors" list.
+    "director_gender" => director && director["gender"],
     "poster" => full && full["poster_path"] ? "#{POSTER_BASE}#{full['poster_path']}" : nil,
     "runtime" => full && full["runtime"],
     "countries" => full && full["production_countries"] ? full["production_countries"].map { |c| c["name"] } : [],
@@ -112,6 +117,7 @@ puts "Wrote #{metadata.size} cached films to #{METADATA_PATH}"
 
 genre_counts = Hash.new(0)
 director_counts = Hash.new(0)
+director_genders = {}
 country_counts = Hash.new(0)
 
 films.each do |title, year|
@@ -119,9 +125,15 @@ films.each do |title, year|
   next unless data
 
   (data["genres"] || []).each { |g| genre_counts[g] += 1 }
-  director_counts[data["director"]] += 1 if data["director"]
+  if data["director"]
+    director_counts[data["director"]] += 1
+    director_genders[data["director"]] = data["director_gender"]
+  end
   (data["countries"] || []).each { |c| country_counts[c] += 1 }
 end
+
+# TMDB gender code 1 = female.
+women_director_counts = director_counts.select { |name, _| director_genders[name] == 1 }
 
 # Hours watched counts every logged watch (a rewatch counts its runtime
 # again), unlike the other stats which count each unique film once - so this
@@ -139,6 +151,7 @@ stats = {
   "country_count" => with_commas.call(country_counts.keys.size),
   "top_genres" => top.call(genre_counts, 8),
   "top_directors" => top.call(director_counts, 8),
+  "top_women_directors" => top.call(women_director_counts, 4),
   # Full sorted director list for the page's filter dropdown - computed here
   # rather than in Liquid, which has no clean way to dedupe/sort a field
   # that lives in a separate joined data file.

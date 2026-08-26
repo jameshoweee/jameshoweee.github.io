@@ -67,6 +67,11 @@ A diary of what I've watched, pulled automatically from [Letterboxd](https://let
     <div class="tags">
       {% for d in site.data.movie_stats.top_directors %}<span>{{ d.name }} ({{ d.count }})</span>{% endfor %}
     </div>
+    {% if site.data.movie_stats.top_women_directors.size > 0 %}
+    <div class="tags">
+      {% for d in site.data.movie_stats.top_women_directors %}<span>&#9792; {{ d.name }} ({{ d.count }})</span>{% endfor %}
+    </div>
+    {% endif %}
   </div>
   {% endif %}
 </div>
