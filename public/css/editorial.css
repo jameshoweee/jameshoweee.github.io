@@ -220,6 +220,12 @@ h1, h2, h3, h4, h5, h6 {
 .tags + .tags {
   margin-top: 8px;
 }
+.tags-blue span {
+  border-color: color-mix(in srgb, var(--border) 92%, dodgerblue 8%);
+}
+.tags-pink span {
+  border-color: color-mix(in srgb, var(--border) 92%, deeppink 8%);
+}
 
 /* ===================== Recent ===================== */
 

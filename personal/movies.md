@@ -64,12 +64,12 @@ A diary of what I've watched, pulled automatically from [Letterboxd](https://let
   {% if site.data.movie_stats.top_directors.size > 0 %}
   <div>
     <div class="section-label">Favorite Directors</div>
-    <div class="tags">
+    <div class="tags tags-blue">
       {% for d in site.data.movie_stats.top_directors %}<span>{{ d.name }} ({{ d.count }})</span>{% endfor %}
     </div>
     {% if site.data.movie_stats.top_women_directors.size > 0 %}
-    <div class="tags">
-      {% for d in site.data.movie_stats.top_women_directors %}<span>&#9792; {{ d.name }} ({{ d.count }})</span>{% endfor %}
+    <div class="tags tags-pink">
+      {% for d in site.data.movie_stats.top_women_directors %}<span>{{ d.name }} ({{ d.count }})</span>{% endfor %}
     </div>
     {% endif %}
   </div>
