@@ -35,10 +35,13 @@ entries = CSV.read(diary_path, headers: true).map do |row|
   }
 end
 
-# Tiebreak on title so same-day entries sort deterministically, matching
+# Tiebreak on title+year so same-day entries sort deterministically, matching
 # script/update_movies.rb's ordering (otherwise the merge script would see
-# a spurious "change" on its first run for no actual data reason).
-entries.sort_by! { |e| [e["watched_date"], e["title"]] }
+# a spurious "change" on its first run for no actual data reason). Title
+# alone isn't enough - two different films can share a title (e.g. the 2014
+# "Next Goal Wins" documentary and the 2023 film of the same name, watched
+# the same day).
+entries.sort_by! { |e| [e["watched_date"], e["title"], e["year"]] }
 entries.reverse!
 
 out_path = File.join(__dir__, "..", "_data", "movies.yml")

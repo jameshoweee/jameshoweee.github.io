@@ -50,10 +50,12 @@ by_key = {}
 existing.each { |e| by_key[key.call(e)] = e }
 feed_entries.each { |e| by_key[key.call(e)] = e }
 
-# Tiebreak on title too: without a secondary key, entries watched on the same
-# date can silently reorder between runs (Ruby's sort isn't stable for ties),
-# which made the file "change" every run even with no new data.
-merged = by_key.values.sort_by { |e| [e["watched_date"], e["title"]] }.reverse
+# Tiebreak on title+year too: without a secondary key, entries watched on the
+# same date can silently reorder between runs (Ruby's sort isn't stable for
+# ties), which made the file "change" every run even with no new data. Title
+# alone isn't enough - two different films can share a title (e.g. the 2014
+# "Next Goal Wins" documentary and the 2023 film of the same name).
+merged = by_key.values.sort_by { |e| [e["watched_date"], e["title"], e["year"]] }.reverse
 
 if merged != existing
   File.write(DATA_PATH, merged.to_yaml)
