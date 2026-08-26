@@ -7,6 +7,28 @@ nav: false
 
 A diary of what I've watched, pulled automatically from [Letterboxd](https://letterboxd.com/jhowe/).
 
+{% assign stats = site.data.movie_stats %}
+{% if stats.film_count %}
+<div class="movie-stats">
+  <div class="stat">
+    <div class="stat-number">{{ stats.film_count }}</div>
+    <div class="stat-label">Films</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number">{{ stats.hours_watched }}</div>
+    <div class="stat-label">Hours</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number">{{ stats.director_count }}</div>
+    <div class="stat-label">Directors</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number">{{ stats.country_count }}</div>
+    <div class="stat-label">Countries</div>
+  </div>
+</div>
+{% endif %}
+
 {% assign favorites = site.data.favorites %}
 {% if favorites.size > 0 %}
 <div class="section-label">Four Favorites</div>

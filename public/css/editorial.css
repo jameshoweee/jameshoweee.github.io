@@ -370,6 +370,38 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.movie-stats {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+.movie-stats .stat-number {
+  font-family: "Newsreader", serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.1;
+}
+.movie-stats .stat-label {
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+@media (max-width: 560px) {
+  .movie-stats {
+    gap: 14px;
+  }
+  .movie-stats .stat-number {
+    font-size: 16px;
+  }
+  .movie-stats .stat-label {
+    font-size: 9px;
+  }
+}
+
 .movie-favorites {
   display: flex;
   flex-wrap: wrap;

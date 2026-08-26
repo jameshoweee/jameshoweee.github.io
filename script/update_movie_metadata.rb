@@ -74,7 +74,11 @@ metadata = File.exist?(METADATA_PATH) ? (YAML.load_file(METADATA_PATH) || {}) : 
 diary_films = movies.map { |m| [m["title"], m["year"]] }
 favorite_films = favorites.map { |f| [f["title"], f["year"]] }
 films = (diary_films + favorite_films).uniq
-new_films = films.reject { |title, year| metadata.key?("#{title}|#{year}") }
+# A film "needs" a lookup if it's not cached at all, OR if it's cached from
+# before "runtime"/"countries" were added below - re-fetching those for
+# already-cached films costs nothing extra since they come from the same
+# /movie/{id} response already being made for genres/poster.
+new_films = films.reject { |title, year| metadata["#{title}|#{year}"]&.key?("runtime") }
 
 puts "#{films.size} unique films, #{new_films.size} not yet cached"
 
@@ -92,6 +96,8 @@ new_films.each do |title, year|
     "genres" => full && full["genres"] ? full["genres"].map { |g| g["name"] } : [],
     "director" => director && director["name"],
     "poster" => full && full["poster_path"] ? "#{POSTER_BASE}#{full['poster_path']}" : nil,
+    "runtime" => full && full["runtime"],
+    "countries" => full && full["production_countries"] ? full["production_countries"].map { |c| c["name"] } : [],
   }
 
   print "."
@@ -106,6 +112,7 @@ puts "Wrote #{metadata.size} cached films to #{METADATA_PATH}"
 
 genre_counts = Hash.new(0)
 director_counts = Hash.new(0)
+country_counts = Hash.new(0)
 
 films.each do |title, year|
   data = metadata["#{title}|#{year}"]
@@ -113,11 +120,23 @@ films.each do |title, year|
 
   (data["genres"] || []).each { |g| genre_counts[g] += 1 }
   director_counts[data["director"]] += 1 if data["director"]
+  (data["countries"] || []).each { |c| country_counts[c] += 1 }
 end
 
+# Hours watched counts every logged watch (a rewatch counts its runtime
+# again), unlike the other stats which count each unique film once - so this
+# sums over the diary rows in movies.yml, not the deduped `films` list.
+total_minutes = diary_films.sum { |title, year| metadata["#{title}|#{year}"]&.fetch("runtime", nil) || 0 }
+
 top = ->(counts, n) { counts.sort_by { |_, c| -c }.first(n).map { |name, count| { "name" => name, "count" => count } } }
+# Liquid has no built-in thousands-separator filter, so format for display here.
+with_commas = ->(n) { n.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\1,').reverse }
 
 stats = {
+  "film_count" => with_commas.call(films.size),
+  "hours_watched" => with_commas.call((total_minutes / 60.0).round),
+  "director_count" => with_commas.call(director_counts.keys.size),
+  "country_count" => with_commas.call(country_counts.keys.size),
   "top_genres" => top.call(genre_counts, 8),
   "top_directors" => top.call(director_counts, 8),
   # Full sorted director list for the page's filter dropdown - computed here
