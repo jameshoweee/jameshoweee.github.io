@@ -1,6 +1,6 @@
 ---
-film_count: '1,307'
-hours_watched: '2,482'
+film_count: '1,306'
+hours_watched: '2,480'
 director_count: '653'
 country_count: '53'
 top_genres:
@@ -37,6 +37,15 @@ top_directors:
   count: 9
 - name: Paul Thomas Anderson
   count: 9
+top_women_directors:
+- name: Lana Wachowski
+  count: 6
+- name: Sofia Coppola
+  count: 5
+- name: Kathryn Bigelow
+  count: 4
+- name: Joanna Hogg
+  count: 3
 all_directors:
 - Aaron Horvath
 - Aaron Nee
@@ -76,10 +85,10 @@ all_directors:
 - Andy Serkis
 - Aneesh Chaganty
 - Ang Lee
-- Anna Boden
 - Anna Rose Holmer
 - Antoine Fuqua
 - Ari Aster
+- Ariel Schulman
 - Armando Iannucci
 - Arthur Bourbon
 - Arthur Bradford
@@ -276,7 +285,6 @@ all_directors:
 - Halina Reijn
 - Harald Zwart
 - Hayao Miyazaki
-- Henry Joost
 - Hikari
 - Howard Deutch
 - Hugh Welchman
@@ -459,6 +467,7 @@ all_directors:
 - McG
 - Mel Gibson
 - Melina Matsoukas
+- Merlin Crossingham
 - Mia Hansen-Løve
 - Michael Bay
 - Michael Cuesta
@@ -472,6 +481,7 @@ all_directors:
 - Michaël R. Roskam
 - Michel Gondry
 - Miguel Sapochnik
+- Mike Brett
 - Mike Cahill
 - Mike Flanagan
 - Mike Judge
@@ -492,7 +502,6 @@ all_directors:
 - Nicholas D'Agostino
 - Nicholas Stoller
 - Nick Cassavetes
-- Nick Park
 - Nicolas Winding Refn
 - Nicole Holofcener
 - Nikolaj Arcel
@@ -603,6 +612,7 @@ all_directors:
 - Sergio Leone
 - Seth Gordon
 - Seth MacFarlane
+- Seth Rogen
 - Shaka King
 - Shane Black
 - Sharon Maguire
@@ -625,7 +635,6 @@ all_directors:
 - Stephen Norrington
 - Stephen Sommers
 - Steve Box
-- Steve Jamison
 - Steve McQueen
 - Steve Pink
 - Steven Caple Jr.
@@ -666,9 +675,9 @@ all_directors:
 - Travis Knight
 - Trey Parker
 - Tuchí Ortiz
-- Tyler Gillett
 - Tyler Nilson
 - Valerie Faris
+- Vicky Jenson
 - Victoria Mahoney
 - Vince Gilligan
 - Vincent Coen
