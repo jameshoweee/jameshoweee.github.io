@@ -4,8 +4,9 @@
 # films aren't re-queried on every run (TMDB is free but rate-limited, and most
 # runs only add a handful of new films).
 #
-# Requires TMDB_API_KEY in the environment (a TMDB v3 API key - see
-# themoviedb.org account settings -> API).
+# Requires TMDB_API_KEY in the environment - either a v3 API key or a v4 Read
+# Access Token both work, since requests are authenticated via the
+# Authorization header (see themoviedb.org account settings -> API).
 #
 # Also writes a pre-computed _data/movie_stats.yml with top genres/directors,
 # since counting a multi-valued field (a film can have several genres) per
@@ -26,11 +27,35 @@ STATS_PATH = File.join(__dir__, "..", "_data", "movie_stats.yml")
 POSTER_BASE = "https://image.tmdb.org/t/p/w500"
 
 $tmdb_errors_logged = 0
+# TMDB has two credential styles: a v3 API key (passed as ?api_key=) and a v4
+# Read Access Token (passed as an Authorization: Bearer header). Since either
+# could be what's stored in the secret, try Bearer first and fall back to the
+# query-param style rather than guessing which one was configured.
+$tmdb_auth_style = :bearer
 
 def tmdb_get(path, params)
   uri = URI("https://api.themoviedb.org/3#{path}")
-  uri.query = URI.encode_www_form(params.merge(api_key: API_KEY))
-  response = Net::HTTP.get_response(uri)
+  request_with = lambda do |style|
+    u = uri.dup
+    req_params = params.dup
+    headers = {}
+    if style == :bearer
+      headers["Authorization"] = "Bearer #{API_KEY}"
+    else
+      req_params[:api_key] = API_KEY
+    end
+    u.query = URI.encode_www_form(req_params)
+    Net::HTTP.start(u.host, u.port, use_ssl: true) do |http|
+      http.get(u.request_uri, headers)
+    end
+  end
+
+  response = request_with.call($tmdb_auth_style)
+  if response.code == "401" && $tmdb_auth_style == :bearer
+    $tmdb_auth_style = :api_key
+    response = request_with.call($tmdb_auth_style)
+  end
+
   unless response.is_a?(Net::HTTPSuccess)
     if $tmdb_errors_logged < 3
       warn "TMDB request failed: #{path} -> #{response.code} #{response.body&.slice(0, 300)}"

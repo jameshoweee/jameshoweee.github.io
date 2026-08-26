@@ -9,6 +9,7 @@ A diary of what I've watched, pulled automatically from [Letterboxd](https://let
 
 {% assign favorites = site.data.favorites %}
 {% if favorites.size > 0 %}
+<div class="section-label">Four Favorites</div>
 <div class="favorite-films">
   {% for film in favorites %}
   {% assign fav_key = film.title | append: "|" | append: film.year %}
@@ -26,42 +27,6 @@ A diary of what I've watched, pulled automatically from [Letterboxd](https://let
 {% endif %}
 
 {% assign movies = site.data.movies | sort: "watched_date" | reverse %}
-{% assign film_groups = movies | group_by: "title" %}
-{% assign liked_movies = movies | where: "liked", true %}
-{% assign rating_sum = 0 %}
-{% assign rating_count = 0 %}
-{% for movie in movies %}
-  {% if movie.rating %}
-    {% assign rating_sum = rating_sum | plus: movie.rating %}
-    {% assign rating_count = rating_count | plus: 1 %}
-  {% endif %}
-{% endfor %}
-{% assign avg_rating = rating_sum | divided_by: rating_count %}
-{% assign oldest = movies | last %}
-
-<div class="movie-stats">
-  <div class="stat">
-    <div class="stat-number">{{ movies.size }}</div>
-    <div class="stat-label">Logged</div>
-  </div>
-  <div class="stat">
-    <div class="stat-number">{{ film_groups.size }}</div>
-    <div class="stat-label">Films</div>
-  </div>
-  <div class="stat">
-    <div class="stat-number">{{ liked_movies.size }}</div>
-    <div class="stat-label">Liked</div>
-  </div>
-  <div class="stat">
-    <div class="stat-number">{{ avg_rating | round: 1 }}</div>
-    <div class="stat-label">Avg Rating</div>
-  </div>
-  <div class="stat">
-    <div class="stat-number">{{ oldest.watched_date | date: "%Y" }}</div>
-    <div class="stat-label">Since</div>
-  </div>
-</div>
-
 {% assign all_directors = site.data.movie_stats.all_directors %}
 
 {% if site.data.movie_stats.top_genres.size > 0 or site.data.movie_stats.top_directors.size > 0 %}
