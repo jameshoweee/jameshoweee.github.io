@@ -1,94 +1,138 @@
 ---
 top_genres:
 - name: Drama
-  count: 70
+  count: 149
 - name: Comedy
-  count: 66
+  count: 108
 - name: Thriller
-  count: 51
-- name: Adventure
-  count: 35
-- name: Science Fiction
-  count: 33
+  count: 92
 - name: Action
-  count: 32
+  count: 62
 - name: Crime
-  count: 24
+  count: 58
+- name: Science Fiction
+  count: 53
+- name: Adventure
+  count: 49
 - name: Horror
-  count: 23
+  count: 42
 top_directors:
-- name: Danny Boyle
-  count: 3
-- name: Yorgos Lanthimos
-  count: 3
-- name: Paul Feig
-  count: 3
-- name: Steven Soderbergh
-  count: 2
 - name: Christopher Nolan
-  count: 2
-- name: Guy Hamilton
-  count: 2
-- name: David Frankel
-  count: 2
-- name: Bong Joon Ho
-  count: 2
+  count: 8
+- name: Paul Thomas Anderson
+  count: 6
+- name: David Lynch
+  count: 5
+- name: Martin Scorsese
+  count: 5
+- name: Alfred Hitchcock
+  count: 5
+- name: Edgar Wright
+  count: 4
+- name: Darren Aronofsky
+  count: 4
+- name: Paul Feig
+  count: 4
 all_directors:
 - Aaron Schimberg
+- Aaron Sorkin
+- Adele Lim
 - Adrian Choa
+- Alex Garland
+- Alexander Payne
+- Alfonso Cuarón
 - Alfred Hitchcock
+- Ali Abbasi
+- Alice Troughton
 - Andrew Adamson
+- Andrew Davis
+- Andrew Dominik
 - Andrew Haigh
+- Anna Rose Holmer
 - Ari Aster
 - Arthur Bourbon
 - Arthur Bradford
+- Arturo Perez Jr.
 - Audrey Collins
 - Bart Layton
+- Baz Luhrmann
 - Ben Affleck
 - Ben Hutchison
+- Benny Safdie
 - Bernard MacMahon
 - Bernardo Britto
+- Bill Forsyth
+- Billy Wilder
+- Bob Persichetti
 - Bong Joon Ho
+- Brett Ratner
+- Cameron Cairnes
+- Carlos López Estrada
 - Celine Song
+- Charles Laughton
+- Charlotte Wells
+- Chloé Zhao
 - Chris Miller
+- Chris Renaud
 - Christopher McQuarrie
 - Christopher Nolan
 - Colin Butfield
 - Colin Trevorrow
 - Coralie Fargeat
 - Cord Jefferson
+- Curtis Hanson
+- Damien Chazelle
 - Dan Berk
+- Daniel Scheinert
 - Danny Boyle
+- Danny LeGare
 - Danny Philippou
 - Darren Aronofsky
+- David Cronenberg
+- David Fincher
 - David Frankel
 - David Freyne
+- David Gelb
+- David Leitch
 - David Lowery
 - David Lynch
 - David Mackenzie
+- David Robert Mitchell
 - David Yates
 - David Zucker
 - Denis Villeneuve
 - Derek Cianfrance
+- Desiree Akhavan
 - Destin Daniel Cretton
+- Dev Patel
 - Dougal Wilson
 - Douglas Trumbull
 - Drew Hancock
 - Edgar Wright
 - Eduardo Zuno Valladolid
 - Edward Berger
+- Emerald Fennell
+- Emma Seligman
+- Ethan Coen
 - Eva Victor
+- Fede Álvarez
+- Francis Ford Coppola
 - Francis Lawrence
+- Frank Pavich
+- Gary Ross
 - Gavin O'Connor
 - George Miller
 - Gints Zilbalodis
 - Gore Verbinski
+- Greg Mottola
+- Greta Gerwig
 - Guillermo del Toro
 - Guy Hamilton
 - Guy Maddin
 - Guy Ritchie
 - Hikari
 - Howard Deutch
+- Ilya Naishuller
 - J.C. Chandor
 - Jacques Audiard
 - Jake Schreier
@@ -97,28 +141,40 @@ all_directors:
 - James Gunn
 - James Mangold
 - James Vanderbilt
+- James Ward Byrkit
+- James Watkins
 - Jason Orley
 - Jaume Collet-Serra
 - Jay Roach
+- Jean-Pierre Jeunet
 - Jeff Nichols
 - Jeffrey Doe
 - Jesse Armstrong
 - Jesse Eisenberg
+- Jesse Moss
+- Jim Rash
+- Joanna Hogg
 - Joe Loncraine
+- Joe Russo
 - Joel Coen
 - Joel Crawford
+- Joel Schumacher
 - John Badham
+- John Carney
+- John Francis Daley
 - John Glen
 - John Patton Ford
 - Jon Favreau
 - Jon M. Chu
 - Jonathan Glazer
+- Jordan Peele
 - Joseph Kosinski
 - Josh Margolin
 - Josh Safdie
 - Joshua Baker
 - Julius Onah
 - Justin Kurzel
+- Justine Triet
 - Kane Parsons
 - Kathryn Bigelow
 - Kelly Marcel
@@ -131,16 +187,23 @@ all_directors:
 - Lena Dunham
 - Luca Guadagnino
 - Lucky Kuswandi
+- M. Night Shyamalan
 - Malcolm Guy
+- Mark Monroe
 - Martin Scorsese
 - Mary Bronstein
+- Mary Harron
 - Matt Bettinelli-Olpin
 - Matt Johnson
+- Matt Reeves
 - Matt Shakman
 - Matt Spicer
+- Michael Curtiz
 - Michael Mann
 - Michael Sarnoski
 - Mike Flanagan
+- Mike Judge
+- Miloš Forman
 - Morgan Neville
 - Natalie Erika James
 - Neil Jordan
@@ -157,27 +220,36 @@ all_directors:
 - Paul Feig
 - Paul King
 - Paul Thomas Anderson
+- Pedro Sotero
 - Pete Docter
 - Peter Weir
 - Phil Lord
+- Quentin Tarantino
 - Randall Park
 - Rian Johnson
+- Ribal Chedid
 - Richard Linklater
 - Ridley Scott
 - Rob Reiner
 - Robert Eggers
+- Roger Spottiswoode
+- Rok Biček
+- Roman Polanski
 - Ron Howard
 - Rose Glass
 - Ryan Coogler
+- Sam Esmail
 - Sam Mendes
 - Sam Raimi
 - Scott Beck
 - Sean Baker
 - Sean Durkin
 - Sergio Leone
+- Shawn Levy
 - Sidney Lumet
 - Sofia Coppola
 - Stanley Donen
+- Stanley Kubrick
 - Stefan Molina
 - Steve Box
 - Steve Jamison
@@ -186,8 +258,16 @@ all_directors:
 - Susanna Fogel
 - Taika Waititi
 - Terence Young
+- Terrence Malick
+- Thea Sharrock
+- Todd Haynes
 - Todd Phillips
 - Tomas Alfredson
 - Victoria Mahoney
+- Vladimir Rozin
+- Wes Anderson
+- Wes Ball
 - Woody Allen
 - Yorgos Lanthimos
+- Zach Cregger
+- Zack Snyder
