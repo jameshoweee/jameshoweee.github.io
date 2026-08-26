@@ -25,11 +25,19 @@ METADATA_PATH = File.join(__dir__, "..", "_data", "movie_metadata.yml")
 STATS_PATH = File.join(__dir__, "..", "_data", "movie_stats.yml")
 POSTER_BASE = "https://image.tmdb.org/t/p/w500"
 
+$tmdb_errors_logged = 0
+
 def tmdb_get(path, params)
   uri = URI("https://api.themoviedb.org/3#{path}")
   uri.query = URI.encode_www_form(params.merge(api_key: API_KEY))
   response = Net::HTTP.get_response(uri)
-  return nil unless response.is_a?(Net::HTTPSuccess)
+  unless response.is_a?(Net::HTTPSuccess)
+    if $tmdb_errors_logged < 3
+      warn "TMDB request failed: #{path} -> #{response.code} #{response.body&.slice(0, 300)}"
+      $tmdb_errors_logged += 1
+    end
+    return nil
+  end
 
   JSON.parse(response.body)
 end
