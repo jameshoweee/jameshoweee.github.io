@@ -2,7 +2,7 @@ name: Update movie genres/directors from TMDB
 
 on:
   schedule:
-    - cron: "15 6 * * *" # daily at 06:15 UTC, shortly after the movie diary sync
+    - cron: "32 */6 * * *" # every 6 hours, 15 min after the movie diary sync, offset off the hour
   workflow_dispatch: {}
 
 permissions:
