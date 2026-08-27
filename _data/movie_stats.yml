@@ -1,32 +1,32 @@
 ---
-film_count: '1,307'
-hours_watched: '2,484'
-director_count: '654'
+film_count: '1,311'
+hours_watched: '2,488'
+director_count: '656'
 country_count: '53'
 top_genres:
 - name: Drama
   count: 554
 - name: Action
-  count: 442
+  count: 444
 - name: Comedy
-  count: 378
-- name: Thriller
-  count: 323
+  count: 379
 - name: Adventure
+  count: 324
+- name: Thriller
   count: 323
 - name: Science Fiction
   count: 266
 - name: Crime
-  count: 229
+  count: 231
 - name: Fantasy
   count: 141
 top_directors:
 - name: Ridley Scott
   count: 15
+- name: Martin Scorsese
+  count: 12
 - name: Steven Spielberg
   count: 12
-- name: Martin Scorsese
-  count: 11
 - name: Michael Bay
   count: 11
 - name: Wes Anderson
@@ -59,7 +59,9 @@ all_directors:
 - Adrian Choa
 - Akiva Schaffer
 - Alan Taylor
+- Albert Brooks
 - Alejandro G. Iñárritu
+- Alex De Rakoff
 - Alex Garland
 - Alex Gibney
 - Alex Proyas

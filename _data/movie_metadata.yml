@@ -14237,3 +14237,45 @@ Short Cuts|1993:
   runtime: 188
   countries:
   - United States of America
+'Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese|2019':
+  genres:
+  - Documentary
+  - Music
+  director: Martin Scorsese
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/ixxELBgYj9OH8hz0XCrcZOJpIx9.jpg
+  runtime: 142
+  countries:
+  - United States of America
+Lost in America|1985:
+  genres:
+  - Comedy
+  director: Albert Brooks
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/j7QiwUekGiYOmjKratNORIr35zg.jpg
+  runtime: 91
+  countries:
+  - United States of America
+'Grand Theft Auto VI: An Extended Look|2026':
+  genres:
+  - Action
+  - Adventure
+  - Crime
+  - Animation
+  director:
+  director_gender:
+  poster: https://image.tmdb.org/t/p/w500/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg
+  runtime: 27
+  countries:
+  - United States of America
+'Grand Theft Auto 2: The Movie|1999':
+  genres:
+  - Action
+  - Crime
+  director: Alex De Rakoff
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/qcr5MgBX99gdVdOv6hPCyaidu5C.jpg
+  runtime: 8
+  countries:
+  - United States of America
+  - United Kingdom
