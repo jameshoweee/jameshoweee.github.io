@@ -25,7 +25,7 @@ title: "Dr. James Howe · Cryptography Researcher and Engineer"
 I'm a cryptographer, with a focus on practical implementations, cryptanalysis, and protocols related to post-quantum cryptography. 
 You can find a link to my publications on [Google Scholar](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&hl=en).
 
-I currently lead the cryptography team at [SandboxAQ](https://www.sandboxaq.com/), where I manage our cryptographic research and guide the design and enhancement of our cybersecurity products. My work spans post-quantum cryptography, PQC migration and cryptographic modernization, and strengthening compliance and risk management capabilities.
+I currently lead the cryptography team at [SandboxAQ](https://www.sandboxaq.com/), where I manage our cryptographic research and guide the design and enhancement of our cybersecurity products. My work spans post-quantum cryptography, PQC migration and cryptographic modernisation, and strengthening compliance and risk management capabilities.
 
 At SandboxAQ we have a lot of great opportunities for [Residencies](https://www.sandboxaq.com/company/residencies), which can be for anyone from postgraduates to postdocs, for 3-12 months. Please feel free to get in [contact](https://jameshowe.eu/contact/) to informally enquire, I would be interested in topics (in PQC or others) ranging from FPGA or microcontroller designs, side-channel analysis and countermeasures, protocol design, crypto-agility, and developing our open-source tools at SandboxAQ. We also have other researchers, such as [Martin Albrecht](https://martinralbrecht.wordpress.com/2023/04/25/sandboxaq-internships/), who have other topics in mind.
 
@@ -45,7 +45,7 @@ The focus of my research is mainly based around (but not limited to) post-quantu
 
 <div class="tags" markdown="0">
   <span>Post-Quantum Cryptography</span>
-  <span>PQC Migration &amp; Modernization</span>
+  <span>PQC Migration &amp; Modernisation</span>
   <span>Protocol Design</span>
   <span>FPGA &amp; Embedded Systems</span>
   <span>Software Optimisation</span>

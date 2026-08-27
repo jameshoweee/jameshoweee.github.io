@@ -27,7 +27,7 @@ Along with the main file to run these statistical tests, `saga.py`, we also prov
 
 #### Example for univariate samples
 
-Suppose we want to test the normality of a (Python) list of *univariate* samples stored in `data`, with *expected* center `mu` and *expected* standard deviation `sigma`. This can be done by this snippet of code in Python:
+Suppose we want to test the normality of a (Python) list of *univariate* samples stored in `data`, with *expected* centre `mu` and *expected* standard deviation `sigma`. This can be done by this snippet of code in Python:
 
 ```python
 >>> import saga                      # import the test suite
@@ -60,7 +60,7 @@ This creates an object `res`, and printing `res` gives expected and empiric mome
 
 #### Example for multivariate samples
 
-Now suppose we want to test the normality of a (Python) list of *multivariate* samples stored in `data`, with *expected* center 0 and *expected* standard deviation `sigma`. For simplicity and because it applies to most multivariate samplers, the expected center is always considered as zero. One can still translate the samples if the expected center is (integral) nonzero. For replicability, we generated `data` and `sigma` by parsing raw data contained in the 39.2 MB file `testdata/falcon64_avx2`. The following snippet of code in Python shows the required course of action:
+Now suppose we want to test the normality of a (Python) list of *multivariate* samples stored in `data`, with *expected* centre 0 and *expected* standard deviation `sigma`. For simplicity and because it applies to most multivariate samplers, the expected centre is always considered as zero. One can still translate the samples if the expected centre is (integral) nonzero. For replicability, we generated `data` and `sigma` by parsing raw data contained in the 39.2 MB file `testdata/falcon64_avx2`. The following snippet of code in Python shows the required course of action:
 
 ```python
 >> import saga

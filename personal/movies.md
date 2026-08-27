@@ -31,7 +31,7 @@ A diary of what I've watched, pulled automatically from [Letterboxd](https://let
 
 {% assign favorites = site.data.favorites %}
 {% if favorites.size > 0 %}
-<div class="section-label">Four Favorites</div>
+<div class="section-label">Four Favourites</div>
 <div class="favorite-films">
   {% for film in favorites %}
   {% assign fav_key = film.title | append: "|" | append: film.year %}
@@ -55,7 +55,7 @@ A diary of what I've watched, pulled automatically from [Letterboxd](https://let
 <div class="movie-favorites">
   {% if site.data.movie_stats.top_genres.size > 0 %}
   <div>
-    <div class="section-label">Favorite Genres</div>
+    <div class="section-label">Favourite Genres</div>
     <div class="tags">
       {% for g in site.data.movie_stats.top_genres %}<span>{{ g.name }} ({{ g.count }})</span>{% endfor %}
     </div>
@@ -63,7 +63,7 @@ A diary of what I've watched, pulled automatically from [Letterboxd](https://let
   {% endif %}
   {% if site.data.movie_stats.top_directors.size > 0 %}
   <div>
-    <div class="section-label">Favorite Directors</div>
+    <div class="section-label">Favourite Directors</div>
     <div class="tags tags-blue">
       {% for d in site.data.movie_stats.top_directors %}<span>{{ d.name }} ({{ d.count }})</span>{% endfor %}
     </div>

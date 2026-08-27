@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Dr. James Howe
 tagline:             'Cryptography Researcher and Engineer'
-description:         'James Howe is a post-quantum cryptography researcher and engineer at SandboxAQ, leading PQC migration and cryptographic modernization work, alongside side-channel and fault analysis and protocol design.'
+description:         'James Howe is a post-quantum cryptography researcher and engineer at SandboxAQ, leading PQC migration and cryptographic modernisation work, alongside side-channel and fault analysis and protocol design.'
 url:                 https://jameshowe.eu
 baseurl:             ''
 
