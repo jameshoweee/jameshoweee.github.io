@@ -14227,3 +14227,13 @@ A Beautiful Day in the Neighborhood|2019:
   runtime: 99
   countries:
   - United Kingdom
+Short Cuts|1993:
+  genres:
+  - Drama
+  - Comedy
+  director: Robert Altman
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/mbNTvbtWfV4soyErimDTdX67OAr.jpg
+  runtime: 188
+  countries:
+  - United States of America

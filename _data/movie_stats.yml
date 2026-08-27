@@ -1,15 +1,15 @@
 ---
-film_count: '1,306'
-hours_watched: '2,480'
-director_count: '653'
+film_count: '1,307'
+hours_watched: '2,484'
+director_count: '654'
 country_count: '53'
 top_genres:
 - name: Drama
-  count: 553
+  count: 554
 - name: Action
   count: 442
 - name: Comedy
-  count: 377
+  count: 378
 - name: Thriller
   count: 323
 - name: Adventure
@@ -572,6 +572,7 @@ all_directors:
 - Rob Letterman
 - Rob Marshall
 - Rob Reiner
+- Robert Altman
 - Robert Eggers
 - Robert Iscove
 - Robert Luketic
