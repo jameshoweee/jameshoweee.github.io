@@ -71,7 +71,7 @@ See [*Google Scholar*](https://scholar.google.co.uk/citations?user=LItUNn4AAAAJ&
 
 * Khalid, A., Rafferty, C., Howe, J., Brannigan, S., Liu, W. and O'Neill, M., 2018, October. [*"Error Samplers for Lattice-Based Cryptography - Challenges, Vulnerabilities, and Solutions"*](https://ieeexplore.ieee.org/document/8605725). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 411-414. IEEE.
 
-* Fan, S., Liu, W., Howe, J., Khalid, A., and O'Neill, M., 2018, October. [*"Lightweight Hardware Implementation of R-LWE Lattice-Based Cryptography"*](https://ieeexplore.ieee.org/abstract/document/8605630). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 403-406. IEEE.
+* Fan, S., Liu, W., Howe, J., Khalid, A., and O'Neill, M., 2018, October. [*"Lightweight Hardware Implementation of R-LWE Lattice-Based Cryptography"*](https://ieeexplore.ieee.org/abstract/document/8605630). In 2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), pp. 403-406. IEEE. [[PDF]](files/fan-liu-howe-khalid-oneill-rlwe-2018.pdf)
 
 ### 2017 (PhD Thesis)
 *	Howe, J., 2017, August. [*"Practical Lattice-Based Cryptography in Hardware"*](files/thesis.pdf). PhD thesis at the School of Electronics, Electrical Engineering, and Computer Science, Queen’s University Belfast.
