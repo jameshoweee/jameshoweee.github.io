@@ -1,35 +1,35 @@
 ---
-film_count: '1,311'
-hours_watched: '2,488'
-director_count: '656'
+film_count: '1,313'
+hours_watched: '2,491'
+director_count: '657'
 country_count: '53'
 top_genres:
 - name: Drama
-  count: 554
+  count: 555
 - name: Action
   count: 444
 - name: Comedy
-  count: 379
+  count: 381
 - name: Adventure
-  count: 324
+  count: 325
 - name: Thriller
   count: 323
 - name: Science Fiction
   count: 266
 - name: Crime
-  count: 231
+  count: 232
 - name: Fantasy
   count: 141
 top_directors:
 - name: Ridley Scott
   count: 15
+- name: Wes Anderson
+  count: 12
 - name: Martin Scorsese
   count: 12
 - name: Steven Spielberg
   count: 12
 - name: Michael Bay
-  count: 11
-- name: Wes Anderson
   count: 11
 - name: Christopher Nolan
   count: 10
@@ -187,6 +187,7 @@ all_directors:
 - Darius Marder
 - Darren Aronofsky
 - Darren Lynn Bousman
+- Dave Green
 - David Ayer
 - David Cronenberg
 - David Dobkin

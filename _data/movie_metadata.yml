@@ -14279,3 +14279,25 @@ Lost in America|1985:
   countries:
   - United States of America
   - United Kingdom
+Coyote vs. Acme|2026:
+  genres:
+  - Comedy
+  - Adventure
+  - Family
+  director: Dave Green
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg
+  runtime: 103
+  countries:
+  - United States of America
+Bottle Rocket|1996:
+  genres:
+  - Comedy
+  - Crime
+  - Drama
+  director: Wes Anderson
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg
+  runtime: 91
+  countries:
+  - United States of America
