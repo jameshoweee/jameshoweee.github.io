@@ -1,4 +1,18 @@
 ---
+- title: Coyote vs. Acme
+  year: 2026
+  watched_date: '2026-08-31'
+  rating: 4.0
+  liked: true
+  rewatch: false
+  url: https://letterboxd.com/jhowe/film/coyote-vs-acme/
+- title: Bottle Rocket
+  year: 1996
+  watched_date: '2026-08-31'
+  rating: 3.5
+  liked: true
+  rewatch: false
+  url: https://letterboxd.com/jhowe/film/bottle-rocket-1996/
 - title: 'Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese'
   year: 2019
   watched_date: '2026-08-27'
@@ -1026,15 +1040,15 @@
   watched_date: '2024-12-31'
   rating: 4.0
   liked: true
-  rewatch: true
-  url: https://boxd.it/8frxLx
+  rewatch: false
+  url: https://boxd.it/8frwKj
 - title: After Hours
   year: 1985
   watched_date: '2024-12-31'
   rating: 4.0
   liked: true
-  rewatch: false
-  url: https://boxd.it/8frwKj
+  rewatch: true
+  url: https://boxd.it/8frxLx
 - title: A Different Man
   year: 2024
   watched_date: '2024-12-31'
