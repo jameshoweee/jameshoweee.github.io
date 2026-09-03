@@ -1,7 +1,7 @@
 ---
-film_count: '1,313'
-hours_watched: '2,491'
-director_count: '657'
+film_count: '1,314'
+hours_watched: '2,493'
+director_count: '658'
 country_count: '53'
 top_genres:
 - name: Drama
@@ -191,6 +191,7 @@ all_directors:
 - David Ayer
 - David Cronenberg
 - David Dobkin
+- David Doucette
 - David F. Sandberg
 - David Farrier
 - David Fincher

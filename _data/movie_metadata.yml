@@ -14301,3 +14301,12 @@ Bottle Rocket|1996:
   runtime: 91
   countries:
   - United States of America
+Tuner|2025:
+  genres:
+  - Documentary
+  - Music
+  director: David Doucette
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/3vMS47gDNDPQAYOFOPAYNaGa11T.jpg
+  runtime: 128
+  countries: []
