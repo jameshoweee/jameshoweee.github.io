@@ -14310,3 +14310,13 @@ Tuner|2025:
   poster: https://image.tmdb.org/t/p/w500/3vMS47gDNDPQAYOFOPAYNaGa11T.jpg
   runtime: 128
   countries: []
+'Alan Partridge: Alpha Papa|2013':
+  genres:
+  - Comedy
+  director: Declan Lowney
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/kwIXwAUQKzyJC5Co1eEBCH52WDY.jpg
+  runtime: 90
+  countries:
+  - France
+  - United Kingdom
