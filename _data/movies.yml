@@ -1,4 +1,11 @@
 ---
+- title: 'Alan Partridge: Alpha Papa'
+  year: 2013
+  watched_date: '2026-09-04'
+  rating: 3.5
+  liked: true
+  rewatch: false
+  url: https://letterboxd.com/jhowe/film/alan-partridge-alpha-papa/
 - title: Tuner
   year: 2025
   watched_date: '2026-09-02'
@@ -1047,15 +1054,15 @@
   watched_date: '2024-12-31'
   rating: 4.0
   liked: true
-  rewatch: false
-  url: https://boxd.it/8frwKj
+  rewatch: true
+  url: https://boxd.it/8frxLx
 - title: After Hours
   year: 1985
   watched_date: '2024-12-31'
   rating: 4.0
   liked: true
-  rewatch: true
-  url: https://boxd.it/8frxLx
+  rewatch: false
+  url: https://boxd.it/8frwKj
 - title: A Different Man
   year: 2024
   watched_date: '2024-12-31'
