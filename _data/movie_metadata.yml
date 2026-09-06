@@ -14320,3 +14320,16 @@ Tuner|2025:
   countries:
   - France
   - United Kingdom
+The Zone of Interest|2023:
+  genres:
+  - Drama
+  - History
+  - War
+  director: Jonathan Glazer
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
+  runtime: 105
+  countries:
+  - United States of America
+  - Poland
+  - United Kingdom
