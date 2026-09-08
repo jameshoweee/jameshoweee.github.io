@@ -14333,3 +14333,13 @@ The Zone of Interest|2023:
   - United States of America
   - Poland
   - United Kingdom
+Repo Man|1984:
+  genres:
+  - Comedy
+  - Science Fiction
+  director: Alex Cox
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/bjuu5UceuVUNUjnOC2fBzL3hZKC.jpg
+  runtime: 92
+  countries:
+  - United States of America

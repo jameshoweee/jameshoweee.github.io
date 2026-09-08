@@ -1,7 +1,7 @@
 ---
-film_count: '1,316'
-hours_watched: '2,497'
-director_count: '659'
+film_count: '1,317'
+hours_watched: '2,498'
+director_count: '660'
 country_count: '53'
 top_genres:
 - name: Drama
@@ -9,13 +9,13 @@ top_genres:
 - name: Action
   count: 444
 - name: Comedy
-  count: 382
+  count: 383
 - name: Adventure
   count: 325
 - name: Thriller
   count: 323
 - name: Science Fiction
-  count: 266
+  count: 267
 - name: Crime
   count: 232
 - name: Fantasy
@@ -61,6 +61,7 @@ all_directors:
 - Alan Taylor
 - Albert Brooks
 - Alejandro G. Iñárritu
+- Alex Cox
 - Alex De Rakoff
 - Alex Garland
 - Alex Gibney
