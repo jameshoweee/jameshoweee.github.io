@@ -14343,3 +14343,47 @@ Repo Man|1984:
   runtime: 92
   countries:
   - United States of America
+Wasteman|2025:
+  genres:
+  - Crime
+  - Drama
+  - Thriller
+  director: Cal McMau
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg
+  runtime: 91
+  countries:
+  - United Kingdom
+It's Never Over, Jeff Buckley|2025:
+  genres:
+  - Documentary
+  - Music
+  director: Amy J. Berg
+  director_gender: 1
+  poster: https://image.tmdb.org/t/p/w500/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg
+  runtime: 106
+  countries:
+  - United States of America
+  - United Kingdom
+Hamnet|2025:
+  genres:
+  - Drama
+  - Romance
+  director: Chloé Zhao
+  director_gender: 1
+  poster: https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg
+  runtime: 125
+  countries:
+  - United Kingdom
+  - United States of America
+'EPiC: Elvis Presley in Concert|2025':
+  genres:
+  - Music
+  - Documentary
+  director: Baz Luhrmann
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg
+  runtime: 98
+  countries:
+  - United States of America
+  - Australia
