@@ -1,11 +1,11 @@
 ---
-film_count: '1,321'
-hours_watched: '2,507'
-director_count: '662'
+film_count: '1,322'
+hours_watched: '2,509'
+director_count: '663'
 country_count: '53'
 top_genres:
 - name: Drama
-  count: 558
+  count: 559
 - name: Action
   count: 444
 - name: Comedy
@@ -399,6 +399,7 @@ all_directors:
 - Josh Trank
 - Joshua Baker
 - Joss Whedon
+- Juan Andrés Arango Garcia
 - Judd Apatow
 - Juel Taylor
 - Julia Ducournau
