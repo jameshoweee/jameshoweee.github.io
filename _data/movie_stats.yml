@@ -1,6 +1,6 @@
 ---
-film_count: '1,322'
-hours_watched: '2,509'
+film_count: '1,323'
+hours_watched: '2,510'
 director_count: '663'
 country_count: '53'
 top_genres:
@@ -11,11 +11,11 @@ top_genres:
 - name: Comedy
   count: 383
 - name: Adventure
-  count: 325
+  count: 326
 - name: Thriller
   count: 324
 - name: Science Fiction
-  count: 267
+  count: 268
 - name: Crime
   count: 233
 - name: Fantasy
