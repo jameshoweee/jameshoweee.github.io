@@ -17,7 +17,7 @@
   year: 2025
   watched_date: '2026-09-13'
   rating: 4.0
-  liked: false
+  liked: true
   rewatch: false
   url: https://letterboxd.com/jhowe/film/wasteman/
 - title: It's Never Over, Jeff Buckley
@@ -59,7 +59,7 @@
   year: 2023
   watched_date: '2026-09-05'
   rating: 4.5
-  liked: false
+  liked: true
   rewatch: false
   url: https://letterboxd.com/jhowe/film/the-zone-of-interest/
 - title: 'Alan Partridge: Alpha Papa'
@@ -297,7 +297,7 @@
   year: 2020
   watched_date: '2026-04-19'
   rating: 4.0
-  liked: false
+  liked: true
   rewatch: false
   url: https://letterboxd.com/jhowe/film/soul-2020/
 - title: No Other Choice
@@ -1117,15 +1117,15 @@
   watched_date: '2024-12-31'
   rating: 4.0
   liked: true
-  rewatch: false
-  url: https://boxd.it/8frwKj
+  rewatch: true
+  url: https://boxd.it/8frxLx
 - title: After Hours
   year: 1985
   watched_date: '2024-12-31'
   rating: 4.0
   liked: true
-  rewatch: true
-  url: https://boxd.it/8frxLx
+  rewatch: false
+  url: https://boxd.it/8frwKj
 - title: A Different Man
   year: 2024
   watched_date: '2024-12-31'
