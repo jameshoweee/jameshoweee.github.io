@@ -1,11 +1,11 @@
 ---
-film_count: '1,324'
-hours_watched: '2,512'
-director_count: '664'
+film_count: '1,325'
+hours_watched: '2,514'
+director_count: '665'
 country_count: '53'
 top_genres:
 - name: Drama
-  count: 559
+  count: 560
 - name: Action
   count: 444
 - name: Comedy
@@ -19,7 +19,7 @@ top_genres:
 - name: Crime
   count: 233
 - name: Fantasy
-  count: 141
+  count: 142
 top_directors:
 - name: Ridley Scott
   count: 15
@@ -432,6 +432,7 @@ all_directors:
 - Laurent Bouzereau
 - Lawrence Michael Levine
 - Lee Isaac Chung
+- Lee Toland Krieger
 - Lee Unkrich
 - Leigh Whannell
 - Len Wiseman
