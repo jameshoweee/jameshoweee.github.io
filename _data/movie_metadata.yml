@@ -14445,3 +14445,15 @@ Breathless|1960:
   runtime: 90
   countries:
   - France
+Nouvelle Vague|2025:
+  genres:
+  - Comedy
+  - Drama
+  - History
+  director: Richard Linklater
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/AfE7DZ0DPgme6I58dlYp1Bo9xeN.jpg
+  runtime: 106
+  countries:
+  - France
+  - United States of America
