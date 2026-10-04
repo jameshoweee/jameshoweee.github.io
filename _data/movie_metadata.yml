@@ -14457,3 +14457,13 @@ Nouvelle Vague|2025:
   countries:
   - France
   - United States of America
+Mayday|2026:
+  genres:
+  - Action
+  - Comedy
+  director: Jonathan Goldstein
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/sKIO6oO1GRCVt9Ag2iIBAdCjUj.jpg
+  runtime: 111
+  countries:
+  - United States of America

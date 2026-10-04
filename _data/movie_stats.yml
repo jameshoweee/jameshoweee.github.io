@@ -1,15 +1,15 @@
 ---
-film_count: '1,327'
-hours_watched: '2,517'
-director_count: '666'
+film_count: '1,328'
+hours_watched: '2,519'
+director_count: '667'
 country_count: '53'
 top_genres:
 - name: Drama
   count: 562
 - name: Action
-  count: 444
+  count: 445
 - name: Comedy
-  count: 385
+  count: 386
 - name: Adventure
   count: 326
 - name: Thriller
@@ -388,6 +388,7 @@ all_directors:
 - Jon Watts
 - Jonah Hill
 - Jonathan Glazer
+- Jonathan Goldstein
 - Jonathan Levine
 - Jonathan Liebesman
 - Jonathan Mostow
