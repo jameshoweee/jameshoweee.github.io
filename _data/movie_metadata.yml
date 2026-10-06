@@ -14467,3 +14467,12 @@ Mayday|2026:
   runtime: 111
   countries:
   - United States of America
+Everyone Is Lying to You for Money|2025:
+  genres:
+  - Documentary
+  director: Ben McKenzie
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/pkppk6J9ieH4VU9g5ISDY7XFKjK.jpg
+  runtime: 90
+  countries:
+  - United States of America
