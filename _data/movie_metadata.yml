@@ -14476,3 +14476,14 @@ Everyone Is Lying to You for Money|2025:
   runtime: 90
   countries:
   - United States of America
+Before Sunrise|1995:
+  genres:
+  - Drama
+  - Romance
+  director: Richard Linklater
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg
+  runtime: 101
+  countries:
+  - Austria
+  - United States of America
