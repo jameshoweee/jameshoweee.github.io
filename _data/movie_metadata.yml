@@ -14487,3 +14487,16 @@ Before Sunrise|1995:
   countries:
   - Austria
   - United States of America
+Minions & Monsters|2026:
+  genres:
+  - Adventure
+  - Animation
+  - Comedy
+  - Family
+  - Fantasy
+  director: Pierre Coffin
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg
+  runtime: 90
+  countries:
+  - United States of America

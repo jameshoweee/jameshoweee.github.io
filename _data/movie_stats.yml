@@ -1,6 +1,6 @@
 ---
-film_count: '1,330'
-hours_watched: '2,521'
+film_count: '1,331'
+hours_watched: '2,522'
 director_count: '668'
 country_count: '54'
 top_genres:
@@ -9,9 +9,9 @@ top_genres:
 - name: Action
   count: 445
 - name: Comedy
-  count: 386
+  count: 387
 - name: Adventure
-  count: 326
+  count: 327
 - name: Thriller
   count: 324
 - name: Science Fiction
@@ -19,7 +19,7 @@ top_genres:
 - name: Crime
   count: 234
 - name: Fantasy
-  count: 142
+  count: 143
 top_directors:
 - name: Ridley Scott
   count: 15
