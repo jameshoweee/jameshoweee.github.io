@@ -14500,3 +14500,27 @@ Minions & Monsters|2026:
   runtime: 90
   countries:
   - United States of America
+Tenzing|2026:
+  genres:
+  - Drama
+  - History
+  director: Jennifer Peedom
+  director_gender: 1
+  poster: https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg
+  runtime: 126
+  countries:
+  - Australia
+  - United Kingdom
+  - United States of America
+The Princess Bride|1987:
+  genres:
+  - Fantasy
+  - Comedy
+  - Romance
+  - Adventure
+  director: Rob Reiner
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
+  runtime: 99
+  countries:
+  - United States of America
