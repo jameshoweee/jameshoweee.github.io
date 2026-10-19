@@ -1,15 +1,15 @@
 ---
-film_count: '1,333'
-hours_watched: '2,526'
+film_count: '1,334'
+hours_watched: '2,528'
 director_count: '669'
 country_count: '54'
 top_genres:
 - name: Drama
-  count: 564
+  count: 565
 - name: Action
   count: 445
 - name: Comedy
-  count: 388
+  count: 389
 - name: Adventure
   count: 328
 - name: Thriller
