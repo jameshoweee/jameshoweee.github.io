@@ -14535,3 +14535,13 @@ Tony|2026:
   countries:
   - United States of America
   - Canada
+Primetime|2026:
+  genres:
+  - Thriller
+  - Drama
+  director: Lance Oppenheim
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg
+  runtime: 110
+  countries:
+  - United States of America
