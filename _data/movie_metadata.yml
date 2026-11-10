@@ -14545,3 +14545,12 @@ Primetime|2026:
   runtime: 110
   countries:
   - United States of America
+Musk|2026:
+  genres:
+  - Documentary
+  director: Alex Gibney
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg
+  runtime: 238
+  countries:
+  - United States of America
