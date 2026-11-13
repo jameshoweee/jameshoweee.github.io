@@ -14554,3 +14554,14 @@ Musk|2026:
   runtime: 238
   countries:
   - United States of America
+I Want Your Sex|2026:
+  genres:
+  - Comedy
+  - Thriller
+  - Mystery
+  director: Gregg Araki
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg
+  runtime: 90
+  countries:
+  - United States of America
