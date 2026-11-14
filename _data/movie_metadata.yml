@@ -14565,3 +14565,15 @@ I Want Your Sex|2026:
   runtime: 90
   countries:
   - United States of America
+Wicker|2026:
+  genres:
+  - Romance
+  - Fantasy
+  - Comedy
+  director: Alex Huston Fischer
+  director_gender: 0
+  poster: https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg
+  runtime: 105
+  countries:
+  - United Kingdom
+  - United States of America
