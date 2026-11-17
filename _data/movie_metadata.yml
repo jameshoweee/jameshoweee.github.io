@@ -14577,3 +14577,12 @@ Wicker|2026:
   countries:
   - United Kingdom
   - United States of America
+Young Frankenstein|1974:
+  genres:
+  - Comedy
+  director: Mel Brooks
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/3BvvVKPg9yucChlSvQtJxAbLmj9.jpg
+  runtime: 106
+  countries:
+  - United States of America
