@@ -14586,3 +14586,12 @@ Young Frankenstein|1974:
   runtime: 106
   countries:
   - United States of America
+You Can See Everything|2026:
+  genres:
+  - Documentary
+  director: Nathan Fielder
+  director_gender: 2
+  poster: https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg
+  runtime: 175
+  countries:
+  - United States

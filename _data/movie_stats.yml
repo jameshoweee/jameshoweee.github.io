@@ -1,8 +1,8 @@
 ---
-film_count: '1,339'
-hours_watched: '2,541'
-director_count: '673'
-country_count: '54'
+film_count: '1,340'
+hours_watched: '2,544'
+director_count: '674'
+country_count: '55'
 top_genres:
 - name: Drama
   count: 566
@@ -33,7 +33,7 @@ top_directors:
   count: 11
 - name: Christopher Nolan
   count: 10
-- name: Guillermo del Toro
+- name: Paul Thomas Anderson
   count: 9
 - name: Joel Coen
   count: 9
@@ -514,6 +514,7 @@ all_directors:
 - Morten Tyldum
 - Nancy Meyers
 - Natalie Erika James
+- Nathan Fielder
 - Neil Burger
 - Neil Jordan
 - Neill Blomkamp
